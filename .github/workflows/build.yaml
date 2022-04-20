@@ -32,6 +32,7 @@ jobs:
 
       - name: Build ebooks
         run: |-
+          rm -rf dist/
           mkdir -p dist/markdown
           mkdir -p dist/epub
 
@@ -39,8 +40,8 @@ jobs:
           ls -1 Saisons/ | xargs -I{} bash -c 'cat Saisons/{}/* > dist/markdown/{}.md'
 
           # create epubs
-          ls -1 dist/markdown/ | xargs -I{} bash -c "ebook-convert dist/markdown/{} dist/markdown/{}.epub --max-toc-links 0 --markdown-extensions meta,toc --toc-filter '^(\[.*|GENERIQUE|Générique|FIN)'"
-          rename 's/\.md//' dist/markdown/*.epub
+          ls -1 dist/markdown/ | xargs -I{} bash -c "ebook-convert dist/markdown/{} dist/epub/{}.epub --max-toc-links 0 --markdown-extensions meta,toc --toc-filter '^(\[.*|GENERIQUE|Générique|FIN)'"
+          rename 's/\.md//' dist/epub/*.epub
 
           git status -sb
           git add dist
