@@ -25,6 +25,11 @@ jobs:
         run: |-
           sudo apt-get --yes install calibre rename
 
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
       - name: Build ebooks
         run: |-
           mkdir -p dist/markdown
