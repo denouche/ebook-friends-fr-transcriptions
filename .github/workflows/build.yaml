@@ -26,23 +26,16 @@ jobs:
           sudo apt-get --yes install calibre rename
 
       - name: setup git config
-        run: |
+        run: |-
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
       - name: Build ebooks
         run: |-
-          rm -rf dist/
-          mkdir -p dist/markdown
-          mkdir -p dist/epub
+          ./scripts/build.sh
 
-          # create merged markdown files
-          ls -1 Saisons/ | xargs -I{} bash -c 'cat Saisons/{}/* > dist/markdown/{}.md'
-
-          # create epubs
-          ls -1 dist/markdown/ | xargs -I{} bash -c "ebook-convert dist/markdown/{} dist/epub/{}.epub --max-toc-links 0 --markdown-extensions meta,toc --toc-filter '^(\[.*|GENERIQUE|Générique|FIN)'"
-          rename 's/\.md//' dist/epub/*.epub
-
+      - name: Commit dist files
+        run: |-
           git status -sb
           git add dist
           git commit -m'chore: update dist files [skip ci]'

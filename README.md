@@ -1,4 +1,4 @@
-# friends-fr-transcriptions
+# Ebook Friends French transcriptions
 
 Ce projet rassemble les transcriptions en Français de toutes les saisons de la série Friends.
 
