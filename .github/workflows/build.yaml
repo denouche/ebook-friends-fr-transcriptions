@@ -32,7 +32,7 @@ jobs:
 
       - name: Build ebooks
         run: |-
-          ./scripts/build.sh
+          make build
 
       - name: Commit dist files
         run: |-
