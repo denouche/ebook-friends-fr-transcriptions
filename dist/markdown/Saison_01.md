@@ -1948,8 +1948,6 @@ Traduit par Charlotte Petit
 
 ### [Chandler et Joey LEVENT LE PALET ET S’AGITENT DEVANT LA CAMERA]
 
-### [COUPURE PUBLICITAIRE]
-
 ### SCENE 5: SAllE D’URGENCE
 
 ### [Chandler et Joey guident Ross]
@@ -5204,8 +5202,6 @@ Traduit par Laura Cynober
 
 **Max:** Le premier janvier.
 
-### [Publicité (USA)]
-
 ### [Scène 5: Labo de Max et David. Ils travaillent. Phoebe frappe à la porte]
 
 **Phoebe :** Salut?
@@ -5721,8 +5717,6 @@ Traduit par Laura Cynober
 ### [Joey entre]
 
 **Joey :** Uhhhh... Je vais pisser dans la rue.
-
-### [Publicité]USA
 
 ### [Scène 5: Appartement de Chandler et Joey, le matin. Joey ouvre la porte vêtu de sa robe de chambre- c’est Ross]
 
@@ -7780,8 +7774,6 @@ Traduit par Laura Cynober
 
 **Ross :** Um... uh.... vulve.
 
-### Publicité
-
 ### [Scène: Appartement de Chandler et Joey. Joey et Ross sont là, discutant de ce qui s’est passé la nuit dernière.]
 
 **Joey :** [incrédule] Vulve ?
@@ -9426,8 +9418,6 @@ Traduit par Pascale Joseph
 
 **Rachel :** Ok. [mélangeant les cartes comme une pro, les garçons regardent étonnamment]
 
-### Coupure publicitaire
-
 ### [Temps de pause]
 
 **Ross :** Phoebs doit 7,50 $ . Monica, 10 $. Et Rachel, tu nous dois la bagatelle de 15 $ !
@@ -10953,8 +10943,6 @@ Traduit par Laura Cynober
 **Chandler :** Ça veut dire quoi ? 
 
 **Ross :** Je dois m’en séparer. 
-
-### [Publicité]
 
 ### [Scène 5: Central Perk, un peu plus tard. Les garçons sont assis come les Three Monkeys]
 
