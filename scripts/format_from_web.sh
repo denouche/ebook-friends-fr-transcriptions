@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# this script is used to clean the script source from https://www.fanfr.com/scripts/saison1vf/friendsgeneration2.php?nav=script&version=vf&episodescript=104
+# this script is used to clean the script source from 
+# https://www.fanfr.com/scripts/saison1vf/friendsgeneration2.php?nav=script&version=vf&episodescript=104
 
 # Remplir tous les fichiers Saisons/Saison_XX/xxx.md, puis executer:
 # ./scripts/format_from_web.sh Saisons/Saison_02/*
