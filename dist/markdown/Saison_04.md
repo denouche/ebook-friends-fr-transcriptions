@@ -2373,8 +2373,6 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Il repart de son côté, enervé après lui-même.
 
-### PAUSE PUBLICITAIRE
-
 ### [ Scène : Chez Monica et Rachel, Ross raconte à Monica son nouvel emploi de baby-sitter. ]
 
 **Monica :** N’en fais pas tout un drame ! Je suis sûre que tu exagères;
@@ -5197,8 +5195,6 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Le serveur :** Il a un nom. C’est Dragon. Le vôtre, il est sur votre toque ! C’est fait, la toque ?
 
-### Coupure publicitaire
-
 ### [Scène : Chez Allesandro, la scène se poursuit. Les serveurs sont partis et Monica interroge Joey sur son silence.]
 
 **Monica :** Qu’est-ce qui s’est passé ?
@@ -6721,8 +6717,6 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** T’attends pas à ce que ce soit de sitôt !
 
-### COUPURE PUBLICITAIRE
-
 ### [Anciennement chez Monica et Rachel, maintenant chez Chandler et Joey. Joey, Phoebe, et Ross mangent une pizza lorsque Rachel entre.]
 
 **Rachel :** J’ai le job le plus top ! Un mec à craquer est arrivé et je l’ai habillé toute la journée !
@@ -7383,8 +7377,6 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** C’est qui, Emily ? [elle réalises] Nonnnn !
 
-### Coupure publicitaire
-
 ### [Chez Joey et Chandler, anciennement chez Monica et Rachel, la scène continue]
 
 **Rachel :** Que font-ils là-bas ? [elle bouge violemment ses bras et frappe Chandler]
@@ -7984,8 +7976,6 @@ Traduit par Stéphan Levine et Pauline Raoult
 **Rachel :** Un chien devait le regarder.
 
 ### [Ross se tourne et veux attaquer Rachel mais Joey l’arrête.]
-
-### Coupure publicitaire
 
 ### [Le parc. Tout le monde s’échauffe pour la partie de rugby. Sauf Joey et Phoebe qui sont venus supporter Ross.]
 

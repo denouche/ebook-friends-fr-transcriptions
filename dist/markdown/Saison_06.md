@@ -7169,8 +7169,6 @@ Traduit par Guillaume Martin
 
 **Rachel:** Elle est... morte, Jill.
 
-### Publicité
-
 ### [Scène : Monica and Chandler, Chandler s’est endormi en lisant son livre. Monica l’appelle de la chambre et le réveille.]
 
 **Monica:** (toujours malade) Chandler !
@@ -7702,8 +7700,6 @@ Traduit par Guillaume Martin
 **Joey:** Faites marche arrière que je puisse voir. Marche arrière !
 
 **Phoebe:** (entrant) Salut ! Quoi de neuf ? (Elle voit la télé.) Oh mon Dieu ! Qu’est-ce que je fais ? !
-
-### Publicité
 
 ### [Scène : Chez Monica and Chandler, Chandler lit Bouillon de poule pour l’âme.]
 
@@ -8262,8 +8258,6 @@ Traduit par Guillaume Martin
 **Phoebe:** Alors, c’est une crise cardiaque. (Prend une autre bouffée de cigarette.)
 
 **Monica:** Oh mon Dieu !
-
-### Publicité
 
 ### [Scène : Un hôpital, Phoebe se remet de sa crise cardiaque, Ross, Monica et Chandler sont là pour la soutenir et la réconforter.]
 
@@ -8834,8 +8828,6 @@ Traduit par Guillaume Martin
 **Chandler:** (sensuel) Oui ?
 
 **Monica:** Ca c’est le canapé.
-
-### Publicité
 
 ### [Scène : Chambre de Monica, elle vient juste de donner sa fleur à Chandler.]
 
@@ -13309,8 +13301,6 @@ Traduit par Charlotte Petit
 
 **Phoebe :** Oh mon Dieu !! (elle lui court après, mais déclenche l’alarme, ce qui verrouille la porte du magasin et fait descendre un ensemble de barres derrière elle, l’enfermant à l’intérieur.) Non ! Quoi ?! Aidez-moi ! Laissez-moi sortir ! Maintenant ! (les menace avec le mousquet.)
 
-### Coupure publicitaire
-
 ### [Scène: Chez Joey et Rachel, Paul pleure quand Chandler entre.]
 
 **Paul:** Rachel ?
@@ -13960,8 +13950,6 @@ Traduit par Amandine Chambert
 ### Maître d’hôtel: (en montrant la table à coté de celle de Monica et Chandler) Ou si vous voulez cette table est libre.
 
 **Richard:** Ça pourrait être sympa. (Richard and Lisa s’assoient.)
-
-### Coupure publicitaire
 
 ### [Scène: Le gala de charité, Rachel, Phoebe, et Joey sont assis à table.]
 

@@ -6449,21 +6449,19 @@ Traduit par Laura Cynober
 
 **Quatuor, chantant :** Bravo pour ta 1ère semaine A ton nouveau job
 
-### C’est bientôt toi
+C’est bientôt toi
 
-### Qui seras le boss
+Qui seras le boss
 
-### Et tu sais qui sera toujours
+Et tu sais qui sera toujours
 
-### A tes côtés ?
+A tes côtés ?
 
-### Ton unique jules
+Ton unique jules
 
-### C’est chouette, un jules !
+C’est chouette, un jules !
 
-### Ton loyal et fidèle jules Ross
-
-### PUBLICITE
+Ton loyal et fidèle jules Ross
 
 ### [Scène : chez Monica et Rachel, Rachel et Ross entre dans le salon]
 
@@ -8055,8 +8053,6 @@ Traduit par Isabelle Juhasz
 
 ### Rachel (restant derrière, après une longue pause). Non (elle prend une autre pause et souffle). Une pause dans notre relation. (Ross est surpris, la regarde un moment, puis s’en va en claquant la porte).
 
-### PUBLICITE
-
 ### [Scène : chez Philly, Chloé est au bar et discute avec Chandler et Joey, qui ne semblent pas intéressés par ce qu’elle dit]
 
 **Chloe :** On a fait des progrès depuis 5 ans. On vient de recevoir une X-5000. Cette X-5000 transforme une X-50 en T-71 .(elle se tourne en riant vers Chandler, qui émet un grognement en colère, puis, Chloé remarque que Ross arrive).Monsieur Dinosaure ! (elle se dirige vers lui)
@@ -8977,8 +8973,6 @@ Traduit par Isabelle Juhasz
 
 **Chandler :** Mon briquet est dedans.
 
-### PUBLICITE
-
 ### [Scène : sur l’aire de repos, Chandler essayes d’allumer sa cigarette au pot d’échappement.]
 
 ### Chandler (il donne un coup de pied dans la pare-choc de colère) : Le pot d’échappement est pas assez chaud pour allumer.
@@ -9649,8 +9643,6 @@ Traduit par Laura Cynober
 
 ### (alors que Phoebe reste planté là, choquée et n’y croyant pas, Chandler sort de la salle de bain et se dirige vers sa chambre. Il sort de la douche et il porte une serviette enroulée autour de sa poitrine, et une autre sur sa tête, comme le font les femmes. Joey regarde Chandler en se demandant ce qu’il fout.)
 
-### PUBLICITE
-
 ### [Scène : chez Phoebe, elle ouvre la porte.]
 
 **Phoebe :** Alice ! Merci d’être venue. J’ai une vraie urgence ménagère. (elle montre un habit à elle sur la table avec une énorme tache de moutarde dessus.)
@@ -10060,8 +10052,6 @@ Traduit par Laura Cynober
 ### (Rachel sort de son appartement, suivie de Mark, et ils vont à leur rendez-vous, sans dire un mot à Ross. Ross est abasourdi)
 
 **Chandler :** Est-ce qu’il y a une chance pour que tu n’ai rien vu?
-
-### PUBLICITE
 
 ### [Scène : chez Joey et Chandler, Chandler regarde un match de basket, Ross est planté derrière le judas.]
 
@@ -11819,8 +11809,6 @@ Traduit par Isabelle Juhasz
 
 **Joey :** ( Il vérifie qu’elle n’est pas en train de baver sur sa chemise.) OK. OK. OK ! ( Il l’allonge et la recouvre d’une couverture. )Voilà. Je vais t’allonger les jambes. (Il la regarde. )Bonne nuit, Kate. Fais de beaux rêves. ( Il ramasse une corbeille à papiers ). Je mets ce récipient ici en cas de besoin pressant.
 
-### PAUSE PUBLICITAIRE.
-
 ### [ Scène : Chez Monica et Rachel, le lendemain matin, phoebe est TOUJOURS en attente. ]
 
 **Voix artificielle :** Veuillez ne pas quitter. Votre appel compte pour nous.
@@ -12406,8 +12394,6 @@ Traduit par Laura Cynober
 **Monica :** C’est la mère de Pete.
 
 ### La bande essaye à nouveau de se cacher.
-
-### PAUSE PUBLICITAIRE
 
 ### [ Scène: Toute la bande, de retour de chez pete, se retrouve chez Monica et Rachel. ]
 

@@ -5007,8 +5007,6 @@ Traduit par Maud Fournier
 
 **Joey:** C´est moi, Joey. je suis un dégueulasse, quoi. Je tourne des films porno amateurs. (il pointe son index vers Chandler, comme il fait toujours quand il est en colère.)
 
-### PUBLICITE (USA)
-
 ### [Scène: l’appartement de Chandler, Joey et Ross; suite de la scène précédente. Joey ferme la porte, Rachel vient de s’en aller et il est prêt à faire leur fête à Chandler et Monica.]
 
 **Joey:** Vous m’aviez promis de faire attention! L´honnête nom de Joey est traîné dans la boue!
@@ -5598,8 +5596,6 @@ Traduit par Maud Fournier
 **Danny:** T’es morte ! Je t’aurai. (Il commence à la poursuivre en courant autour de Rachel deux ou trois fois jusqu’à ce qu’elle coure dans le salon et qu’il la plaque sur le canapé où il commence à la chatouiller.)
 
 **Rachel:** (ne sait pas quoi faire) Euh, je suis heureuse de t’avoir rencontré. (Ils continuent de l’ignorer.)
-
-### PUBLICITE (USA)
 
 ### [Scène: Chez Monica et Rachel, Phoebe se plaint auprès de Ross et Monica de l’histoire avec le seau.]
 
@@ -6713,8 +6709,6 @@ Traduit par Miss Peggy
 
 ### (Ils se retournent tous, une expression de choc sur leur visage, et regardent Ross. Ross ne dit rien.)
 
-### Publicité
-
 ### [Scene: Chez Chandler, Joey, and Ross, Suite de la scène précédente.]
 
 **Janice:** Euh-oh ok. Euh-oh ok. Je sais ce que vous pensez. Mais Chandler est au Yemen! Je suis jeune! J’ai des besoins! Je ne peux pas attendre indéfiniment!
@@ -7294,8 +7288,6 @@ Traduit par Miss Peggy
 ### (Ils regardent vers l’endroit où il était.)
 
 **Joey:** (s’approche, portant les lunettes) Hé, les mecs, regardez ça. Regardez ça. (Bouge sa main en avant et en arrière devant ses yeux.) C’est comme si elle venait vers moi. (Chandler l’aide un peu en lui donnant un coup de coude, ce qui envoie la main de Joey en pleine figure.)
-
-### Publicité
 
 ### [Scene: Les funérailles, suite. Phoebe revient après avoir cherché son père.]
 
@@ -8960,8 +8952,6 @@ Traduit par Maud Fournier
 **Joey:** (d’une voix sexy) Ça gaze?
 
 ### (Rachel est sous le choc.)
-
-### PUBLICITE
 
 ### [Scène: A l’extérieur du Central Perk, Phoebe arrive et remarque une voiture garée sur le trottoir, juste devant la porte, ce qui gêne les gens voulant entrer dans le Central Perk.]
 
