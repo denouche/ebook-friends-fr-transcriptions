@@ -11,3 +11,8 @@ Le dossier [dist/](dist) contient les versions buildées automatiquement en Mark
 ## Contribuer
 
 N'hésitez pas à faire une PR si vous repérez une erreur. Les fichiers à modifier sont dans le dossier [Saisons/](Saisons). Le reste est construit automatiquement une fois la PR mergée.
+
+# Credits
+
+Toutes les textes sont basées sur les transcriptions disponibles sur le site: [http://www.fanfr.com](http://www.fanfr.com)
+
