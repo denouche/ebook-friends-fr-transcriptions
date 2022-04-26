@@ -27,7 +27,7 @@ Traduit par Guillaume Martin
 
 
 
-### [Scène : La chambre d'hôpital de Rachel, Joey déplace la veste de Ross pour attraper un mouchoir pour Rachel et la boîte de la bague de fiançailles tombe de la poche. Joey s'agenouille, ramasse la boîte, l'ouvre et découvre la bague de fiançailles. ]
+### [Scène : La chambre d'hôpital de Rachel, Joey déplace la veste de Ross pour attraper un mouchoir pour Rachel et la boîte de la bague de fiançailles tombe de la poche. Joey s'agenouille, ramasse la boîte, l'ouvre et découvre la bague de fiançailles.]
 
 **Rachel:** Joey.
 
@@ -37,9 +37,9 @@ Traduit par Guillaume Martin
 
 ### (Joey reste bouche bée.)
 
-### [ Plan de Ross qui sort de l'ascenseur un bouquet de fleurs à la main et se dirige vers la chambre de Rachel.]
+### [Plan de Ross qui sort de l'ascenseur un bouquet de fleurs à la main et se dirige vers la chambre de Rachel.]
 
-### [ Retour dans la chambre de Rachel.]
+### [Retour dans la chambre de Rachel.]
 
 **Rachel:** Donc... euh,  je suppose que nous... devons faire une annonce ?
 
@@ -1867,7 +1867,7 @@ Traduit par Guillaume Martin
 
 
 
-### [ Scène : Ross est au Central Perk, Phoebe entre.]
+### [Scène : Ross est au Central Perk, Phoebe entre.]
 
 **Phoebe:** Salut Ross, je suis heureuse que tu sois là, est-ce que tu peux fermer ma fermeture éclaire ?
 
@@ -2015,7 +2015,7 @@ Traduit par Guillaume Martin
 
 **Joey pense :** Cette soirée se passe plutôt bien... le dîner était sympa, nous avons beaucoup de points communs... (Il voit un magazine.) Victoria's secret, euh, nous apprécions les mêmes lectures. (Il se dirige vers un tableau accroché au mur.) Oh, c'est une peinture effrayante... Attends une minute. J'ai déjà été effrayé par cette peinture auparavant. (Il regarde autour de lui.) C'est étrange, ce lieu me semble familier. Je suis déjà venu ici. J'ai déjà vu cette plante étrange auparavant. (C'est un cactus, il le touche.) Aïe ! J'ai déjà fait ça la dernière fois. Oh mince, je suis déjà sorti avec cette fille, nous avons fait l'amour sur ce canapé, puis sur cette chaise, et ensuite... non, nous ne l'avons pas fait là, ce qui est étrange puisque cet endroit paraît parfait. (Il se penche pour regarder, et se pique le cul sur le cactus.) Aïe ! C'est pour ça.
 
-### [ Scène : Ross va voir Mike pour lui expliquer l'attitude de Phoebe.]
+### [Scène : Ross va voir Mike pour lui expliquer l'attitude de Phoebe.]
 
 **Ross:** (Il frappe à la porte de Mike. Celui-ci ouvre.) Salut Mike, désolé d'arriver à l'improviste, je peux entrer ?
 
@@ -2147,7 +2147,7 @@ Traduit par Guillaume Martin
 
 ### (Monica le regarde, et Rachel a envie de rire.)
 
-### [ Scène : L'appartement de Phoebe. Elle attend Mike quand Ross arrive.]
+### [Scène : L'appartement de Phoebe. Elle attend Mike quand Ross arrive.]
 
 **Phoebe:** C'est ouvert.
 
@@ -2249,7 +2249,7 @@ Traduit par Guillaume Martin
 
 ### (Ils s'embrassent. Le téléphone sonne, le répondeur décroche et l'on entend la voix de Ross avec un accent pour se faire passer pour Vicrum : « C'est Vicrum. »)
 
-### [ Scène : Chandler rentre à New York. Monica a préparé une vidéo sur les requins exprès pour lui.]
+### [Scène : Chandler rentre à New York. Monica a préparé une vidéo sur les requins exprès pour lui.]
 
 **Chandler:** Salut chérie, je suis rentré.
 
@@ -4343,7 +4343,7 @@ Traduit par Guillaume Martin
 
 ### (Joey acquiesce.)
 
-**Amy :** Ecoutez, comme vous ne pourriez pas m'empêcher de faire ce que je veux puisque vous seriez mort, je pensais que je pourrais changer son prénom. Je ne suis pas fan d' “ Emily. ”
+**Amy :** Ecoutez, comme vous ne pourriez pas m'empêcher de faire ce que je veux puisque vous seriez mort, je pensais que je pourrais changer son prénom. Je ne suis pas fan d'“ Emily. ”
 
 **Ross :** Emma.
 
@@ -4373,7 +4373,7 @@ Traduit par Guillaume Martin
 
 **Amy :** (désigne Chandler) Ce mec ? Sérieusement ?
 
-### [Plus tard dans la même journée. ]
+### [Plus tard dans la même journée.]
 
 **Monica :** C'est l'heure de passer à table. Attention, nous utilisons notre vaisselle en porcelaine de Chine, et c'est très cher, donc faites attention.
 
@@ -4457,7 +4457,7 @@ Traduit par Guillaume Martin
 
 **Phoebe :** C'est ton film ! (Elle clappe.)
 
-### [Plus tard dans la même journée. Monica ouvre la porte. Chandler est assis dans le couloir. ]
+### [Plus tard dans la même journée. Monica ouvre la porte. Chandler est assis dans le couloir.]
 
 **Monica :** Oh, te voilà. Tu as disparu après le dîner.
 
@@ -4767,7 +4767,7 @@ Traduit par Claire Brunel
 
 **Chandler :** Ok, ah, ah. . . Je trouerais quelque chose.
 
-### [ OPENING CREDITS ]
+### [OPENING CREDITS]
 
 ### [Scène: L'appartement de Ross et  Rachel. Ross est dans le salon en train de changer Emma. Rachel entre elle porte une robe sexy.]
 
@@ -9089,7 +9089,7 @@ Traduit par Sabrina Boully
 
 ### (Elle met une boîte sur ses genoux qui porte une étiquette “Merdes provenant de la rue")
 
-**Ross :** (feignant l' enthousiasme) Oh mon Dieu, merdes de la rue ? (Elle sourit, excitée, mais Ross retourne à son journal)
+**Ross :** (feignant l'enthousiasme) Oh mon Dieu, merdes de la rue ? (Elle sourit, excitée, mais Ross retourne à son journal)
 
 **Phoebe :** Ecoute, Ross, dans cette boîte il y a toutes les choses que j'ai obtenues en agressant les gens et que j'ai trouvé trop spéciales pour vendre... ou fumer (Ross la regarde avec étonnement) Bref, je regardais ce qu'il y avait dedans et j'ai trouvé "Science Boy" (Elle prend quelques feuilles de papier et les tend à Ross)
 
@@ -12897,7 +12897,7 @@ Traduit par Céline Mercel
 
 
 
-### [Scene: Central Perk. Charlie, Joey et Rachel sont assis sur le canapé ]
+### [Scene: Central Perk. Charlie, Joey et Rachel sont assis sur le canapé]
 
 **Charlie:** (Pendant que Joey lui fait un massage) Oh ! Ça fait tellement de bien !
 
@@ -13015,7 +13015,7 @@ Traduit par Céline Mercel
 
 **Ross:** Oouais juste ! Quelle etait la dernière fois qu'il a fait face à  la proposition d'une heure limite pour  un résumé (lui et Chalie rient,alors Joey commence a rire aussi sans raison )Ben, pourquoi est-ce que tu ris ?
 
-**Joey:** C'est juste..... pour voir ce que ça faire d' être un paléonthologue.... c'est marrant , ouais !
+**Joey:** C'est juste..... pour voir ce que ça faire d'être un paléonthologue.... c'est marrant , ouais !
 
 **Charlie:** Donc , tu es candidat pour le discours principal ? Qui prend la decision ?
 
@@ -13093,7 +13093,7 @@ Traduit par Céline Mercel
 
 **Ross:** Oh, ce n'est pas ce que vous voulez...
 
-### [Scene: Boutique, Rachel, Charlie et Phoebe rentrent ]
+### [Scene: Boutique, Rachel, Charlie et Phoebe rentrent]
 
 **Vendeuse:** (à une femme)Encouragement pour Homme ?
 
@@ -13263,7 +13263,7 @@ Traduit par Céline Mercel
 
 **Rachel:** (Hurlant à l'étrangère ) Très bien , vous ça suffit !Alright !
 
-### [Scene: Appartement de Joey. Joey est assis sur son lit et le téléphone sonne ]
+### [Scene: Appartement de Joey. Joey est assis sur son lit et le téléphone sonne]
 
 **Joey:** Allo ?
 
@@ -13291,7 +13291,7 @@ Traduit par Céline Mercel
 
 **Joey:** Uh ! Pas facile ! Oh ! Attend une minute, ça m'est déjà arrivé avant ! Ouais, j'auditionnais pour une pièce et le producteur s'est endormi et...(pause) non un instant.... c'est moi qui moi sui me suis endormi.... ouais, je crois que c'est ça, hé Shakespeare ,pourquoi pas une scène de poursuite  de temps en temps ?
 
-### [Scene: Appartement de Chandler et Monica, Chandler et l'invité sont dans le salon et Monica à la cuisine ]
+### [Scene: Appartement de Chandler et Monica, Chandler et l'invité sont dans le salon et Monica à la cuisine]
 
 **Monica:** Le dîner est prêt les garçons !
 
@@ -13347,7 +13347,7 @@ Traduit par Céline Mercel
 
 **Chandler:** Nous sommes  des amoureux des dents Zack !
 
-### [Scene:A la boutique, Rachel  et Phoebe retournent dans la cabine d'essayage ]
+### [Scene:A la boutique, Rachel  et Phoebe retournent dans la cabine d'essayage]
 
 **Rachel:** Très bien ! Allons-y. Sortons d'ici et voyons si elle a entendu.
 
@@ -13383,7 +13383,7 @@ Traduit par Céline Mercel
 
 **Rachel:** (honteuse) J'essaye...
 
-### [Scene: Bureau du Prof. Sherman. Sherman est toujours endormi sur sa chaise, bloquant la porte ]
+### [Scene: Bureau du Prof. Sherman. Sherman est toujours endormi sur sa chaise, bloquant la porte]
 
 ### (Ross prend sa mallette et essaye de sortir mais il lui tombe dessus, sur ses genoux, ce qui le réveille )
 
@@ -13481,7 +13481,7 @@ Traduit par Céline Mercel
 
 **Rachel:** (avec un air de regret) Le haut de l'iceberg.
 
-### [Retour à Monica et Chandler ]
+### [Retour à Monica et Chandler]
 
 **Zack:** Je vais m'en aller maintenant. Vous allez me laisser partir, non ?
 
@@ -13625,7 +13625,7 @@ Traduit par Sabrina Boully
 
 ### Générique d'ouverture.
 
-### [Scène : Salon de l'hôtel Paradise aux Barbades. ]
+### [Scène : Salon de l'hôtel Paradise aux Barbades.]
 
 **Charlie :** Wouah ! Cet hôtel est magnifique !
 
@@ -14813,7 +14813,7 @@ Traduit par Sabrina Boully
 
 ### [Scène : Bar de l'hôtel, Ross et Mr. Oberblau parlent]
 
-**Mr. Oberblau :** Je dis juste que j'ai une cabine dans l' Adirondacks. Si jamais vous voulez venir, et bien, ce serait (pause) juste parfait !
+**Mr. Oberblau :** Je dis juste que j'ai une cabine dans l'Adirondacks. Si jamais vous voulez venir, et bien, ce serait (pause) juste parfait !
 
 **Ross :** Ooh, bien. Ah, je pense que c'est trop pour moi, je ne dis pas que je n'adorerais pas passer un week-end à la campagne avec un homme bizarre. (Mr. Oberblau glousse)
 

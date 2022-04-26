@@ -147,7 +147,7 @@ Traduit par Gérard Yin et Maud Fournier
 
 **Phoebe :** Um-hmm, ouais. Ils m'ont laissé un message; ils devraient arriver d'ici peu.
 
-**Joey :** Où est la serveuse ?! J' ai la dalle !
+**Joey :** Où est la serveuse ?! J'ai la dalle !
 
 **Chandler :** C'est un buffet, mec.
 
@@ -8903,7 +8903,7 @@ Traduit par Guillaume Martin
 
 **Phoebe:** On y va ! Allez ! On se bouge ! (Elle attrape son manteau.) Allez ! (A un vieil homme qui tient ses chaussures et sa serviette.) Chaussures ! Serviette ! (Elle les prend.) Merci Lou, bonne chance avec ta vésicule. (Elle part.)
 
-### [ Retour dans sa chambre, Ross et Joey l'attendent, assis.]
+### [Retour dans sa chambre, Ross et Joey l'attendent, assis.]
 
 **Ross:** Hé Joey... tu as déjà fait un truc à trois ?
 
@@ -11451,7 +11451,7 @@ Traduit par Guillaume Martin
 
 **Chandler :** Que j'ai acheté pour toi. Je t'ai appris à t'en servir. Tu croyais que c'était une photocopieuse. Ecoute, si je pouvais faire quoi que ce soit, je le ferais. Mais tout le monde peut faire une erreur, hein ?
 
-### [Joey rigole et le troisième série de flash-back commence. Tout d'abord avec The One With The Prom Video. Au Central Perk, Chandler dit à Phoebe combien il déteste le bracelet que Joey lui a acheté. ]
+### [Joey rigole et le troisième série de flash-back commence. Tout d'abord avec The One With The Prom Video. Au Central Perk, Chandler dit à Phoebe combien il déteste le bracelet que Joey lui a acheté.]
 
 **Chandler :** Il aurait pu m'acheter un magnétoscope, ou des clubs de golf, mais non, il a fallu qu'il m'achète la défense anti-femme ! L'horreur de la maison des merdes !
 
@@ -11639,7 +11639,7 @@ Traduit par Guillaume Martin
 
 **Joey:** Regardez moi ! Je suis Chandler ! Pourrais-je porter plus de vêtements ? Peut-être si je ne portais pas de sous-vêtements... Oui. Il fait chaud sous tous ces vêtements. Je ferais mieux de ne pas faire trop de fentes. (Il commence à faire des fentes.)
 
-### [Le suivant est tiré de The One Where Eddie Moves In. C'est la séquence ou Chandler et Joey sont tristes de ne plus vivre ensemble. La musique de fond est All By Myself. ]
+### [Le suivant est tiré de The One Where Eddie Moves In. C'est la séquence ou Chandler et Joey sont tristes de ne plus vivre ensemble. La musique de fond est All By Myself.]
 
 ### [Chez Joey. Il va dire quelque chose à Chandler censé être assis dans l'autre chaise, mais il n'est pas là. Il s'apprête à l'appeler au téléphone mais renonce.]
 
@@ -12391,7 +12391,7 @@ Traduit par Marion Hayot
 
 
 
-### [ Scène: Central Perk, Rachel, Chandler, Monica, et Joey sont là quand Phoebe entre.]
+### [Scène: Central Perk, Rachel, Chandler, Monica, et Joey sont là quand Phoebe entre.]
 
 **Phoebe :** (abattu) Salut, les gars.
 

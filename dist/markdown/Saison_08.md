@@ -1115,7 +1115,7 @@ Traduit par Aurore Piquera
 
 **Rachel:** Rien, Phoebe a fait une petite erreur. Mais tu sais, tu portes souvent ce pull. Tu essayes de battre un record ?
 
-**Tag:** Tu sais, je suis heureux que Phoebe m'ai appelé. (Il approche un tabouret et Rachel s' assois) Je sais que nous avons rompu parce que tu pensais que je n'étais pas assez mûr, mais j'ai beaucoup grandi et je pense que nous devrions nous remettre ensemble.
+**Tag:** Tu sais, je suis heureux que Phoebe m'ai appelé. (Il approche un tabouret et Rachel s'assois) Je sais que nous avons rompu parce que tu pensais que je n'étais pas assez mûr, mais j'ai beaucoup grandi et je pense que nous devrions nous remettre ensemble.
 
 **Rachel:** Oh, ce, ce n'est vraiment pas le bon moment.
 
@@ -6299,7 +6299,7 @@ Traduit par Guillaume Martin
 
 
 
-### [Scène : Central Perk, Rachel regarde autour d'elle, Phoebe revient du comptoir. ]
+### [Scène : Central Perk, Rachel regarde autour d'elle, Phoebe revient du comptoir.]
 
 **Rachel:** Phoebe ?
 
@@ -10869,7 +10869,7 @@ Traduit par Guillaume Martin
 
 **Joey:** Nous les stars essayons de manger équilibré et de faire beaucoup d'exercice.
 
-### [ Une autre série de flash-back débute avec le 521 : Celui qui jouait à la balle, Joey et Ross se lancent une balle.]
+### [Une autre série de flash-back débute avec le 521 : Celui qui jouait à la balle, Joey et Ross se lancent une balle.]
 
 **Joey:** Waou ! Tu te rends compte qu'on se lance cette balle depuis au moins une heure, sans l'avoir laissé tomber ?
 
@@ -11103,7 +11103,7 @@ Traduit par Guillaume Martin
 
 **Ross:** Maquillage !
 
-### [ Le suivant est tiré du 712 : Ceux qui passaient une nuit blanche, Joey et Ross réfléchissent à comment ils vont descendre la dernière partie de l'échelle de secours.]
+### [Le suivant est tiré du 712 : Ceux qui passaient une nuit blanche, Joey et Ross réfléchissent à comment ils vont descendre la dernière partie de l'échelle de secours.]
 
 **Ross:** Bon. Vaut-il mieux que je descende devant toi pour que nous soyons face-à-face, ou derrière toi pour que nous soyons fesse-à-face ?
 
@@ -11127,7 +11127,7 @@ Traduit par Guillaume Martin
 
 **Joey:** Tu sais quand on a parlé du face-à-face, je pense qu'on a pas envisagé ça dans tous les détails.
 
-### [ Le suivant est tiré du 722 : Celui qui rencontrait l'auteur de ses jours.]
+### [Le suivant est tiré du 722 : Celui qui rencontrait l'auteur de ses jours.]
 
 ### [Scène: Central Perk, Phoebe est dans le canapé quand Joey entre en se pavanant.]
 
@@ -11165,7 +11165,7 @@ Traduit par Guillaume Martin
 
 **La journaliste :** Parlons un peu des femmes. Je suis sûre que nos lectrices sont intéressées par votre vie amoureuse.
 
-### [ Nouvelle série de flash-back, qui débute avec le 413 : Celui qui se gourait du tout au tout, Joey dit à Rachel et Phoebe comment il choisit les femmes.]
+### [Nouvelle série de flash-back, qui débute avec le 413 : Celui qui se gourait du tout au tout, Joey dit à Rachel et Phoebe comment il choisit les femmes.]
 
 **Joey:** Voilà comment je fais, je regarde une femme de haut en bas et je dis ensuite, « Salut, ça gaze ? »
 
@@ -11211,7 +11211,7 @@ Traduit par Guillaume Martin
 
 **Rachel:** Non ! ! (Joey recule effrayé.)
 
-### [ Le dernier est tiré du 607 : Celui qui avait une jolie colocataire, Joey a essayé de repousser Janine, mais voyant que cela ne marche pas, il décide de lui en parler.]
+### [Le dernier est tiré du 607 : Celui qui avait une jolie colocataire, Joey a essayé de repousser Janine, mais voyant que cela ne marche pas, il décide de lui en parler.]
 
 **Janine:** Non ! Enfin, tu es un mec gentil, et je suis heureuse d'être ta colocataire et amie. Mais je ne ressens pas ça envers toi.
 
@@ -11537,7 +11537,7 @@ Traduit par Guillaume Martin
 
 **Chandler:** Je ne pense pas que les candidats soient autorisés à parler entre eux.
 
-### [Scène : Chez Monica et Chandler, la fête continue, Rachel se dirige vers Monica et Phoebe. ]
+### [Scène : Chez Monica et Chandler, la fête continue, Rachel se dirige vers Monica et Phoebe.]
 
 **Rachel:** Pourquoi avez-vous invité ma mère ? !
 
@@ -13253,7 +13253,7 @@ Traduit par Gabriela Horber
 
 **Monica:** Ça y est ! La voilà ! C'est tout ce que je voulais !
 
-### [Scène : La chambre de Rachel, le temps passe, Ross masse la hanche de Rachel pour supprimer une crampe, Marc ouvre le rideau de séparation. ]
+### [Scène : La chambre de Rachel, le temps passe, Ross masse la hanche de Rachel pour supprimer une crampe, Marc ouvre le rideau de séparation.]
 
 **Marc:** Je suis désolé. Le docteur a insisté pour que nous fermions le rideau pendant l'examen.
 
@@ -14243,7 +14243,7 @@ Traduit par Guillaume Martin
 
 ### (Joey reste sans voix.)
 
-### [ Plan sur Ross qui sort de l'ascenseur, un bouquet de fleurs à la main, et qui se dirige vers la chambre de Rachel.]
+### [Plan sur Ross qui sort de l'ascenseur, un bouquet de fleurs à la main, et qui se dirige vers la chambre de Rachel.]
 
 ### Générique de fin
 

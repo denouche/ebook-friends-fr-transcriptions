@@ -2251,7 +2251,7 @@ Traduit par Guillaume Martin
 
 **Joey:** Attend ! Terry ! S'il te plaît ! Ecoute, je viens de perdre mon autre job. OK ? Tu n'imagine pas combien j'ai besoin de ce rôle. S'il te plaît, aide-moi, en souvenir du bon vieux temps.
 
-### [ Dans une chambre d'hôpital, décor de Des jours et des vies. Deux infirmières sont devant un lit, sur lequel est allongé un homme dont le visage est entièrement caché par des bandages, et lisent sa feuille de températures. ]
+### [Dans une chambre d'hôpital, décor de Des jours et des vies. Deux infirmières sont devant un lit, sur lequel est allongé un homme dont le visage est entièrement caché par des bandages, et lisent sa feuille de températures.]
 
 ### Infirmière n°1: Ce pauvre homme est dans le coma depuis cinq ans. C'est sans espoir.
 
@@ -3557,7 +3557,7 @@ Traduit par Guillaume Martin
 
 
 
-### [Scène : Chez Joey et Rachel, Joey prend son petit-déjeuner quand Rachel entre, venant juste de se réveiller. ]
+### [Scène : Chez Joey et Rachel, Joey prend son petit-déjeuner quand Rachel entre, venant juste de se réveiller.]
 
 **Joey:** 'Jour !
 
@@ -5663,7 +5663,7 @@ Traduit par Guillaume Martin
 
 **Ross :** Oui Ben. Je suis le représentant du Père Noël pour les États du Sud. Et pour Mexico ! Mais le Père Noël m'a envoyé pour te donner ces cadeaux. (Il essaye de ramasser le sac qui est par terre, mais il n'y arrive pas à cause du costume.) Peut-être la dame m'aidera-t-elle avec ces cadeaux ?
 
-### [ Monica prend le sac, pendant que Ross ferme la porte et frappe Monica avec sa queue. Ils vont dans le salon, et Monica vide le sac.]
+### [Monica prend le sac, pendant que Ross ferme la porte et frappe Monica avec sa queue. Ils vont dans le salon, et Monica vide le sac.]
 
 **Ben :** Waou ! Merci !
 
@@ -5891,7 +5891,7 @@ Traduit par Sandra Dufour
 
 **Chandler :** Eh, goûte moi  ce gâteau !
 
-**Rachel :** Oh, j' aime pas trop ce qui est sucré. Je – (Chandler lui met une fourchette avec du gâteau dans la bouche)- Waouh, c'est si crémeux. Oh, mais c'est le meilleur gâteau que j'ai jamais mangé. Où l'as tu acheté ? (Elle se penche en avant pour trouver  l'étiquette de la boîte) .
+**Rachel :** Oh, j'aime pas trop ce qui est sucré. Je – (Chandler lui met une fourchette avec du gâteau dans la bouche)- Waouh, c'est si crémeux. Oh, mais c'est le meilleur gâteau que j'ai jamais mangé. Où l'as tu acheté ? (Elle se penche en avant pour trouver  l'étiquette de la boîte) .
 
 **Chandler (nerveux) :** C'était devant la porte. Quand je suis rentré. Quelqu'un nous l'a envoyé.
 
@@ -6129,7 +6129,7 @@ Traduit par Sandra Dufour
 
 **Phoebe :** oui...
 
-**David :** euh, je- j'espérais tomber sur toi en venant ici. Je ne savais pas si je devais t'appeler ou non, tu sais, je –je suis en ville seulement pour quelques jours. Et tu sais, je ne voulais pas arriver comme ça dans ta vie, mais je-j ‘avais vraiment envie de te voir et – mais je ne savais pas si t' en avais envie.
+**David :** euh, je- j'espérais tomber sur toi en venant ici. Je ne savais pas si je devais t'appeler ou non, tu sais, je –je suis en ville seulement pour quelques jours. Et tu sais, je ne voulais pas arriver comme ça dans ta vie, mais je-j ‘avais vraiment envie de te voir et – mais je ne savais pas si t'en avais envie.
 
 **Phoebe :** bien sur que j'avais envie de te voir, Je... je pense à toi tout le temps
 
@@ -7097,7 +7097,7 @@ Traduit par Aurore Piquera
 
 **Le Patron:** Alors, normalement, c'est très facile. Vous avez un script que vous lisez pour tenter de vendre autant de toner que possible.
 
-**Phoebe:** D'accord, je peux faire ça. Oh, et au fait, j' adore mon bureau.
+**Phoebe:** D'accord, je peux faire ça. Oh, et au fait, j'adore mon bureau.
 
 **Le Patron:** (En riant.) Pourquoi ne ferions nous pas un essai ?
 
@@ -7149,7 +7149,7 @@ Traduit par Aurore Piquera
 
 **Mr. Geller:** Et bien je ne sais pas ce qu'il y a dans les cartons ici en bas, mais je sais qu'il y a 6 ou 7 fours "cuisine facile" dans le grenier.
 
-**Monica:** J' adorais jouer au restaurant.
+**Monica:** J'adorais jouer au restaurant.
 
 **Ross:** Ouais, pas autant que tu adorais jouer à la dévoreuse de pâte crue.
 

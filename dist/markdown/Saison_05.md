@@ -611,7 +611,7 @@ Traduit par Jean-Philippe Rabian
 
 **Rachel :** Okay.
 
-### (Ross retrouve son manteau et s'aperçoit qu' Emily est là et qu'elle a vu Rachel grimper dans l'avion à sa place.)
+### (Ross retrouve son manteau et s'aperçoit qu'Emily est là et qu'elle a vu Rachel grimper dans l'avion à sa place.)
 
 **Ross :** Emily.
 
@@ -4905,7 +4905,7 @@ Traduit par Maud Fournier
 
 **Ross:** Vraiment ?! Qu'est-ce que tu me proposes Pheebs ? Des trucs du genre euh, "Garez vos sales pattes de ma bouffe ?"
 
-**Chandler:** Dis-moi Ross, quand tu imagines Phoebe vivant dans la rue, est-ce qu'elle est entourée par la troupe d' "Annie" au grand complet ?
+**Chandler:** Dis-moi Ross, quand tu imagines Phoebe vivant dans la rue, est-ce qu'elle est entourée par la troupe d'"Annie" au grand complet ?
 
 **Phoebe:** Okay, ça, ça les éloignera de tes affaires. (écrit un message et la bande le lit.)
 
@@ -5547,7 +5547,7 @@ Traduit par Maud Fournier
 
 **Joey:** Ouais, c'est le euh, jeu auquel on était en train de jouer.
 
-**Chandler:** (sort de sa chambre avec un extincteur, il porte des gants isolants, de cuisine) Oh ouais, c'est génial ! Tu vois, tu prends une balle de tennis, un bol et de l'essence à briquet... [Note de trad: n'essayez pas ça chez vous ! ;-) ] Hop !Hop ! (Il éteint un petit incendie qui s'est rallumé dans sa chambre.)
+**Chandler:** (sort de sa chambre avec un extincteur, il porte des gants isolants, de cuisine) Oh ouais, c'est génial ! Tu vois, tu prends une balle de tennis, un bol et de l'essence à briquet... [Note de trad: n'essayez pas ça chez vous ! ;-)] Hop !Hop ! (Il éteint un petit incendie qui s'est rallumé dans sa chambre.)
 
 **Ross:** Ça va aider ta carrière ?! Hein ? Je pensais que tu voulais être acteur, pas le créateur d'un jeu de cinglés; tu vas te faire poursuivre en justice avec ça !
 
@@ -10273,7 +10273,7 @@ Traduit par Stéphan Levine et Michael Murat
 
 **Joey :** Je te suis plus.
 
-**Ross (après une pause) :** Je pense que, d' une certaine façon, tu as saboté ton essai pour que Ben obtienne le rôle.
+**Ross (après une pause) :** Je pense que, d'une certaine façon, tu as saboté ton essai pour que Ben obtienne le rôle.
 
 **Joey :** Je préfère ton explication. Je suis pas un mauvais acteur. C'est juste que je suis tellement attaché à Ben que je trouvais plus important qu'il réussisse.
 
@@ -10455,7 +10455,7 @@ Traduit par Laura Cynober et Dimitri Bourrié
 
 **Monica :** Mes boucles ! Chandler veut que je les mette.
 
-**Phoebe :** Elles doivent être dans mon sac. Va t' habiller.
+**Phoebe :** Elles doivent être dans mon sac. Va t'habiller.
 
 ### [Phoebe  avance vers Rachel.]
 
@@ -10571,7 +10571,7 @@ Traduit par Laura Cynober et Dimitri Bourrié
 
 **Monica :** (à Chandler) Ça te gêne vraiment ?
 
-**Chandler :** Oui, et ça en gênerait plus d' un ! (à Rachel) Rachel, ça t'a gênée quand Ross flirtait avec d'autres ?
+**Chandler :** Oui, et ça en gênerait plus d'un ! (à Rachel) Rachel, ça t'a gênée quand Ross flirtait avec d'autres ?
 
 **Rachel :** Non, ça m'a gênée quand il a couché avec d'autres.
 
@@ -12595,7 +12595,7 @@ Traduit par Stéphan Levine et Dimitri Bourrié
 
 **Monica :** Tourne-toi ! (Elle attrape Rachel, la fait tomber du canapé par les jambes.) Je vais te mettre des gouttes dans les yeux. (Elle plaque Rachel au sol, prend le flacon de gouttes entre ses dents.)
 
-**Rachel :** (tente d'éviter les gouttes) C'est vrai que tu es d' une force terrifiante !
+**Rachel :** (tente d'éviter les gouttes) C'est vrai que tu es d'une force terrifiante !
 
 **Monica :** (essaye toujours) Il est vide !
 
@@ -13809,7 +13809,7 @@ Traduit par Laura Cynober et Dimitri Bourrié
 
 **Chandler :** La marche nuptiale. Ça te fait peur ?
 
-**Monica :** C'est l' hymne du collège.
+**Monica :** C'est l'hymne du collège.
 
 ### [Une vrai marche nuptiale est jouée de derrière la grande porte d'où la mariée est censée arriver.]
 

@@ -2067,15 +2067,15 @@ Traduit par Stéphan Levine et Marion Bayol
 
 
 
-### [ Scène : Au Central Perk, toute la bande est réunie. Ross tient dans sa main un bout de papier qu'il jette par terre pour essayer d'attirer l'attention de Rachel. ]
+### [Scène : Au Central Perk, toute la bande est réunie. Ross tient dans sa main un bout de papier qu'il jette par terre pour essayer d'attirer l'attention de Rachel.]
 
-**Ross, ramassant le papier :** Tiens, tiens !Qu'est-ce que c'est ?Ah oui, c'est le numéro de téléphone de cette fille. (Rachel l'ignore). C'est bien ça, c'est un numéro de téléphone... qu' une très jolie fille m'a donné. (Il le tient de façon à ce que Rachel puisse le voir. Elle l'ignore touojurs). Rien de spécial. C'est le numéro de chez elle, mais...(Rachel continue à l'ignorer). Oups...!(Il jette le papier sur ses genoux). J'ai failli le perdre ! La belle Amanda me donne son numéro et je le laisse tomber.(Il l'agite devant Rachel. Soudain, Phoebe éternue : Rachel attrape le papier et le donne à Phoebe pour qu'elle se mouche dedans.)
+**Ross, ramassant le papier :** Tiens, tiens !Qu'est-ce que c'est ?Ah oui, c'est le numéro de téléphone de cette fille. (Rachel l'ignore). C'est bien ça, c'est un numéro de téléphone... qu'une très jolie fille m'a donné. (Il le tient de façon à ce que Rachel puisse le voir. Elle l'ignore touojurs). Rien de spécial. C'est le numéro de chez elle, mais...(Rachel continue à l'ignorer). Oups...!(Il jette le papier sur ses genoux). J'ai failli le perdre ! La belle Amanda me donne son numéro et je le laisse tomber.(Il l'agite devant Rachel. Soudain, Phoebe éternue : Rachel attrape le papier et le donne à Phoebe pour qu'elle se mouche dedans.)
 
 **Phoebe:** Merci.
 
 ### GENERIQUE DE DEBUT
 
-### [ Scène : Au Central Perk, le lendemain matin, Chandler, Monica, Ross et Rachel discutent. ]
+### [Scène : Au Central Perk, le lendemain matin, Chandler, Monica, Ross et Rachel discutent.]
 
 **Gunther :** Rachel ?
 
@@ -2149,15 +2149,15 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Joey :** Je te l'avais pas dit ? Toujours en train de frimer !
 
-**Phoebe :** Je dois vous prévenir que j'ai un rhume. Si j'éternue au milieu d' une chanson, ce n'est pas exprès. Sauf au dernier couplet de " Poivre et sel. "(Elle commence à chanter). Chat qui pue, chat qui pue. Qu 'as-tu encore mangé ? (Elle s'arrête). Ça commence pas mal.(Elle recommence à chanter). Chat qui pue...(Elle s'arrête de nouveau). Gunther,sois gentil. Amène-moi un whisky.
+**Phoebe :** Je dois vous prévenir que j'ai un rhume. Si j'éternue au milieu d'une chanson, ce n'est pas exprès. Sauf au dernier couplet de " Poivre et sel. "(Elle commence à chanter). Chat qui pue, chat qui pue. Qu 'as-tu encore mangé ? (Elle s'arrête). Ça commence pas mal.(Elle recommence à chanter). Chat qui pue...(Elle s'arrête de nouveau). Gunther,sois gentil. Amène-moi un whisky.
 
-### [ Scène : Chez Chandler et Joey, Chandler, qui vient de se lever en plein milieu de la nuit, entre dans le salon. ]
+### [Scène : Chez Chandler et Joey, Chandler, qui vient de se lever en plein milieu de la nuit, entre dans le salon.]
 
 ### Chandler (s'apercevant que Kathy est debout, en train de regarder la télé) : Salut !
 
 **Kathy:** Salut !
 
-**Chandler :** A 2h30 du matin, d' habitude, je n'ai pas à me battre pour avoir la télécommande.
+**Chandler :** A 2h30 du matin, d'habitude, je n'ai pas à me battre pour avoir la télécommande.
 
 **Kathy:** Excuse-moi. c'est qu'ils passent un truc avec Ernie Kovacs que je veux absolument voir.
 
@@ -2191,7 +2191,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Chandler :** Les canards savent nager.
 
-### [ Scène : Au Central Perk, le soir suivant. Phoebe termine son concert. ]
+### [Scène : Au Central Perk, le soir suivant. Phoebe termine son concert.]
 
 ### Phoebe (ivre, elle chante) : Mes chaussures collantes. Si collantes, si collantes. Pourquoi me collez-vous aux pieds ? Merci pour l'éclairage.
 
@@ -2243,7 +2243,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Monica (elle se tourne et joue la scène :** "je suis en train d'embrasser quelqu'un" avec ses mains) : Oh, Kathy ! Kathy, je t'aime ! Oh ! (Elle se retourne et s'arrête soudain en s'apercevant que Gunther la regarde fixement).
 
-### [ Scène : Chez Monica et Rachel, Monica et Phoebe discutent ].
+### [Scène : Chez Monica et Rachel, Monica et Phoebe discutent].
 
 **Phoebe :** Faut que j'écrive un truc triste, pour ma voix cassée. Mais j'ai jamais été malheureuse.
 
@@ -2309,7 +2309,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Phoebe :** Je dois y aller aussi. Je chante dans une heure.(Elle se racle la gorge et parle de sa voix habituelle). Venez donc m'écouter. Ecoutez ! (Elle essaye de chanter). Mes chaussures collantes... Mince ! J'ai perdu ma bronchite sexy !
 
-### [ Scène : Ross arrive chez Amanda avec Ben ].
+### [Scène : Ross arrive chez Amanda avec Ben].
 
 ### Amanda (elle ouvre la porte) : Salut !
 
@@ -2339,7 +2339,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Ross :** Qui veut passer des appels longue distance ?
 
-### [ Scène : Dans la rue, Chandler est en train d'acheter son journal lorsqu'il voit passer Kathy faisant son footing].
+### [Scène : Dans la rue, Chandler est en train d'acheter son journal lorsqu'il voit passer Kathy faisant son footing].
 
 **Chandler :** Kathy ! Kathy ! Hé ! Kathy ! Kathy !
 
@@ -2373,7 +2373,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Il repart de son côté, enervé après lui-même.
 
-### [ Scène : Chez Monica et Rachel, Ross raconte à Monica son nouvel emploi de baby-sitter. ]
+### [Scène : Chez Monica et Rachel, Ross raconte à Monica son nouvel emploi de baby-sitter.]
 
 **Monica :** N'en fais pas tout un drame ! Je suis sûre que tu exagères;
 
@@ -2413,7 +2413,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Chandler, riant :** En plein dedans !
 
-### [ Scène : Chez Chandler et Joey, Chandler joue à cache-cache avec le poussin et le canard. ]
+### [Scène : Chez Chandler et Joey, Chandler joue à cache-cache avec le poussin et le canard.]
 
 **Chandler :** Quatre-vingt-dix-neuf... Cent ! Attention, me voilà ! (Il ouvre les yeux et se rend compte que le poussin et le canard sont toujours assis devant lui). Bon ! Je vous explique le principe encore une fois.
 
@@ -2445,7 +2445,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Chandler :** OK.
 
-### [ Scène : Chez Monica et Rachel, Rachel revient d'un rendez-vous avec Josh. Une fois la porte ouverte, elle l'embrasse passionnément. ]
+### [Scène : Chez Monica et Rachel, Rachel revient d'un rendez-vous avec Josh. Une fois la porte ouverte, elle l'embrasse passionnément.]
 
 **Monica, allongée sur le sofa à cause de son rhume :** Ross n'est pas là.
 
@@ -2487,7 +2487,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Pouah ! C'est dégueu !
 
-### [ Scène : dans un nightclub, Chandler dîne avec Joey et Kathy. ]
+### [Scène : dans un nightclub, Chandler dîne avec Joey et Kathy.]
 
 **Kathy :** Regardez la fille ! On voit ses sous-vêtements.
 
@@ -2523,7 +2523,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Joey :** Pas mal du tout. Mais n'en rajoute pas trop.
 
-### [ Scène : Chez Monica et Rachel, Monica et Rachel discutent. ]
+### [Scène : Chez Monica et Rachel, Monica et Rachel discutent.]
 
 **Ross, entrant :** Amanda m'a déposé en voiture. C'est un de ses bons côtés : elle a l'âge de conduire. (A Monica)Je suppose que tu ne viens pas dîner chez les parents.
 
@@ -2543,7 +2543,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Ross :** Amanda et moi nous sommes très...
 
-**Monica, les interrompant :** Vous n'êtes rien !Vous n'êtes pas ensemble ! Tu es sa baby-sitter. Tu piques le boulot d' une gamine !
+**Monica, les interrompant :** Vous n'êtes rien !Vous n'êtes pas ensemble ! Tu es sa baby-sitter. Tu piques le boulot d'une gamine !
 
 **Rachel, riant :** C'est tellement nul !
 
@@ -2567,7 +2567,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Elle fait le geste de Ross. Ross réplique en attachant les mains derrière la nuque et en remuant les bras.
 
-### [ Scène : Au Central Perk, Phoebe chante accompagnée de sa guitare. ]
+### [Scène : Au Central Perk, Phoebe chante accompagnée de sa guitare.]
 
 **Phoebe :** Les chèvres trottent trottent
 
@@ -2585,11 +2585,11 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Phoebe attire Gunther à elle. Elle l'embrasse. Gunther s'écroule sur le sofa, sous le choc.
 
-### [ Scène : Chez Chandler et Joey, Chandler regarde la télé pendant que Joey et Kathy rient dans la chambre de Joey. Comme ils se font de plus en plus bruyants, Chandler augmente progressivement le son. ]
+### [Scène : Chez Chandler et Joey, Chandler regarde la télé pendant que Joey et Kathy rient dans la chambre de Joey. Comme ils se font de plus en plus bruyants, Chandler augmente progressivement le son.]
 
 **Joey, ouvrant la porte :** (Il ne porte rien d'autre qu'une chaussette et tient dans ses mains un panneau de fléchettes avec lequel il cache le "Petit Général".) Hé ! (Chandler baisse le volume). On ne dort pas vraiment, mais quand même...
 
-### [ Scène : Chez Monica et Rachel, Monica, une couverture recouvrant ses épaules, vient ouvrir la porte à un Chandler vêtu de la même manière. ]
+### [Scène : Chez Monica et Rachel, Monica, une couverture recouvrant ses épaules, vient ouvrir la porte à un Chandler vêtu de la même manière.]
 
 **Chandler :** Je peux dormir sur ton divan ?
 
@@ -2597,7 +2597,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### GENERIQUE DE FIN
 
-### [ Scène : Au Central Perk, Phoebe chante. Tout le reste de la bande est là. ]
+### [Scène : Au Central Perk, Phoebe chante. Tout le reste de la bande est là.]
 
 **Phoebe, chantant :** J'attends le bonhomme
 
@@ -4179,7 +4179,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 **Rachel :** Ne dis pas que j'ai pas de sentiments : (sort les objets un à un) voilà le ticket de ciné de notre premier rencard..., une coquille d'œuf de notre premier petit déj au lit. (sort un fossile) Ça, ça vient du musée, la toute première fois qu'on... a été ensemble. J'échange parfois mes cadeaux, mais je garde ce qui compte.
 
-**Ross :** Je sais pas quoi dire. Pardon. Quoique... (désigne le fossile) On n'est pas censé emporter ça. C'est vieux d' un million d'années. Il y a même des gens qui les cherchent.
+**Ross :** Je sais pas quoi dire. Pardon. Quoique... (désigne le fossile) On n'est pas censé emporter ça. C'est vieux d'un million d'années. Il y a même des gens qui les cherchent.
 
 ### (un peu plus tard, Monica et Tim sont sur la terrasse)
 
@@ -6619,7 +6619,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** Les joueurs.
 
-**Ross :** Quelqu'un regrette de ne plus être l' hôtesse.
+**Ross :** Quelqu'un regrette de ne plus être l'hôtesse.
 
 **Monica :** (elle rit)C'est plutôt un soulagement, voilà ce que c'est !
 
@@ -6771,7 +6771,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Pourquoi ? Qu'y a-t-il ?
 
-**Monica :** C'est moi l'hôtesse ! Pas ces gars-là. C'est toujours moi, l' hôtesse. Déjà toute petite ! Mes dînettes étaient les plus courues. Même pour du beurre !
+**Monica :** C'est moi l'hôtesse ! Pas ces gars-là. C'est toujours moi, l'hôtesse. Déjà toute petite ! Mes dînettes étaient les plus courues. Même pour du beurre !
 
 **Phoebe :** Pourquoi vouloir à tout prix qu'on soit tous dans le grand appartement ?
 
@@ -6835,7 +6835,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Joey :** C'est ça qui est excitant.
 
-**Phoebe :** S'il sort d' un divorce ?
+**Phoebe :** S'il sort d'un divorce ?
 
 **Rachel :** Hum-hum.
 
@@ -6877,7 +6877,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### (Ils vont ouvrir la porte qui révèle Monica tournant autour de la cireuse et avec la prise qui s'entoure autour de ses jambes.)
 
-### [Anciennement chez Monica et Rachel, maintenant chez Chandler et Joey, Ross, Joey et Phoebe regardent un film lorsque Chandler sort de sa chambre. ]
+### [Anciennement chez Monica et Rachel, maintenant chez Chandler et Joey, Ross, Joey et Phoebe regardent un film lorsque Chandler sort de sa chambre.]
 
 **Chandler :** Elle a appelé ?
 
@@ -7093,7 +7093,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Joey :**[l'examinant] Un bout de sandwich vieux d'un an. [Monica laisse tomber le sandwich]
 
-**Ross :** [faisant semblant de pêcher dans le salon] Geller en a attrapé un ! Un gros, on dirait ! C'est la lutte éternelle entre l' homme...[il balance la canne qui touche une lampe] Quelqu'un a renversé une lampe.
+**Ross :** [faisant semblant de pêcher dans le salon] Geller en a attrapé un ! Un gros, on dirait ! C'est la lutte éternelle entre l'homme...[il balance la canne qui touche une lampe] Quelqu'un a renversé une lampe.
 
 **Joey :**[s'approchant et prenant la lampe] Vous savez ce qui va être super ce week-end ? Quand mon père me demandera : " Que fais-tu de ta vie ?" Je lui dirai : je tourne un film avec Charlton Heston. Et toi ?
 
@@ -7185,7 +7185,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Oh oui !
 
-### [Chez Chandler et Joey, anciennement chez Monica et Rachel. Chandler est dans son fauteuil faisant voler des cartes dans un pot. ]
+### [Chez Chandler et Joey, anciennement chez Monica et Rachel. Chandler est dans son fauteuil faisant voler des cartes dans un pot.]
 
 **Chandler :** Comment a-t-elle pu ? Je croyais que c'était la bonne. En tout cas...
 
@@ -7223,7 +7223,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** Qu'est-ce qu'il y a ?
 
-**Rachel :** Joshua m'a invitée à l'ouverture d' un night-club branché. Mais j'ai promis à M. Waltham... d'emmener sa nièce à cette connerie d'opéra. Que faire ?
+**Rachel :** Joshua m'a invitée à l'ouverture d'un night-club branché. Mais j'ai promis à M. Waltham... d'emmener sa nièce à cette connerie d'opéra. Que faire ?
 
 **Monica :** Je sais pas.
 
@@ -7679,7 +7679,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### Générique de fin
 
-### [Chez Chandler et Joey, anciennement chez Monica et Rachel. Chandler est prêt à un strip-tease en direct avec un groupe de strip-teaseuse, Monica, Rachel et Phoebe qui accompagnent ce jeu lesbien. Oui, c'est une séquence rêve. ]
+### [Chez Chandler et Joey, anciennement chez Monica et Rachel. Chandler est prêt à un strip-tease en direct avec un groupe de strip-teaseuse, Monica, Rachel et Phoebe qui accompagnent ce jeu lesbien. Oui, c'est une séquence rêve.]
 
 **Chandler :** Mesdames, voilà ce qu'on va faire. [Il montres une strip-teaseuse] Vous allez me déshabiller. [Il en montre deux autres] Vous deux, apportez les huiles. [à une autre] Et vous, criez à tue-tête : "Chandler est le roi !"
 
@@ -7779,7 +7779,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Janice:** Bye.
 
-**Chandler :** Bye. [Il lui ferme finalement la porte au nez] [Après qu'il ai fermé] Cette femme m' horripile ![Phoebe est coquée, Joey est soulagé.]
+**Chandler :** Bye. [Il lui ferme finalement la porte au nez] [Après qu'il ai fermé] Cette femme m'horripile ![Phoebe est coquée, Joey est soulagé.]
 
 **Phoebe :** Je croyais que tu étais fou d'elle.
 
@@ -7855,9 +7855,9 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Janice:** C'est fou ! Qui eût cru que Cupidon allait chez les manucures ? [elle fait son rire]
 
-**Chandler :** [il rit] Il faut qu'on parle. Je sors tout juste d' une relation très sérieuse.
+**Chandler :** [il rit] Il faut qu'on parle. Je sors tout juste d'une relation très sérieuse.
 
-**Janice:** Je sais ! Je sors tout juste d' un mariage. On est vraiment destinés l' un à l'autre.
+**Janice:** Je sais ! Je sors tout juste d'un mariage. On est vraiment destinés l'un à l'autre.
 
 **Chandler :** D'accord. Mais je crois que c'est trop rapide.
 
@@ -8019,7 +8019,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Emily :** [à Ross] Bonne chance.
 
-### [La mêlée prend forme et le jeu est en cours. ]
+### [La mêlée prend forme et le jeu est en cours.]
 
 **Liam:** Allez, viens ! [Ross prend son souffle] Ross ! Viens !
 
@@ -8249,7 +8249,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 ### [Chez Monica et Rachel, anciennement chez Chandler et Joey. Monica a finalement arrêter de chercher le but de l'interrupteur. Elle l'allume et l'éteint sans arrêt.]
 
-**Monica :** Bon. Le gardien ne sait pas. L'électricien à 200 $ de l' heure non plus. J'ai reçu sept décharges électriques. J'abandonne.
+**Monica :** Bon. Le gardien ne sait pas. L'électricien à 200 $ de l'heure non plus. J'ai reçu sept décharges électriques. J'abandonne.
 
 **Rachel :** Quel soulagement !
 

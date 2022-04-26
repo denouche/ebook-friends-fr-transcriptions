@@ -6165,7 +6165,7 @@ Traduit par Guillaume Martin
 
 
 
-### [ Scène : Central Perk. Ils sont tous là, assis, et Monica mange un morceau de gâteau.]
+### [Scène : Central Perk. Ils sont tous là, assis, et Monica mange un morceau de gâteau.]
 
 **Monica:** (très excitée) Humm... ce gâteau est succulent !
 
@@ -6741,7 +6741,7 @@ Traduit par Guillaume Martin
 
 **Rachel :** Et un Nouvel An merdique !
 
-### [Scène : Retour dans le présent. Chez Chandler et Monica. Ils sont autour de la table de la cuisine. ]
+### [Scène : Retour dans le présent. Chez Chandler et Monica. Ils sont autour de la table de la cuisine.]
 
 **Rachel:** Vous ne pouvez pas déménager. Vous... ce n'est pas possible.
 
@@ -10929,7 +10929,7 @@ Traduit par Guillaume Martin
 
 ### (Il se dirige vers elle et l'embrasse. Ils s'écartent. Rachel le regarde. Ils s'embrassent de nouveau.)
 
-### [Scène : La chambre de Ross. Rachel est en train de mettre ses chaussures lorsque Ross sort de dessous les couvertures. ]
+### [Scène : La chambre de Ross. Rachel est en train de mettre ses chaussures lorsque Ross sort de dessous les couvertures.]
 
 **Ross:** Salut.
 
