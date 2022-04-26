@@ -6761,7 +6761,7 @@ Traduit par Laura Cynober
 
 **Monica :** OK.
 
-**Van Damme :** Peut-être, heu, que nous trois on pourrait. . .
+**Van Damme :** Peut-être, heu, que nous trois on pourrait...
 
 **Monica et Rachel :** Oh, non non non non non.
 
@@ -7493,7 +7493,7 @@ Traduit par Laura Cynober
 
 ### [Scène : appartement de Chandler et Joey. Ils sont toujours assis dans leurs fauteuils et regardent la télé. Chandler commande une pizza.]
 
-**Chandler :** Deux grandes pizzas, double-fromage. Mais à l'interphone... ne sonnez pas au 1 9 . Sonnez au 20 : Geller-Greene. Elles vous feront entrer. Si vous sonnez chez nous, pas de pourboire ! On n'aura pas à se lever, je te dis !
+**Chandler :** Deux grandes pizzas, double-fromage. Mais à l'interphone... ne sonnez pas au 1 9. Sonnez au 20 : Geller-Greene. Elles vous feront entrer. Si vous sonnez chez nous, pas de pourboire ! On n'aura pas à se lever, je te dis !
 
 **Joey :** Et si on doit pisser ?
 
@@ -9981,7 +9981,7 @@ Transcrit par Eric Aasen
 
 **Ross :** (s'approche de l'homme qui a pris le perroquet) Eh attendez, attendez. Combien, combien pour sauver l'oiseau ???
 
-**Déménageur :** 7000 .
+**Déménageur :** 7000.
 
 **Ross :** Balles ? T'as payé 7000 balles pour ce perroquet en plastoque ???
 

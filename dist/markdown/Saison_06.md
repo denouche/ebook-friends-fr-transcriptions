@@ -2149,7 +2149,7 @@ Traduit par Gérard Yin et Maud Fournier
 
 ### [Un peu plus tard...]
 
-### Un membre de l'équipe de tournage: Prise 36!
+### Un membre de l'équipe de tournage: Prise 36 !
 
 **Le directeur :** D'accord ! On va recommencer ! Tu es prêt Joe ?
 
@@ -3225,7 +3225,7 @@ Traduit par Gérard Yin et Maud Fournier
 
 **Chandler :** Qu-Comment t'as pu perdre à Bonnets ?!
 
-**Joey :** De la même façon que toi. J'ai commencé avec un roi et une reine, bam ! Ross avait un 2 et un 3. Ensuite j'ai eu un valet et un roi, boom ! Ross avait un 4 et un 5! Ross a eu la carte Bonnet, le Bonnet B, le Bonus ! Alors que moi, j'ai même pas récolté un demi-Bonnet ! Rien !! Chandler : Oh non !!
+**Joey :** De la même façon que toi. J'ai commencé avec un roi et une reine, bam ! Ross avait un 2 et un 3. Ensuite j'ai eu un valet et un roi, boom ! Ross avait un 4 et un 5 ! Ross a eu la carte Bonnet, le Bonnet B, le Bonus ! Alors que moi, j'ai même pas récolté un demi-Bonnet ! Rien !! Chandler : Oh non !!
 
 **Joey :** Et il avait jamais joué avant non plus ! Tu sais ce que je pense ? Je pense : "la veine du débutant", ça compte beaucoup à Bonnets.
 
@@ -4377,7 +4377,7 @@ Traduit par Gérard Yin et Maud Fournier
 
 **Hillary :** Qu'est-ce qui va pas chez toi ?
 
-**Ross :** Qu'est-ce qui va pas chez moi ? Tu as de la lumière noire chez toi. On est en 1999!
+**Ross :** Qu'est-ce qui va pas chez moi ? Tu as de la lumière noire chez toi. On est en 1999 !
 
 ### [Scène : Un ascenseur dans les bureaux de Ralph Lauren, Rachel entre. Kim est déjà là.]
 
@@ -5383,7 +5383,7 @@ Traduit par Gérard Yin et Maud Fournier
 
 ### (Ils vont dans un endroit libre, et Ross se montre du doigt, puis il la montre du doigt.)
 
-**Monica :** 5 6 7 8!
+**Monica :** 5 6 7 8 !
 
 ### (Ils commencent la routine. Désolé, c'est indescriptible, il faut que vous regardiez vous-même.)
 

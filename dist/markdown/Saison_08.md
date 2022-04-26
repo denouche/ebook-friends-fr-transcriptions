@@ -3875,7 +3875,7 @@ Traduit par Christophe Delattre
 
 ### (ils se préparent au bras de fer.)
 
-**Chandler :** Okay. 1 ... 2 ...3 ... Go ! (une fois de plus il est dans une impasse, mais cette fois il souffre.) (Pause) Je vais me tuer !
+**Chandler :** Okay. 1... 2...3... Go ! (une fois de plus il est dans une impasse, mais cette fois il souffre.) (Pause) Je vais me tuer !
 
 ### Fin
 
@@ -3991,7 +3991,7 @@ Traduit par Christophe Delattre
 
 **Rachel :** Oui, je ne peux pas rester chez Joey alors que j'attends un bébé. Je ne veux pas que les premiers mots de mon bébé soient (avec une voix de bébé) "Salut, ça va ?"
 
-**Ross :** Alors est ce que .... est ce que Joey sait que tu déménage ?
+**Ross :** Alors est ce que.... est ce que Joey sait que tu déménage ?
 
 **Rachel :** Eh ben, j'en ai pas encore parlé avec lui, mais je sais qu'il m'en sera reconnaissant. Le week-end dernier, il a amené cette fille à l'appart' et j'ai commencé à lui parler des malaises du matin et ensuite je lui ai montré les échographies.
 

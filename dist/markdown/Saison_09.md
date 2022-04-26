@@ -4741,7 +4741,7 @@ Traduit par Claire Brunel
 
 **Chandler :** Se faire des nattes et cavaler sur la plage ?
 
-**Joey :** Non, non, non. Quand tu rentreras à la maison demain soir, on ira au match des Wizzards contre les Knicks . . . au bord du terrain !
+**Joey :** Non, non, non. Quand tu rentreras à la maison demain soir, on ira au match des Wizzards contre les Knicks... au bord du terrain !
 
 **Chandler :** Au bord du terrain ? Oh mon Dieu !!!!
 
@@ -4757,21 +4757,21 @@ Traduit par Claire Brunel
 
 **Monica :** Vraiment ? Mais demain c'est le seul soir où je ne travaille pas au resto. Si tu vas au match, on n'aura pas une nuit ensemble jusque la semaine prochaine.
 
-**Chandler :** Mais, c'est au bord du terrain !. Les pom pom girls vont être juste en. . . (Pause) C'est pas la meilleure façon de te convaincre.
+**Chandler :** Mais, c'est au bord du terrain !. Les pom pom girls vont être juste en... (Pause) C'est pas la meilleure façon de te convaincre.
 
-**Monica :** Chandler écoute, je ne veux pas être l'une de ces femmes qui dit, "Tu ne peux pas aller au match. Tu dois passer du temps avec moi." Donc si tu pouvais t'en rendre compte tout seul . . .
+**Monica :** Chandler écoute, je ne veux pas être l'une de ces femmes qui dit, "Tu ne peux pas aller au match. Tu dois passer du temps avec moi." Donc si tu pouvais t'en rendre compte tout seul...
 
 **Chandler :** Je sais. T'as raison. Je veux aussi te voir. Il faut que je trouve un moyen de le dire à Joey, tu sais il était si enthousiaste
 
 **Monica :** Dis lui que tu n'as pas vu ta femme depuis longtemps. Dis lui qu'une relation longue distance est vraiment difficile. Dis lui que le peu de temps qu'on a est précieux.
 
-**Chandler :** Ok, ah, ah. . . Je trouerais quelque chose.
+**Chandler :** Ok, ah, ah... Je trouerais quelque chose.
 
 ### [OPENING CREDITS]
 
 ### [Scène: L'appartement de Ross et Rachel. Ross est dans le salon en train de changer Emma. Rachel entre elle porte une robe sexy.]
 
-**Ross :** Wow ! (pause) Waw, tu as l'air. . . whaouu. . . c'est simplement ah. . . cette robe. . . waouh. . .
+**Ross :** Wow ! (pause) Waw, tu as l'air... whaouu... c'est simplement ah... cette robe... waouh...
 
 **Rachel :** Bien, je pense que la fin de ces phrases sont bonnes.
 
@@ -4779,7 +4779,7 @@ Traduit par Claire Brunel
 
 **Rachel :** Oh bien, bien merci. (Elle rit. Il la regarde pendant un moment.) Ok, arrêtes. Arrêtes de me regarder comme ça. La dernière fois que c'est arrivé (pointant son doigt vers Ross) ceci est arrivé (montrant Emma du doigt.)
 
-**Ross :** Ok, bien, bien. (Ils s'arrêtent et échangent un regard. Puis, Ross regarde au loin.) Donc, est tu. . . euh. . . excitée par ta première soirée loin d'Emma ?
+**Ross :** Ok, bien, bien. (Ils s'arrêtent et échangent un regard. Puis, Ross regarde au loin.) Donc, est tu... euh... excitée par ta première soirée loin d'Emma ?
 
 **Rachel :** Ouais, ouais. Phoebe et moi allons bien nous éclater. Et merci de t'occuper du bébé.
 
@@ -4809,7 +4809,7 @@ Traduit par Claire Brunel
 
 **Phoebe :** (apercevant la robe de Rachel) Oooh. C'est vraiment une soirée de fille.
 
-**Rachel :** (à Ross) Ok. Donc maintenant, Je pense qu'Emma est certainement endormie pour la nuit, mais si tu as besoin de quoi que ce soit Ross . . .
+**Rachel :** (à Ross) Ok. Donc maintenant, Je pense qu'Emma est certainement endormie pour la nuit, mais si tu as besoin de quoi que ce soit Ross...
 
 **Ross :** Rach, Rach, ça va aller, ok ? Tu sors pour t'amuser.
 
@@ -4817,7 +4817,7 @@ Traduit par Claire Brunel
 
 **Mike :** Salut.
 
-**Ross :** Bon. . . Bienvenue.
+**Ross :** Bon... Bienvenue.
 
 **Mike :** (Attrapant un pack de six bières Foster's Lager) J'ai de la bière.
 
@@ -4839,9 +4839,9 @@ Traduit par Claire Brunel
 
 ### (Ils trinquent avec les bouteilles de bière, et boivent. Puis, ils regardent leurs chaussures gênés.)
 
-**Ross :** Hum. . . euh. . . tu sais je suis divorcé hum, Phoebe, euh. . . Phoebe m'a dit que tu, tu es divorcé ?
+**Ross :** Hum... euh... tu sais je suis divorcé hum, Phoebe, euh... Phoebe m'a dit que tu, tu es divorcé ?
 
-**Mike :** Ouais. (pause) Ouais, je suis désolé. Je n'aime. . . je n'aime pas vraiment parler de ça.
+**Mike :** Ouais. (pause) Ouais, je suis désolé. Je n'aime... je n'aime pas vraiment parler de ça.
 
 **Ross :** (pause) C‘est d'accord. On va parler de (pause) quelque chose. (Ils marquent un temps d'arrêt. Ils boivent.)
 
@@ -4865,11 +4865,11 @@ Traduit par Claire Brunel
 
 **Monica :** Ouais. T'en penses quoi ?.
 
-**Chandler :** Bien, c'est super. C'est simplement que. . . enfin, je pense la même chose en dessous. So. . .
+**Chandler :** Bien, c'est super. C'est simplement que... enfin, je pense la même chose en dessous. So...
 
 **Monica :** Oh.
 
-**Chandler :** tu vois ce que je veux dire. . . (Ils s'embrassent.)
+**Chandler :** tu vois ce que je veux dire... (Ils s'embrassent.)
 
 ### (Un coup se fait entendre à la porte.)
 
@@ -4893,7 +4893,7 @@ Traduit par Claire Brunel
 
 **Joey :** Qu'est-ce que. .. (Il la voit dans son déshabillée.) Pourquoi est-tu habillée comme ça ?
 
-**Monica :** Oh, parce que, hum. . . enfin, Chandler's va être à la maison dans quelques jours. Donc, j'ai pensé que je devais, tu sais pratiquer l'art de la séduction.
+**Monica :** Oh, parce que, hum... enfin, Chandler's va être à la maison dans quelques jours. Donc, j'ai pensé que je devais, tu sais pratiquer l'art de la séduction.
 
 **Joey :** Oh, je pensais avoir entendu une voix d'homme.
 
@@ -4901,7 +4901,7 @@ Traduit par Claire Brunel
 
 **Joey :** Ok. (pause. Il regarde par dessus son épaule vers la table avec le vin.) Whoa, whoa. Pourquoi y a t il deux verres de vin ?
 
-**Monica :** Parce que. . . l'un d'eux est pour toi.
+**Monica :** Parce que... l'un d'eux est pour toi.
 
 ### (Monica se retourne pour prendre le vin. Chandler risque un coup d'oeil à travers le judas. Joey, voyant quelque chose, jette un coup d'oeil derrière,. Chandler s'esquive. Monica se retourne avec les deux verres de vin. Elle en donne un à Joey.)
 
@@ -4921,11 +4921,11 @@ Traduit par Claire Brunel
 
 **Chandler :** Quoi ? Pourquoi ?
 
-**Joey :** REVIENS. . . A LA MAISON.
+**Joey :** REVIENS... A LA MAISON.
 
 **Chandler :** Ecoute, je ne peux pas. Que se passe t-il ?
 
-**Joey :** Je ne sais pas comment te parler de ça mais, euh. . . je pense que Monica triche avec toi. Je t'avais dit de ne pas épouser quelqu'un de plus chaud que toi.(Chandler et Monica se regardent. Chandler hoche la tête.)
+**Joey :** Je ne sais pas comment te parler de ça mais, euh... je pense que Monica triche avec toi. Je t'avais dit de ne pas épouser quelqu'un de plus chaud que toi.(Chandler et Monica se regardent. Chandler hoche la tête.)
 
 **Joey :** Ok (Il marche vers le couloir) Si tu ne peux pas revenir à la maison et t'occuper de ça, je pars.
 
@@ -4933,7 +4933,7 @@ Traduit par Claire Brunel
 
 **Joey :** (derrière la porte de l'appartement) Je peux l'entendre !
 
-**Chandler :** (doucement) Tu peux. . . l'entendre. . . maintenant ?
+**Chandler :** (doucement) Tu peux... l'entendre... maintenant ?
 
 **Joey :** (écoutant à la porte.) Non. (pause) Ok, je rentre.
 
@@ -4971,11 +4971,11 @@ Traduit par Claire Brunel
 
 **Phoebe :** Je sais. (elle soupire) Alors, que se passé t-il entre toi et Ross ?
 
-**Rachel :** Eh bien, heu. . . je ne sais pas. Je veux dire, depuis un long moment rien. Mais tu sais, un peu avant que tu viennes me chercher, Ross et moi on a eut. . . ah. . . un ptit truc.
+**Rachel :** Eh bien, heu... je ne sais pas. Je veux dire, depuis un long moment rien. Mais tu sais, un peu avant que tu viennes me chercher, Ross et moi on a eut... ah... un ptit truc.
 
 **Phoebe :** Oh mon Dieu ! J'aime ça. Qu'est-il arrivé ?
 
-**Rachel :** Bien, euh, premièrement il m'a dit qu'il aimait ce que je portais. Et, ah, puis on a eut un petit. . . um. . . regard.
+**Rachel :** Bien, euh, premièrement il m'a dit qu'il aimait ce que je portais. Et, ah, puis on a eut un petit... um... regard.
 
 **Phoebe :** Regard ?
 
@@ -4993,7 +4993,7 @@ Traduit par Claire Brunel
 
 **Phoebe :** Et alors ? Qu'est ce que ça fait s'ils le font ?
 
-**Rachel :** Eh bien, on est pas là pour rencontrer des mecs. Tu as un petit ami, j'ai un b. . . bébé et un Ross.
+**Rachel :** Eh bien, on est pas là pour rencontrer des mecs. Tu as un petit ami, j'ai un b... bébé et un Ross.
 
 **Phoebe :** Ouais, mais, ah, ah, il ne doit rien se passe. On s'amuse simplement. Tu sais, tout n'a pas à aller aussi loin qu'un regard intense."
 
@@ -5033,13 +5033,13 @@ Traduit par Claire Brunel
 
 **Kevin :** Donc, on est partant pour plusieurs sorties. Heu. . on peut ptet avoir vos numéros de téléphones et vous appeler si on trouve un truc sympa.
 
-**Phoebe :** Euh. . . Je suis désolée. On ne cherche pas vraiment à ce qu'il se passe un truc avec vous les gars. Moi, J'ai un ptit ami.
+**Phoebe :** Euh... Je suis désolée. On ne cherche pas vraiment à ce qu'il se passe un truc avec vous les gars. Moi, J'ai un ptit ami.
 
 **Kevin :** D'accord. C'est pas grave.
 
 **Bill :** Donc, elle a un petit ami. Quelle est ta situation ?
 
-**Rachel :** Oh, eh bien, c'est compliqué. Je n'ai pas de petit ami en ce moment. Mais euh. . .
+**Rachel :** Oh, eh bien, c'est compliqué. Je n'ai pas de petit ami en ce moment. Mais euh...
 
 **Bill :** Donc, puis-je avoir ton numéro de téléphone ?
 
@@ -5081,11 +5081,11 @@ Traduit par Claire Brunel
 
 **Phoebe :** Mais, ta Rachel n'était pas assez pleurnicharde.
 
-**Rachel :** (pleurnichant) Quoi. . . hé !
+**Rachel :** (pleurnichant) Quoi... hé !
 
 **Phoebe :** (la désignant) Mieux !
 
-**Rachel :** Bien, le fait est que, je devrais peut être arrêter d'attendre des moments avec Ross tu sais ? Je devrais juste. . . changer ma vie.
+**Rachel :** Bien, le fait est que, je devrais peut être arrêter d'attendre des moments avec Ross tu sais ? Je devrais juste... changer ma vie.
 
 **Phoebe :** Vraiment ? Tu prends du recul vis à vis de Ross ?
 
@@ -5125,7 +5125,7 @@ Traduit par Claire Brunel
 
 **Phoebe :** Bon, tu vas devoir y retourner.
 
-**Mike :** Quoi. . . ? Y retourner ? Au « pays où le temps ne passe pas" ?
+**Mike :** Quoi... ? Y retourner ? Au « pays où le temps ne passe pas" ?
 
 **Phoebe :** Je suis désolée chéri, mais, ok, Rachel a donné son numéro à ce mec et, heu, elle ne veut pas que Ross réponde au téléphone. Donc, tu dois intercepter ses appels.
 
@@ -5135,7 +5135,7 @@ Traduit par Claire Brunel
 
 **Rachel :** Oh donne moi ça, , , (Phoebe donne le téléphone à Rachel.) Salut, Mike ?
 
-### Salut. Ecoute. Je sais que je t'en demande beaucoup, mais tu sais quoi ? Si tu fais ça je. . . Phoebe fera. . . tout ce que tu veux. Sérieusement, je parle de choses vraiment salaces.
+### Salut. Ecoute. Je sais que je t'en demande beaucoup, mais tu sais quoi ? Si tu fais ça je... Phoebe fera... tout ce que tu veux. Sérieusement, je parle de choses vraiment salaces.
 
 **Phoebe :** D'accord (Elle prend le téléphone à Rachel.) Salut ? Salut. Je suis désolée pour elle, mais elle n'avait pas tort à propos des trucs salaces.
 
@@ -5225,7 +5225,7 @@ Traduit par Claire Brunel
 
 **Joey :** Que se passe t-il ?
 
-**Chandler :** Je suis désolé. Je t'ai dit que j'étais à Tulsa parce que je voulais passer la nuit avec because Monica et je, je ne savais pas. . . je ne savais pas si tu comprendrais.
+**Chandler :** Je suis désolé. Je t'ai dit que j'étais à Tulsa parce que je voulais passer la nuit avec because Monica et je, je ne savais pas... je ne savais pas si tu comprendrais.
 
 **Joey :** Quoi ? Tu crois que je suis trop bête pour comprendre qu'un mari a besoin de voir sa femme ? Hé ? Tu pense que je suis comme, "Duh." (Il se frappe la tête avec sa batte. Il reste abasourdi pendant un moment.)
 
@@ -5283,7 +5283,7 @@ Traduit par Claire Brunel
 
 **Ross :** Oh mon Dieu. (Il étreint Rachel)
 
-**Rachel :** Oh. . .
+**Rachel :** Oh...
 
 **Mike :** Je suis si content que tu sois rentré. (Il étreint Phoebe.)
 
@@ -5291,7 +5291,7 @@ Traduit par Claire Brunel
 
 **Rachel :** Wow. Alors, qu'avez vous fait les mecs ?
 
-**Ross :** Oh, tu sais. . . on a juste bu un peu de bière et Mike a joué avec les limites du comportement social.
+**Ross :** Oh, tu sais... on a juste bu un peu de bière et Mike a joué avec les limites du comportement social.
 
 **Mike :** C'est vrai. Je l'ai fait.
 
@@ -5329,7 +5329,7 @@ Traduit par Claire Brunel
 
 **Rachel :** Aaah. (She va vers Emma.)
 
-**Ross :** Alors, ah. . . alors, comment c'était ? Vous avez, . .. vous vous êtes bien éclatées ?
+**Ross :** Alors, ah... alors, comment c'était ? Vous avez, . .. vous vous êtes bien éclatées ?
 
 **Rachel :** Oh, c'était super sympa. Je me sentais si bien de sortir.
 
@@ -12017,7 +12017,7 @@ Traduit par Guillaume Martin
 
 **Charlie :** ouaih...
 
-**Ross :** ... et tu l'appelais Alby ! ? (il rit) c'est comme ... comme appeler Albert Einstein... euh... Alby...
+**Ross :** ... et tu l'appelais Alby ! ? (il rit) c'est comme... comme appeler Albert Einstein... euh... Alby...
 
 **Charlie :** ouaih, eh bien, c'est un homme brillant.
 

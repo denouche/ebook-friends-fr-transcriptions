@@ -3589,7 +3589,7 @@ Traduit par Jean-Philippe Rabian et Lina Mehchi
 
 **Phoebe :** Oh oui ! Je le laisserai inspecter le parquet de ma cuisine.
 
-**Larry :** (arrivant) A-98! J'ai enlevé deux points vu que vous ne portiez pas votre bonnet de chef, et ça c'est une violation de la Section 5
+**Larry :** (arrivant) A-98 ! J'ai enlevé deux points vu que vous ne portiez pas votre bonnet de chef, et ça c'est une violation de la Section 5
 
 **Monica :** Euuh écoutez moi mon cher Larry, c'est moi qui ai écrit le bouquin sur la Section 5, et je sais très bien qu'on ne doit porter le bonnet que lorsque on est dans la cuisine.
 
@@ -4333,7 +4333,7 @@ Traduit par Jean-Philippe Rabian
 
 ### (ils essayent de prendre position pour enlever la dinde.)
 
-**Monica :** Okay, on compte jusqu'à trois. 1. 2. 3!
+**Monica :** Okay, on compte jusqu'à trois. 1. 2. 3 !
 
 ### (ils commencent à tirer mais Joey dérape et tombe en arrière au moment ou Chandler entre, et l'effraye.)
 
@@ -5509,7 +5509,7 @@ Traduit par Maud Fournier
 
 **Joey :** Parce que je pense que ce personnage va être soupçonneux sur des trucs. (Chandler réussit à atteindre le bol.)
 
-**Chandler :** Oui ! Chandler Bing, 7! Chandler Bing, 0.
+**Chandler :** Oui ! Chandler Bing, 7 ! Chandler Bing, 0.
 
 **Joey :** Tu me rends dingue avec ton truc !
 
@@ -5881,7 +5881,7 @@ Traduit par Frédéric Neiller
 
 **Jay Leno :** [A la télé s'adressant à Dick Clark] On s'amuse ici ??? Que font les gens ???
 
-**Joey :** OK, ça vient ! 1999! L'année de Joey !
+**Joey :** OK, ça vient ! 1999 ! L'année de Joey !
 
 **Chandler :** [triste, debout à coté de Monica] On est très heureux pour toi.
 
@@ -5893,7 +5893,7 @@ Traduit par Frédéric Neiller
 
 **Monica :** Oh non, attends ! Joey ! [Ils essayent de l'arreter pensant qu'il a encore une idee stupide. Il les ignore et va voir Ross]
 
-**Ross :** [en train de sauter] 73! 72! 71!
+**Ross :** [en train de sauter] 73 ! 72 ! 71 !
 
 **Joey :** Ross ! Ross ! Ross, écoute ! Qui tu embrasse a minuit, huh ? Rachel ou Phoebe ?
 
@@ -5935,7 +5935,7 @@ Traduit par Frédéric Neiller
 
 **Rachel :** Oh, tu marque un point.
 
-**Joey :** Ouais ! Tous le monde [regardant la télé] 3! 2! 1! BONNE ANNÉE !! [Tout le monde s'embrasse. Chandler avec Monica, Ross avec Phoebe, et Joey avec Rachel]
+**Joey :** Ouais ! Tous le monde [regardant la télé] 3 ! 2 ! 1 ! BONNE ANNÉE !! [Tout le monde s'embrasse. Chandler avec Monica, Ross avec Phoebe, et Joey avec Rachel]
 
 **Chandler :** [à Monica] Bonne année !
 
@@ -5957,7 +5957,7 @@ Traduit par Frédéric Neiller
 
 **Rachel :** Mais ton divorce est meme pas effectif.
 
-**Ross :** OK, alors juste un divorce en 1999! Je vais etre heureux cette année, je vais me rendre heureux !!!
+**Ross :** OK, alors juste un divorce en 1999 ! Je vais etre heureux cette année, je vais me rendre heureux !!!
 
 **Chandler :** Tu veux qu'on sorte de la pièce ou quoi ???
 

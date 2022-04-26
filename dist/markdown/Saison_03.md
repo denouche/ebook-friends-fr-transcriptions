@@ -1429,7 +1429,7 @@ Traduit par Laura Cynober
 
 **Chandler :** Merci, je viens de me taper un pot de moutarde.
 
-**Monica :** Donneur de sperme 03815 . A nous deux ! Il fait 1m88, 77 kg... et se décrit comme une Geena Davis au masculin.
+**Monica :** Donneur de sperme 03815. A nous deux ! Il fait 1m88, 77 kg... et se décrit comme une Geena Davis au masculin.
 
 **Chandler :** Je ne suis pas le seul ?
 
@@ -8055,7 +8055,7 @@ Traduit par Isabelle Juhasz
 
 ### [Scène : chez Philly, Chloé est au bar et discute avec Chandler et Joey, qui ne semblent pas intéressés par ce qu'elle dit]
 
-**Chloe :** On a fait des progrès depuis 5 ans. On vient de recevoir une X-5000. Cette X-5000 transforme une X-50 en T-71 .(elle se tourne en riant vers Chandler, qui émet un grognement en colère, puis, Chloé remarque que Ross arrive). Monsieur Dinosaure ! (elle se dirige vers lui)
+**Chloe :** On a fait des progrès depuis 5 ans. On vient de recevoir une X-5000. Cette X-5000 transforme une X-50 en T-71.(elle se tourne en riant vers Chandler, qui émet un grognement en colère, puis, Chloé remarque que Ross arrive). Monsieur Dinosaure ! (elle se dirige vers lui)
 
 **Ross (déprimé) :** Salut Chloé..
 
@@ -8419,7 +8419,7 @@ Traduit par Laura Cynober
 
 ### [Scène : la chambre de Monica. Monica et Phoebe sont assises sur le lit. Elles appliquent de la « waxine » sur leurs jambes]
 
-### Phoebe (lisant les instructuions) : "Après avoir appliqué Waxine sur la jambe 1 ... "
+### Phoebe (lisant les instructuions) : "Après avoir appliqué Waxine sur la jambe 1... "
 
 **Monica (fièrement) :** Ça y est !
 

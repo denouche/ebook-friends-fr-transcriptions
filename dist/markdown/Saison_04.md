@@ -591,7 +591,7 @@ Traduit par Maud Fournier
 
 **Chandler :** Euhh, Gepetto, 5000 dollars ? T'es cinglé ?
 
-**Joey :** Hé, rien que l'annonce, ça m'en a coûté 300!
+**Joey :** Hé, rien que l'annonce, ça m'en a coûté 300 !
 
 **Chandler :** D'accord, écoute, je vais la modifier: 50 dollars, à débattre.
 
@@ -6243,7 +6243,7 @@ Traduit par Frédéric Neiller
 
 **Ross :** Deux secondes...
 
-**Joey :** Uhh, 11!
+**Joey :** Uhh, 11 !
 
 **Ross :** 11, incroyable 11, c'est correct. [Les garcons se felicitent] OK, ça fait quatre point pour les garcons, à vous Mesdames.
 

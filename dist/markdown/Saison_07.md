@@ -3063,7 +3063,7 @@ Traduit par Guillaume Martin
 
 **Chandler :** (looking at the tape) Joey, this is Die Hard 1 again.
 
-**Joey :** Oh, well we watch it a second time and its Die Hard 2!
+**Joey :** Oh, well we watch it a second time and its Die Hard 2 !
 
 **Ross :** Joey, we just saw it !
 
@@ -3445,7 +3445,7 @@ Traduit par Guillaume Martin
 
 **Monica :** In one year ?! My God what did she eat ? Her-her family ! That's not the point.
 
-**Chandler :** Look I know it was a stupid reason to break up with somebody, but I was 15!
+**Chandler :** Look I know it was a stupid reason to break up with somebody, but I was 15 !
 
 **Monica :** Well… That's not the only time this was an issue. You remember when umm, you spent Thanksgiving with us ? You called me fat.
 
