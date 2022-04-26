@@ -31,441 +31,441 @@ Traduit par Frédéric Neiller
 
 **Joey :** Okay, donc on est parti à la plage parce que Phoebe a entendu parler de cette femme qui connaissait ses parents, et je sais pas trop ce qui s'est passé avec ca. [Maison de Phoebe Senior, scene de l'episode precedent]
 
-**Phoebe Sr:** [à Phoebe] Je suis ta mère.
+**Phoebe Sr :** [à Phoebe] Je suis ta mère.
 
-**Phoebe:** Ehh ? [Monica ouvre la porte de la maison, Chandler se tient derrière et essaye de la draguer]
+**Phoebe :** Ehh ? [Monica ouvre la porte de la maison, Chandler se tient derrière et essaye de la draguer]
 
-**Joey:** [voix-off] Oh, Monica s'est mis a dire qu'elle ne sortirait pas avec un mec comme Chandler...
+**Joey :** [voix-off] Oh, Monica s'est mis a dire qu'elle ne sortirait pas avec un mec comme Chandler...
 
-**Chandler:** [à Monica] [Avec une voix marrante] Salut. [Monica tourne la tête de desespoir]
+**Chandler :** [à Monica] [Avec une voix marrante] Salut. [Monica tourne la tête de desespoir]
 
-**Joey:** [voix-off] ... Et Chandler n'a pas aimé ca, mais je sais pas vraiment ce qui s'est passé avec ca. [Montage de scènes entre Ross, Bonnie et Rachel de l'épisode precedent]... [voix-off] Oh-oh ! Ensuite la nouvelle copine de Ross, Bonnie, est venue nous rejoindre, et Rachel l'a convaincu de se raser le crane. Et ensuite Ross et Rachel se sont embrassés, et maintenant Ross doit choisir entre Rachel et la fille chauve, et là aussi je sais pas trop ce qui s'est passé. [Joey couché sur la serviette est de retour à l'image]... Vous savez quoi, bougez pas, je vais chercher Chandler. [se lève et sort]
+**Joey :** [voix-off] ... Et Chandler n'a pas aimé ca, mais je sais pas vraiment ce qui s'est passé avec ca. [Montage de scènes entre Ross, Bonnie et Rachel de l'épisode precedent]... [voix-off] Oh-oh ! Ensuite la nouvelle copine de Ross, Bonnie, est venue nous rejoindre, et Rachel l'a convaincu de se raser le crane. Et ensuite Ross et Rachel se sont embrassés, et maintenant Ross doit choisir entre Rachel et la fille chauve, et là aussi je sais pas trop ce qui s'est passé. [Joey couché sur la serviette est de retour à l'image]... Vous savez quoi, bougez pas, je vais chercher Chandler. [se lève et sort]
 
 ### [MAISON DE LA PLAGE. Suite directe du dernier épisode de la saison 3. Ross se trouve dans le hall entre les chambres, il doit choisir entre la porte de Bonnie et la porte de Rachel. Il entre finalement dans la chambre de droite]
 
 **Ross :** [surpris] Salut !
 
-**Rachel et Bonnie:** Salut !
+**Rachel et Bonnie :** Salut !
 
-**Bonnie:** Rachel me donnait un coup de main, j'ai des coups de soleil sur le crane.
+**Bonnie :** Rachel me donnait un coup de main, j'ai des coups de soleil sur le crane.
 
-**Ross:** Awww. Bonnie: [à Rachel] Merci beaucoup.
+**Ross :** Awww. Bonnie: [à Rachel] Merci beaucoup.
 
-**Rachel:** Oh, de rien beaucoup. Bonnie: [se lève et commence à sortir] [à Ross] Okay, Je te vois dans notre chambre.
+**Rachel :** Oh, de rien beaucoup. Bonnie: [se lève et commence à sortir] [à Ross] Okay, Je te vois dans notre chambre.
 
-**Ross:** Ouais. [Bonnie sort, Ross va embrasser Rachel]
+**Ross :** Ouais. [Bonnie sort, Ross va embrasser Rachel]
 
-**Rachel:** [murmurant] Oh my God.
+**Rachel :** [murmurant] Oh my God.
 
-**Ross:** Je sais. [Ils s'embrassent encore puis tombent sur le lit]... [s'arrête et se lève] Okay, je dois y aller.
+**Ross :** Je sais. [Ils s'embrassent encore puis tombent sur le lit]... [s'arrête et se lève] Okay, je dois y aller.
 
-**Rachel:** Whoa ! Quoi ?! Pourquoi ?!
+**Rachel :** Whoa ! Quoi ?! Pourquoi ?!
 
-**Ross:** Ben, il faut que je quitte Bonnie.
+**Ross :** Ben, il faut que je quitte Bonnie.
 
-**Rachel:** Ici ?! Maintenant ?!
+**Rachel :** Ici ?! Maintenant ?!
 
-**Ross:** Ben ouais, je peux, je peux pas rester ici toute la nuit, et si je retourne là-bas elle va vouloir faire... des choses.
+**Ross :** Ben ouais, je peux, je peux pas rester ici toute la nuit, et si je retourne là-bas elle va vouloir faire... des choses.
 
-**Rachel:** Ben, tu peux pas lui dire que tu n'as pas envie ?
+**Rachel :** Ben, tu peux pas lui dire que tu n'as pas envie ?
 
-**Ross:** Non, ca l'excite. Ouais. Et faire semblant de dormir ca marche pas non plus, je te raconte pas combien de fois je me suis reveillé...
+**Ross :** Non, ça l'excite. Ouais. Et faire semblant de dormir ça marche pas non plus, je te raconte pas combien de fois je me suis reveillé...
 
-**Rachel:** [interompant] Whoa-ho.
+**Rachel :** [interompant] Whoa-ho.
 
-**Ross:** Whoa-oh, okay ! C'est vrai, pourquoi je te raconte ca ?
+**Ross :** Whoa-oh, okay ! C'est vrai, pourquoi je te raconte ça ?
 
-**Rachel:** Je sais pas. [Ils s'embrassent de nouveau]
+**Rachel :** Je sais pas. [Ils s'embrassent de nouveau]
 
-**Ross:** Oui, oui. [ouvrant la porte pour sortir] C'était pas tous les jours non plus.
+**Ross :** Oui, oui. [ouvrant la porte pour sortir] C'était pas tous les jours non plus.
 
-**Rachel:** Oh, de pire en pire !
+**Rachel :** Oh, de pire en pire !
 
-**Ross:** Okay.
+**Ross :** Okay.
 
 ### GENERIQUE DEBUT
 
 ### [MAISON DE PHOEBE Sr. Juste après qu'elle ait dit la vérité à Phoebe]
 
-**Phoebe Sr:** Donc je suppose que tu ne sais pas comment tout ca est arrivé.
+**Phoebe Sr :** Donc je suppose que tu ne sais pas comment tout ça est arrivé.
 
-**Phoebe:** Ben, c'est à dire, je crois que je peux deviner. D'abord je suis née, et ensuite tout le monde a commncé à mentir sa mère !!!
+**Phoebe :** Ben, c'est à dire, je crois que je peux deviner. D'abord je suis née, et ensuite tout le monde a commncé à mentir sa mère !!!
 
-**Phoebe Sr:** Noon ! Non ! Pas du tout... Tu te rappelles que je t'ai dit que Lilly, Frank et moi nous étions proches. En fait nous étions très très proche...
+**Phoebe Sr :** Noon ! Non ! Pas du tout... Tu te rappelles que je t'ai dit que Lilly, Frank et moi nous étions proches. En fait nous étions très très proche...
 
-**Phoebe:** A quel point ?
+**Phoebe :** A quel point ?
 
-**Phoebe Sr:** Ben, en fait nous étions un couple tous les trois.
+**Phoebe Sr :** Ben, en fait nous étions un couple tous les trois.
 
-**Phoebe:** J'imagine même pas comment ca pouvait fonctionner !
+**Phoebe :** J'imagine même pas comment ça pouvait fonctionner !
 
-**Phoebe Sr:** Ben, on était...
+**Phoebe Sr :** Ben, on était...
 
-**Phoebe:** [interompant] J'ai pas demandé !!!
+**Phoebe :** [interompant] J'ai pas demandé !!!
 
-**Phoebe Sr:** Bref, n'importe comment je suis tombé enceinte, et j'ai eu peur, j'étais bête et égoiste, et en plus j'avais 18 ans, tu te rappelles ce que c'est que d'avoir 18 ans ?
+**Phoebe Sr :** Bref, n'importe comment je suis tombé enceinte, et j'ai eu peur, j'étais bête et égoiste, et en plus j'avais 18 ans, tu te rappelles ce que c'est que d'avoir 18 ans ?
 
-**Phoebe:** Oauis, voyons voir, ma mère s'était suicidée, mon père s'était barré, et je vivais dans un trou avec une mec qui s'appelait Cindy et qui parlait à sa main.
+**Phoebe :** Oauis, voyons voir, ma mère s'était suicidée, mon père s'était barré, et je vivais dans un trou avec une mec qui s'appelait Cindy et qui parlait à sa main.
 
-**Phoebe Sr:** Je suis vraiment désolé. Je pensais que je t'avais laissé avec les meilleurs parents du monde, en fait je n'ai plus eu de nouvelles de tes parents jusqu'à recement, et à cette époque tu etais déjà une adulte. Et maintenant tu es là, et je voudrais vraiment apprendre à te connaitre.
+**Phoebe Sr :** Je suis vraiment désolé. Je pensais que je t'avais laissé avec les meilleurs parents du monde, en fait je n'ai plus eu de nouvelles de tes parents jusqu'à recement, et à cette époque tu etais déjà une adulte. Et maintenant tu es là, et je voudrais vraiment apprendre à te connaitre.
 
-**Phoebe:** Ah ouais, Ben t'es pas la seule ! Je suis vraiment cool. Et tu as eu 29 ans pour découvrir ca, mais tu as même pas essayé ! Tu sais quoi, tu m'as abandonné, et bien je vais te faire exactement pareil.
+**Phoebe :** Ah ouais, Ben t'es pas la seule ! Je suis vraiment cool. Et tu as eu 29 ans pour découvrir ca, mais tu as même pas essayé ! Tu sais quoi, tu m'as abandonné, et bien je vais te faire exactement pareil.
 
-**Phoebe Sr:** Attends !
+**Phoebe Sr :** Attends !
 
-**Phoebe:** Je ne veux plus jamais te revoir !!! [Elle sort et claque la porte]
+**Phoebe :** Je ne veux plus jamais te revoir !!! [Elle sort et claque la porte]
 
-**Phoebe:** [entre à nouveau avec sa main sur ses yeux] Umm, où est mon sac ???
+**Phoebe :** [entre à nouveau avec sa main sur ses yeux] Umm, où est mon sac ???
 
 ### [MAISON DE LA PLAGE. Chandler et Joey sont assis à la table, Monica regarde dans le frigo]
 
 **Monica :** [ferme le frigo énervée] Flute ! On a plus de soda.
 
-**Chandler:** [bondit de sa chaise] Oh, je vais sortir en acheter pour toi.
+**Chandler :** [bondit de sa chaise] Oh, je vais sortir en acheter pour toi.
 
-**Monica:** Vraiment ?!
+**Monica :** Vraiment ?!
 
-**Chandler:** Non ! Parce que je suis pas ton mec. [à Phoebe qui vient d'entrer] Salut Pheebs, comment ca s'est passé ?
+**Chandler :** Non ! Parce que je suis pas ton mec. [à Phoebe qui vient d'entrer] Salut Pheebs, comment ça s'est passé ?
 
-**Phoebe:** Ben, umm, Phoebe la copine de ma mère est en fait ma mère biologique. [Le gang est choqué par la nouvelle]
+**Phoebe :** Ben, umm, Phoebe la copine de ma mère est en fait ma mère biologique. [Le gang est choqué par la nouvelle]
 
-**Chandler:** J'ai trouvé un coquillage sec.
+**Chandler :** J'ai trouvé un coquillage sec.
 
-**Monica:** Cherie, qu'est ce que tu racontes ?
+**Monica :** Cherie, qu'est ce que tu racontes ?
 
-**Phoebe:** Oh, ma nouvelle mère, qui, qui est une grosse abandoneuse ! [commence à monter à l'étage]
+**Phoebe :** Oh, ma nouvelle mère, qui, qui est une grosse abandoneuse ! [commence à monter à l'étage]
 
-**Joey:** Whoa, attends Pheebs, tu veux pas rester là et nous en parler ?
+**Joey :** Whoa, attends Pheebs, tu veux pas rester là et nous en parler ?
 
-**Phoebe:** Non. Je veux juste, j'ai besoin d'être seule. [Elle continue à monter]
+**Phoebe :** Non. Je veux juste, j'ai besoin d'être seule. [Elle continue à monter]
 
-**Phoebe:** [se retournant et parlant sur un ton insistant] Monica !
+**Phoebe :** [se retournant et parlant sur un ton insistant] Monica !
 
-**Monica:** Oh.
+**Monica :** Oh.
 
 ### [MAISON DE LA PLAGE. Rachel vient de finir d'ecrire une longue lettre quand Ross entre]
 
 **Ross :** C'est fini.
 
-**Rachel:** Oh, c'était dur ?
+**Rachel :** Oh, c'était dur ?
 
-**Ross:** Ben c'était long. Je me savais pas quelle heure il était, jusqu'à ce que je voisl la reflexion du soleil sur son crane. [Ils commencent à rire puis s'arrêtent] Bref, elle ne voulait pas rester, j'ai appelé un taxi. Elle vient juste de partir. [Ils s'embrassent]
+**Ross :** Ben c'était long. Je me savais pas quelle heure il était, jusqu'à ce que je voisl la reflexion du soleil sur son crane. [Ils commencent à rire puis s'arrêtent] Bref, elle ne voulait pas rester, j'ai appelé un taxi. Elle vient juste de partir. [Ils s'embrassent]
 
-**Rachel:** Je t'ai écrit une lettre.
+**Rachel :** Je t'ai écrit une lettre.
 
-**Ross:** Ohh ! Merci ! J'aime lire !! [Il essaye de l'embrasser mais elle détourne la tête]
+**Ross :** Ohh ! Merci ! J'aime lire !! [Il essaye de l'embrasser mais elle détourne la tête]
 
-**Rachel:** [lui tendant la lettre] C'est juste des trucs auxquels j'ai pensé. Des trucs sur nous, et avant qu'on se remette ensemble j'ai vraiment besoin de savoir ce que tu pense de ces trucs.
+**Rachel :** [lui tendant la lettre] C'est juste des trucs auxquels j'ai pensé. Des trucs sur nous, et avant qu'on se remette ensemble j'ai vraiment besoin de savoir ce que tu pense de ces trucs.
 
-**Ross:** Okay. [Il essaye à nouveau de l'embrasser, mais elle détourne encore une fois la tête] Wow, c'est 5h30 du matin [Rachel rigole] OK, je vais m'y mettre tout de suite.
+**Ross :** Okay. [Il essaye à nouveau de l'embrasser, mais elle détourne encore une fois la tête] Wow, c'est 5h30 du matin [Rachel rigole] OK, je vais m'y mettre tout de suite.
 
-**Rachel:** OK, je vais attendre, remonte dans la chambre quand tu as fini.
+**Rachel :** OK, je vais attendre, remonte dans la chambre quand tu as fini.
 
-**Ross:** Okay, je suis de retour dans, [regarde la lettre] 18 pages. Recto verso. Très excitant.
+**Ross :** Okay, je suis de retour dans, [regarde la lettre] 18 pages. Recto verso. Très excitant.
 
 ### [MAISON DE LA PLAGE. Le matin... Ross s'est endormi sur la table. Il se reveille en sursaut, lève la tête, il a une page de la lettre collée sur le front]
 
 **Ross :** Oh. [regarde sa montre] Oh-oh. [boit une gorgée de café et recommence à lire]
 
-**Rachel:** [descendant les escaliers] Salut ! [Ross sursaute et jette la lettre sur la table comme si il venait juste de finir] Qu'est ce qui t'es arrivé ? Pourquoi t'es pas remonté ?
+**Rachel :** [descendant les escaliers] Salut ! [Ross sursaute et jette la lettre sur la table comme si il venait juste de finir] Qu'est ce qui t'es arrivé ? Pourquoi t'es pas remonté ?
 
-**Ross:** Fini !
+**Ross :** Fini !
 
-**Rachel:** Tu viens juste de finir ?
+**Rachel :** Tu viens juste de finir ?
 
-**Ross:** Ben je me suis appliqué. Apparement cette lettre est très importante pour toi, pour nous. Donc je l'ai lu très lentement, deux fois !!!
+**Ross :** Ben je me suis appliqué. Apparement cette lettre est très importante pour toi, pour nous. Donc je l'ai lu très lentement, deux fois !!!
 
-**Rachel:** OK, ca le fait ?
+**Rachel :** OK, ça le fait ?
 
-**Ross:** Pardon.
+**Ross :** Pardon.
 
-**Rachel:** Ça le fait ?
+**Rachel :** Ça le fait ?
 
-**Ross:** Ça le fait ? Ça le fait ? Je voulais justement jeter de nouveau un coup d'oeil au passage "Ça le fait"..
+**Ross :** Ça le fait ? Ça le fait ? Je voulais justement jeter de nouveau un coup d'oeil au passage "Ça le fait"..
 
-**Rachel:** Qu'est ce que tu racontes Ross, tu as déjà lu 2 fois la lettre ! Ecoute, ca le fait ou ca le fait pas, mais ne me dis pas que tu dois encore penser à...
+**Rachel :** Qu'est ce que tu racontes Ross, tu as déjà lu 2 fois la lettre ! Ecoute, ça le fait ou ça le fait pas, mais ne me dis pas que tu dois encore penser à...
 
-**Ross:** [interompant] Non, Rach, non. Je n'ai pas besoin de penser, j'ai pris ma décision, j'ai pris ma décision. Ca... le fait.... [Rachel ne bouge pas, puis commence à pleurer. Puis elle se jette dans les bras de Ross. Tout en la prennant dans ses bras il recupère la lettre sur la table et commence à chercher le passage "Ça le fait"]
+**Ross :** [interompant] Non, Rach, non. Je n'ai pas besoin de penser, j'ai pris ma décision, j'ai pris ma décision. Ca... le fait.... [Rachel ne bouge pas, puis commence à pleurer. Puis elle se jette dans les bras de Ross. Tout en la prennant dans ses bras il recupère la lettre sur la table et commence à chercher le passage "Ça le fait"]
 
-**Rachel:** T'es sur ?
+**Rachel :** T'es sur ?
 
-**Ross:** Oh, sur ! Je suis sur.
+**Ross :** Oh, sur ! Je suis sur.
 
-**Rachel:** Je sais. [Elle le serre tellement fort que Ross n'arrive plus à lire la lettre]
+**Rachel :** Je sais. [Elle le serre tellement fort que Ross n'arrive plus à lire la lettre]
 
 ### [SUR LA PLAGE. Chandler et Monica font bronzette]
 
 **Chandler :** OK, y'a un holocauste nucléaire, Je suis le seul homme qui a survécu. Tu sortirais avec moi ???
 
-**Monica:** Ennnh.
+**Monica :** Ennnh.
 
-**Chandler:** J'ai des boites de conserves...
+**Chandler :** J'ai des boites de conserves...
 
-**Joey:** [au fond du trou qu'il vient de creuser, seule sa tête dépasse] He les mecs ! Regardez donc ca [Chandler et Monica se lèvent et vont jusqu'au trou] Matez voir ca, il est pas mal mon trou.
+**Joey :** [au fond du trou qu'il vient de creuser, seule sa tête dépasse] He les mecs ! Regardez donc ça [Chandler et Monica se lèvent et vont jusqu'au trou] Matez voir ca, il est pas mal mon trou.
 
-**Chandler:** Très beau trou, Joe. [Une vague arrive et remplit son trou]
+**Chandler :** Très beau trou, Joe. [Une vague arrive et remplit son trou]
 
-**Joey:** Oh non ! Non !! Mon trou !!
+**Joey :** Oh non ! Non !! Mon trou !!
 
-**Monica:** [hurlant de douleur] Ow !! Ow !!!
+**Monica :** [hurlant de douleur] Ow !! Ow !!!
 
-**Joey:** [sortant du trou] Quoi ?! Quoi ?!! Qu'est ce qu'il y a ?!
+**Joey :** [sortant du trou] Quoi ?! Quoi ?!! Qu'est ce qu'il y a ?!
 
-**Monica:** Piqure de médure ! Oh, ca fait mal ! Ça fait mal !! Ça fait mal !!
+**Monica :** Piqure de médure ! Oh, ça fait mal ! Ça fait mal !! Ça fait mal !!
 
-**Chandler:** On peut t'aider ?! Tu veux qu'on te ramène à la maison ?!
+**Chandler :** On peut t'aider ?! Tu veux qu'on te ramène à la maison ?!
 
-**Monica:** Ça fait trois kilomètres !!!
+**Monica :** Ça fait trois kilomètres !!!
 
-**Joey:** Ouais, et moi je suis fatigué d'avoir creusé mon trou.
+**Joey :** Ouais, et moi je suis fatigué d'avoir creusé mon trou.
 
-**Monica:** Oh, je maudis cette méduse, je maudis toutes les méduses !
+**Monica :** Oh, je maudis cette méduse, je maudis toutes les méduses !
 
-**Chandler:** Il faut faire quelque chose !
+**Chandler :** Il faut faire quelque chose !
 
-**Joey:** Ben il n'y a qu'un seul truc à faire.
+**Joey :** Ben il n'y a qu'un seul truc à faire.
 
-**Monica:** Quoi ?! Qu'est ce que c'est !!!
+**Monica :** Quoi ?! Qu'est ce que c'est !!!
 
-**Joey:** Tu vas devoir pisser dessus.
+**Joey :** Tu vas devoir pisser dessus.
 
-**Monica:** Quoi ?!! C'est deguelasse !!
+**Monica :** Quoi ?!! C'est deguelasse !!
 
-**Joey:** Ne n'enguele pas, j'ai vu ca sur le Discovery Channel.
+**Joey :** Ne n'enguele pas, j'ai vu ça sur le Discovery Channel.
 
-**Chandler:** Attends, il a raison. Il y a, euuh, de l'ammoniaque là-dedans, et ca va arrêter la douleur.
+**Chandler :** Attends, il a raison. Il y a, euuh, de l'ammoniaque là-dedans, et ça va arrêter la douleur.
 
-**Monica:** N'y pense même pas. De toutes facons ca fait pas si mal que [essaye de poser le pied par terre] caaaaaaaaa !!!!
+**Monica :** N'y pense même pas. De toutes facons ça fait pas si mal que [essaye de poser le pied par terre] caaaaaaaaa !!!!
 
-**Joey:** Si tu veux te cacher tu peux utiliser mon trou.
+**Joey :** Si tu veux te cacher tu peux utiliser mon trou.
 
 ### [MAISON DE LA PLAGE. Phoebe descend les escaliers avec toutes ses affaires, elle est prête à partir]
 
 **Phoebe :** Ben je suis prête à me tirer d'ici ! [Elle voit Ross et Rachel ensemble sur le canapé] Oh. Vous êtes, vous êtes ?!! [Ils font "oui" de la tête] Ohh ! C'est excellent !! Ooh, pas pour Bonnie [ils font "non" de la tête] Mais pour vous oui ! Ohh. [Le reste du gang arrive baissant la tête de honte]
 
-**Ross:** Salut !
+**Ross :** Salut !
 
-**Rachel:** C'était comment la plage ?
+**Rachel :** C'était comment la plage ?
 
-**Monica:** Rien, je sais pas.
+**Monica :** Rien, je sais pas.
 
-**Ross:** Qu'est ce qui s'est passé ?
+**Ross :** Qu'est ce qui s'est passé ?
 
-**Monica:** Rien. je vais prendre une douche.
+**Monica :** Rien. je vais prendre une douche.
 
-**Chandler:** Moi aussi !!
+**Chandler :** Moi aussi !!
 
-**Joey:** Moi aussi.
+**Joey :** Moi aussi.
 
-**Phoebe:** Okay, je vais mettre ca [sa valise] dans la voiture.
+**Phoebe :** Okay, je vais mettre ça [sa valise] dans la voiture.
 
-**Rachel:** Ooh, je dois allé faire mes valises. [se lève] Ça le fait vraiment ?
+**Rachel :** Ooh, je dois allé faire mes valises. [se lève] Ça le fait vraiment ?
 
-**Ross:** Ça le fait. Ça le fait vraiment et sincerement. [Rachel kisses him, and goes l'embrasse et monte, Ross essaye alors de trouver le passage "Ça le fait"]... [il trouve le passage] [il lève la tête l'air dégouté] Ça le fait pas du tout !!!
+**Ross :** Ça le fait. Ça le fait vraiment et sincerement. [Rachel kisses him, and goes l'embrasse et monte, Ross essaye alors de trouver le passage "Ça le fait"]... [il trouve le passage] [il lève la tête l'air dégouté] Ça le fait pas du tout !!!
 
 ### [CENTRAL PERK. Ross parle de la lettre à Joey et Chandler]
 
 **Ross :** Elle veut que je reconnaisse ma responsabilité pour tout ce qui a foiré dans notre relation. Je veux dire, elle a tartiné 5 pages sur mon infidilité envers elle ! [Joey et Chandler haussent les épaules] [hurlant] ON FAISAIT UNE PAUSE !!
 
-**Chandler:** Oh my God ! Si tu dis ca encore une fois c'est moi qui vais faire une pause avec toi !
+**Chandler :** Oh my God ! Si tu dis ça encore une fois c'est moi qui vais faire une pause avec toi !
 
-**Ross:** OK, OK ! Mais cette pause c'était pas que ma faute, et, et là elle dit, [lisant la lettre] "Si tu reconnais que tout est de ta faute" [à Chandler et Joey] "De ta faute"..."Je pourrais te faire à nouveau confiance" Est-ce que ca le fait ??. [il hurle sur Joey] Ça le fait ?!!!
+**Ross :** OK, OK ! Mais cette pause c'était pas que ma faute, et, et là elle dit, [lisant la lettre] "Si tu reconnais que tout est de ta faute" [à Chandler et Joey] "De ta faute"..."Je pourrais te faire à nouveau confiance" Est-ce que ça le fait ??. [il hurle sur Joey] Ça le fait ?!!!
 
-**Joey:** Non ?
+**Joey :** Non ?
 
-**Chandler:** Ecoute, Ross, tu as ce que tu veux, tu as récupéré Rachel. Si tu lui parle de ca maintenant tu vas ruiner la meilleure chose qui te soit jamais arrivée
+**Chandler :** Ecoute, Ross, tu as ce que tu veux, tu as récupéré Rachel. Si tu lui parle de ça maintenant tu vas ruiner la meilleure chose qui te soit jamais arrivée
 
-**Ross:** [plus calme] Ouais, je sais, tu as raison. OK, je vais laisser tomber. Mais vous comprennez à quel point c'est dur.
+**Ross :** [plus calme] Ouais, je sais, tu as raison. OK, je vais laisser tomber. Mais vous comprennez à quel point c'est dur.
 
-**Joey:** Bien sur que c'est dur ! Mais ca veut pas dire que tu dois lui en parler ! Beaucoup de choses sont arrivées pendant ce week-end, et on ne doit [à Chandler] en parler.
+**Joey :** Bien sur que c'est dur ! Mais ça veut pas dire que tu dois lui en parler ! Beaucoup de choses sont arrivées pendant ce week-end, et on ne doit [à Chandler] en parler.
 
-**Ross:** Mais qu'est ce qui a bien pu se passer sur cette plage ?!
+**Ross :** Mais qu'est ce qui a bien pu se passer sur cette plage ?!
 
-**Joey:** C'est entre la mer et nous Ross ! [Ross rigole croyant que Joey plaisante, puis il est choqué de voir que Joey et Chandler ont des visages très serieux]
+**Joey :** C'est entre la mer et nous Ross ! [Ross rigole croyant que Joey plaisante, puis il est choqué de voir que Joey et Chandler ont des visages très serieux]
 
 ### [HALL DE L'IMMEUBLE DE URSULA. Phoebe frappe à une porte]
 
-**Phoebe :**[à la personne qui ouvre, c. a. d. sa soeur jumelle] Salut, Ursula.
+**Phoebe :** [à la personne qui ouvre, c. a. d. sa soeur jumelle] Salut, Ursula.
 
-**Ursula:** Salut !
+**Ursula :** Salut !
 
-**Phoebe:** Okay, ben euuuh, je sais que ca fait longtemps qu'on s'est pas parlé, mais euuuh okay, notre mère n'est pas notre mère biologique, celle-la vit à Montauk.
+**Phoebe :** Okay, ben euuuh, je sais que ça fait longtemps qu'on s'est pas parlé, mais euuuh okay, notre mère n'est pas notre mère biologique, celle-la vit à Montauk.
 
-**Ursula:** C'est ca, OK, celle-la vit à Montauk, umm-hmm.
+**Ursula :** C'est ca, OK, celle-la vit à Montauk, umm-hmm.
 
-**Phoebe:** [choquée] Tu la connais ?!
+**Phoebe :** [choquée] Tu la connais ?!
 
-**Ursula:** Non, mais, mais c'était ecrit dans le mot qu'a laissé maman avant de se suicider.
+**Ursula :** Non, mais, mais c'était ecrit dans le mot qu'a laissé maman avant de se suicider.
 
-**Phoebe:** Elle, elle avait laissé un mot ?! [Ursula fait "Oui" de la tête] Tu l'as encore ??
+**Phoebe :** Elle, elle avait laissé un mot ?! [Ursula fait "Oui" de la tête] Tu l'as encore ??
 
-**Ursula:** [énervée] Bouge pas. [Elle rentre chez elle et claque la porte au nez de Phoebe]
+**Ursula :** [énervée] Bouge pas. [Elle rentre chez elle et claque la porte au nez de Phoebe]
 
-**Phoebe:** J'arrive pas à croire que tu m'avais jamais parlé de ce mot !
+**Phoebe :** J'arrive pas à croire que tu m'avais jamais parlé de ce mot !
 
-**Ursula:**[depuis son appartement] Ouais, alors comment ca va ?
+**Ursula :** [depuis son appartement] Ouais, alors comment ça va ?
 
-**Phoebe:** Je, euuh, la-ferme ! [Ursula ouvre la porte et lui donne un mot]... [lisant le mot] "Au revoir Phoebe et Ursula. Vous allez me manquer. P. S. Votre mère vit à Montauk" Tu viens juste d'écrire ce truc !!!
+**Phoebe :** Je, euuh, la-ferme ! [Ursula ouvre la porte et lui donne un mot]... [lisant le mot] "Au revoir Phoebe et Ursula. Vous allez me manquer. P. S. Votre mère vit à Montauk" Tu viens juste d'écrire ce truc !!!
 
-**Ursula:** Ouais, mais le mot voulait dire ca. A part pour le poême. T'as lu le poême non ?
+**Ursula :** Ouais, mais le mot voulait dire ca. A part pour le poême. T'as lu le poême non ?
 
-**Phoebe:** Noooon !!
+**Phoebe :** Noooon !!
 
-**Ursula:** OK, bouge pas ! [Elle prend le mot, rentre dans l'appart et claque à nouveau la porte]
+**Ursula :** OK, bouge pas ! [Elle prend le mot, rentre dans l'appart et claque à nouveau la porte]
 
 ### [APPARTEMENT DE MONICA ET RACHEL. Chandler, Monica et Joey sont assis à la table et mangent sans dire un mot. Ross et Rachel sont sur le balcon]
 
 **Monica :** Fromage s'il te plait. [Joey passe le fromage sans la regarder]... My God, tu peux même pas me regarder ?
 
-**Joey:** Non. [Phoebe entre]
+**Joey :** Non. [Phoebe entre]
 
-**Chandler:** [sautant de joie] Salut ! Phoebe ! On peut parler à Phoebe !!
+**Chandler :** [sautant de joie] Salut ! Phoebe ! On peut parler à Phoebe !!
 
-**Phoebe:** Non. je suis trop déprimée pour parler.
+**Phoebe :** Non. je suis trop déprimée pour parler.
 
-**Chandler:** Je te donne 5000 Francs pour nous parler.
+**Chandler :** Je te donne 5000 Francs pour nous parler.
 
-**Ross:** [entrant avec Rachel] Heh les mecs ! Ça vous direz pas si on partait à la plage tous les ans ? Chandler, Monica, et
+**Ross :** [entrant avec Rachel] Heh les mecs ! Ça vous direz pas si on partait à la plage tous les ans ? Chandler, Monica, et
 
-**Joey:** NON !!!
+**Joey :** NON !!!
 
-**Rachel:** OK, ca suffit maintenant ! Qu'est ce qui s'est passé là-bas ?
+**Rachel :** OK, ça suffit maintenant ! Qu'est ce qui s'est passé là-bas ?
 
-**Monica:** Quoi ? On s'est promené, il s'est rien passé. Je suis revenu sans rien sur moi. Ross et
+**Monica :** Quoi ? On s'est promené, il s'est rien passé. Je suis revenu sans rien sur moi. Ross et
 
-**Rachel:** Allez !!
+**Rachel :** Allez !!
 
-**Ross:** Qu'est ce qui s'est passé ? Joey ?
+**Ross :** Qu'est ce qui s'est passé ? Joey ?
 
-**Joey:** OK. [se lève]
+**Joey :** OK. [se lève]
 
-**Monica:** [l'arrêtant] Non ! Joey, on a juré de ne rien dire
+**Monica :** [l'arrêtant] Non ! Joey, on a juré de ne rien dire
 
-**Chandler:** [épaulant Monica] Ils comprendraient pas !!
+**Chandler :** [épaulant Monica] Ils comprendraient pas !!
 
-**Joey:** Mais on doit dire quelque chose ! Ça doit sortir ! Ça me bouffe de l'intérieur !! Monica s'est fait piquée par une méduse.
+**Joey :** Mais on doit dire quelque chose ! Ça doit sortir ! Ça me bouffe de l'intérieur !! Monica s'est fait piquée par une méduse.
 
-**Monica:** [interompamt] OK !! OK. [entre dans le salon] Je me suis fait piquée. La douleur était atroce, je pouvais plus marcher.
+**Monica :** [interompamt] OK !! OK. [entre dans le salon] Je me suis fait piquée. La douleur était atroce, je pouvais plus marcher.
 
-**Chandler:** [continuant] On était à 3 kilomètres de la maison, tout seul et effrayés. On pensait pas pouvoir rentrer. [Il essaye de poser sa main sur l'épaule de Monica, mais la retire avec un air dégouté]
+**Chandler :** [continuant] On était à 3 kilomètres de la maison, tout seul et effrayés. On pensait pas pouvoir rentrer. [Il essaye de poser sa main sur l'épaule de Monica, mais la retire avec un air dégouté]
 
-**Monica:** J'avais trop mal.
+**Monica :** J'avais trop mal.
 
-**Joey:** Et j'étais fatigué d'avoir creusé un trou !
+**Joey :** Et j'étais fatigué d'avoir creusé un trou !
 
-**Chandler:** Et alors Joey s'est souvenu de quelque chose.
+**Chandler :** Et alors Joey s'est souvenu de quelque chose.
 
-**Joey:** J'ai vu une émission sur le Discovery Channel...
+**Joey :** J'ai vu une émission sur le Discovery Channel...
 
-**Ross:** Attends 2 secondes ! J'ai vu ca ! Sur le Discovery Channel, ouais ! C'était sur les méduses et le moyen de... [s'arrête de parler et se tourne vers Monica] Beuuurk, tu t'es pissée dessus ?!
+**Ross :** Attends 2 secondes ! J'ai vu ça ! Sur le Discovery Channel, ouais ! C'était sur les méduses et le moyen de... [s'arrête de parler et se tourne vers Monica] Beuuurk, tu t'es pissée dessus ?!
 
-**Phoebe et Rachel:** Beuuurk !!
+**Phoebe et Rachel :** Beuuurk !!
 
-**Monica:** Vous pouvez pas dire ca !! Vous savez pas !! J'ai presque failli m'évanouir de douleur ! Bref, j'ai éssayé..., mais l'endroit était inaccessible pour moi, donc... [regardant Joey]
+**Monica :** Vous pouvez pas dire ça !! Vous savez pas !! J'ai presque failli m'évanouir de douleur ! Bref, j'ai éssayé..., mais l'endroit était inaccessible pour moi, donc... [regardant Joey]
 
-**Phoebe, Ross et Rachel:** [se tournant vers Joey] Beuuurk !
+**Phoebe, Ross et Rachel :** [se tournant vers Joey] Beuuurk !
 
-**Joey:** Ouais, je me suis dévoué ! C'est mon amie et elle avait besoin d'aide ! Et si je devais, je pisserais sur n'importe lequel d'entre vous !Mais là j'ai pas reussi, j'ai eu le trac. Je voulais le faire, mais y'avait trop de pression sur moi, alors je me suis tourné vers Chandler.
+**Joey :** Ouais, je me suis dévoué ! C'est mon amie et elle avait besoin d'aide ! Et si je devais, je pisserais sur n'importe lequel d'entre vous ! Mais là j'ai pas reussi, j'ai eu le trac. Je voulais le faire, mais y'avait trop de pression sur moi, alors je me suis tourné vers Chandler.
 
-**Chandler:** [se prend la tête à 2 mains] Joey n'arretait pas de hurler, 'Vas-y !! fais-le !! Fais le ! Vas-y !!" Parfois tard dans la nuit je peux encore entendre ces cris.
+**Chandler :** [se prend la tête à 2 mains] Joey n'arretait pas de hurler, 'Vas-y !! fais-le !! Fais le ! Vas-y !!" Parfois tard dans la nuit je peux encore entendre ces cris.
 
-**Joey:** [rigolant] Oui mais ca c'est parce que dès fois je crie à travers le mur pour te faire peur.
+**Joey :** [rigolant] Oui mais ça c'est parce que dès fois je crie à travers le mur pour te faire peur.
 
 ### [CENTRAL PERK. Phoebe finit une chanson]
 
 **Phoebe :** [chantant] "... fuchia et mauvvve. Ce sont les 66 couleurs de ma chambre' [applaudissements] Merci, merci. Ohh, et je vous invite à compter les couleurs dans votre chambre. [voit que Phoebe Senior vient d'entrer] Sauf toi. Toi tu t'en vas.
 
-**Phoebe Sr:** Je m'en vais dans une seconde, je, je veux juste te dire qu'il ne s'est pas passé un jour sans que je regrette de t'avoir abandonné.
+**Phoebe Sr :** Je m'en vais dans une seconde, je, je veux juste te dire qu'il ne s'est pas passé un jour sans que je regrette de t'avoir abandonné.
 
-**Phoebe:** Okay, aurevoir.
+**Phoebe :** Okay, aurevoir.
 
-**Phoebe Sr:** Non, j'ai pas fini. Je, je, je veux juste te dire, que la raison pour laquelle je ne t'ai pas recherché, c'est que j'avais peur que tu réagisses exactement comme tu es entrain de réagir maintenant. On pourrait repartir à zéro ???
+**Phoebe Sr :** Non, j'ai pas fini. Je, je, je veux juste te dire, que la raison pour laquelle je ne t'ai pas recherché, c'est que j'avais peur que tu réagisses exactement comme tu es entrain de réagir maintenant. On pourrait repartir à zéro ???
 
-**Phoebe:** Non.
+**Phoebe :** Non.
 
-**Phoebe Sr:** Désolé. Une dernière chose. Tu es venu parce que tu cherchais de la famille. Je suis de la famille. Maintenant j'ai fini. [commence à partir]
+**Phoebe Sr :** Désolé. Une dernière chose. Tu es venu parce que tu cherchais de la famille. Je suis de la famille. Maintenant j'ai fini. [commence à partir]
 
-**Phoebe:** Mais, de toutes facons on perd rien. N'est ce pas ?
+**Phoebe :** Mais, de toutes facons on perd rien. N'est ce pas ?
 
-**Phoebe Sr:** Ouais, je suppose que tu as raison.
+**Phoebe Sr :** Ouais, je suppose que tu as raison.
 
-**Phoebe:** C'est pas comme si on se connaissait. Ou comme si on avait des choses en commun.
+**Phoebe :** C'est pas comme si on se connaissait. Ou comme si on avait des choses en commun.
 
-**Phoebe Sr:** Ben je sais pas. On doit quand même avoir des choses en commun, par exemple, euuuh, j'aime la pizza.
+**Phoebe Sr :** Ben je sais pas. On doit quand même avoir des choses en commun, par exemple, euuuh, j'aime la pizza.
 
-**Phoebe:** Moi, moi, moi aussi !
+**Phoebe :** Moi, moi, moi aussi !
 
-**Phoebe Sr:** C'est vrai ?! Attends, euuuh, j'aime les Beetles.
+**Phoebe Sr :** C'est vrai ?! Attends, euuuh, j'aime les Beetles.
 
-**Phoebe:** Oh my God, moi aussi !
+**Phoebe :** Oh my God, moi aussi !
 
-**Phoebe Sr:** J'en étais sure, wow !!
+**Phoebe Sr :** J'en étais sure, wow !!
 
-**Phoebe:** Attends attends attends, attends ! Les bébé chiens. Mignons ou laids ?
+**Phoebe :** Attends attends attends, attends ! Les bébé chiens. Mignons ou laids ?
 
-**Phoebe Sr:** Ohh, mignons.
+**Phoebe Sr :** Ohh, mignons.
 
-**Phoebe:** Uh-huh, cool ! Mais je suis toujours en colère contre toi.
+**Phoebe :** Uh-huh, cool ! Mais je suis toujours en colère contre toi.
 
-**Phoebe Sr:** Je sais. Moi aussi je suis en colère contre moi.
+**Phoebe Sr :** Je sais. Moi aussi je suis en colère contre moi.
 
-**Phoebe:** Ben euuh, tu veux aller manger un morceau ? J'ai faim.
+**Phoebe :** Ben euuh, tu veux aller manger un morceau ? J'ai faim.
 
-**Phoebe Sr:** Hey ! Moi aussi !
+**Phoebe Sr :** Hey ! Moi aussi !
 
-**Phoebe:** OK; arrête maintenant. Tu fais juste ca pour m'exciter.
+**Phoebe :** OK; arrête maintenant. Tu fais juste ça pour m'exciter.
 
 ### [CHAMBRE DE RACHEL. Ross et Rachel viennent juste de consommer leur nouvelle relation]
 
 **Rachel :** Oh-hooo, tu m'as manqué.
 
-**Ross:** Toi aussi tu m'as manqué.
+**Ross :** Toi aussi tu m'as manqué.
 
-**Rachel:** Ooh, j'étais tellement nerveuse rapport à la lettre. Mais la facon dont tu as tout accepté, wow, ca prouve à quel point tu as grandi. Non ?
+**Rachel :** Ooh, j'étais tellement nerveuse rapport à la lettre. Mais la facon dont tu as tout accepté, wow, ça prouve à quel point tu as grandi. Non ?
 
-**Ross:** [essaye de rester calme] Je présume.
+**Ross :** [essaye de rester calme] Je présume.
 
-**Rachel:** Tu as grandi ! Ross, Tu dois être fier de toi. Ma mère ne pensait pas que ca pourrait remarcher, elle répetait: "Infidèle un jour, infidèle toujours."
+**Rachel :** Tu as grandi ! Ross, Tu dois être fier de toi. Ma mère ne pensait pas que ça pourrait remarcher, elle répetait: "Infidèle un jour, infidèle toujours."
 
-**Ross:** [commence à s'énerver] Umm-hmm.
+**Ross :** [commence à s'énerver] Umm-hmm.
 
-**Rachel:** Ooh, j'aimerais qu'on ait pas perdu ces 4 mois, mais il te fallait surement un peu de temps pour te mettre du plomb dans la cervelle... [L'image change, on voit Monica entrain de laver le sol de la cuisine]
+**Rachel :** Ooh, j'aimerais qu'on ait pas perdu ces 4 mois, mais il te fallait surement un peu de temps pour te mettre du plomb dans la cervelle... [L'image change, on voit Monica entrain de laver le sol de la cuisine]
 
-**Ross:** [criant depuis la chambre] ON FAISAIT UNE PAUSE !!!!!!!
+**Ross :** [criant depuis la chambre] ON FAISAIT UNE PAUSE !!!!!!!
 
-**Chandler:** [entre avec Joey] [à Monica] On va au café ?
+**Chandler :** [entre avec Joey] [à Monica] On va au café ?
 
-**Monica:** Plutot 2 fois qu'une. [De nouveau dans la chambre de Rachel, ils se rhabillent]
+**Monica :** Plutot 2 fois qu'une. [De nouveau dans la chambre de Rachel, ils se rhabillent]
 
-**Ross:** Et pour la petite histoire, il a fallu 2 personnes pour briser notre relation !!
+**Ross :** Et pour la petite histoire, il a fallu 2 personnes pour briser notre relation !!
 
-**Rachel:** Ouais !! Toi et la fille du magasin de photocopies, et c'est ce que tu as reconnu hier !!
+**Rachel :** Ouais !! Toi et la fille du magasin de photocopies, et c'est ce que tu as reconnu hier !!
 
-**Ross:** Je ne savais pas ce que je reconnaissais ! Okay ?! J'avais pas fini la lettre !
+**Ross :** Je ne savais pas ce que je reconnaissais ! Okay ?! J'avais pas fini la lettre !
 
-**Rachel:** Quoi ?!!
+**Rachel :** Quoi ?!!
 
-**Ross:** Je me suis endormi !
+**Ross :** Je me suis endormi !
 
-**Rachel:** Tu t'es endormi ?!
+**Rachel :** Tu t'es endormi ?!
 
-**Ross:** C'était 5h30 du matin, et tu avais pondu 18 pages. Recto-verso !! [Ils sortent de la chambre, coincant Monica, Chandler et Joey dans le salon] [à Rachel] Oh-oh-oh, et au passage, T-apostrophe-E-S signifie "Tu es", T-E-S signifie "tes"!!!
+**Ross :** C'était 5h30 du matin, et tu avais pondu 18 pages. Recto-verso !! [Ils sortent de la chambre, coincant Monica, Chandler et Joey dans le salon] [à Rachel] Oh-oh-oh, et au passage, T-apostrophe-E-S signifie "Tu es", T-E-S signifie "tes"!!!
 
-**Rachel:** J'arrive même pas à imaginer que j'ai voulu ressortir avec toi ! On est tellement fini !!
+**Rachel :** J'arrive même pas à imaginer que j'ai voulu ressortir avec toi ! On est tellement fini !!
 
-**Ross:** [fait semblant de pleurer] CA ME VA !!! [il ouvre la porte et coince Chandler juste derrière]
+**Ross :** [fait semblant de pleurer] CA ME VA !!! [il ouvre la porte et coince Chandler juste derrière]
 
-**Rachel:** Oh, oh, et hey-hey-hey, tes connaissances en ortographe te serviront tous les samedis soirs quand tu joueras au Scrabble avec Monica !!
+**Rachel :** Oh, oh, et hey-hey-hey, tes connaissances en ortographe te serviront tous les samedis soirs quand tu joueras au Scrabble avec Monica !!
 
-**Monica:** Hey !!
+**Monica :** Hey !!
 
-**Rachel:** [à Monica] Désolé !! [à Ross] Tu vas plus arriver à dormir la nuit tellement tu vas regretter de pas être avec moi.
+**Rachel :** [à Monica] Désolé !! [à Ross] Tu vas plus arriver à dormir la nuit tellement tu vas regretter de pas être avec moi.
 
-**Ross:** Oh, non-non-non Ne t'en fais donc pas pour mon sommeil. J'ai toujours ta lettre pour m'endormir !!!
+**Ross :** Oh, non-non-non Ne t'en fais donc pas pour mon sommeil. J'ai toujours ta lettre pour m'endormir !!!
 
-**Rachel:** Et au fait ! Juste pour information, C'est pas si normal que ca !! Ça n'arrive pas à tous les mecs ! Et oui c'est grave !!
+**Rachel :** Et au fait ! Juste pour information, C'est pas si normal que ça !! Ça n'arrive pas à tous les mecs ! Et oui c'est grave !!
 
-**Chandler:** JE LE SAVAIS !!!!
+**Chandler :** JE LE SAVAIS !!!!
 
 ### GENERIQUE FIN
 
@@ -473,13 +473,13 @@ Traduit par Frédéric Neiller
 
 **Monica :** [posant ses cartes sur la table] Gin.
 
-**Chandler:** On jouait au Gin ? Tu sais que si on était un couple on pourrait jouer à ce jeu tout nu...
+**Chandler :** On jouait au Gin ? Tu sais que si on était un couple on pourrait jouer à ce jeu tout nu...
 
-**Monica:** Arrête un peu !
+**Monica :** Arrête un peu !
 
-**Chandler:** OK, d'accord.
+**Chandler :** OK, d'accord.
 
-**Monica:** Okay, écoute, Je te trouve super, je te trouve tendre, et tu es intelligent, et je t'adore. Mais tu resteras toujours le mec qui m'a pissé dessus.
+**Monica :** Okay, écoute, Je te trouve super, je te trouve tendre, et tu es intelligent, et je t'adore. Mais tu resteras toujours le mec qui m'a pissé dessus.
 
 ### FIN
 
@@ -561,7 +561,7 @@ Traduit par Maud Fournier
 
 **Ross :** Oh, j'en suis sûr.
 
-**Rachel :** (au téléphone) Chip ! Salut, c'est Rachel. (écoute) Rachel Green. Oui, hum, tu m'as laissé un message.  (écoute) Si, si, ma colocataire l'a noté. (écoute) Monica Geller. (écoute) Ohh.
+**Rachel :** (au téléphone) Chip ! Salut, c'est Rachel. (écoute) Rachel Green. Oui, hum, tu m'as laissé un message. (écoute) Si, si, ma colocataire l'a noté. (écoute) Monica Geller. (écoute) Ohh.
 
 **Ross :** (chuchote à son oreille) Oh, j'avais oublié ! Il appelé Monica ! Qu'est-ce que ça doit être embarrassant !
 
@@ -611,7 +611,7 @@ Traduit par Maud Fournier
 
 ### [CENTRAL PERK. Un client entre dans le café et laisse entrer un chat. Le chat se précipite vers l'étui à guitare de Phoebe et commence à le renifler]
 
-**Phoebe :** Oh mon dieu ! Non ! Ouste ! Minou ! Non ! Non-non-non ! Ouste ! Allez, toi ! (s'avance et prend le chat)  Allez, espèce de fou. (regarde les yeux du chat) Oh mon dieu.
+**Phoebe :** Oh mon dieu ! Non ! Ouste ! Minou ! Non ! Non-non-non ! Ouste ! Allez, toi ! (s'avance et prend le chat) Allez, espèce de fou. (regarde les yeux du chat) Oh mon dieu.
 
 **Rachel :** Quoi ?
 
@@ -627,7 +627,7 @@ Traduit par Maud Fournier
 
 **Ross :** Tu es sûre qu'elle est à l'intérieur du chat, ou bien est-ce que tu as encore pris les médicaments de ta grand-mère pour son glaucôme ?
 
-**Phoebe :** Non Dr. Scepticisme ! J'en suis sûre. D'abord, okay, il y a la sensation. (Chandler hausse les épaules) D'accord, et ensuite, qu'est-ce que tu dis du fait qu'elle est allée dans mon étui qui est doublé avec de la feutrine orange. (Rachel hoche la tête mais elle ne sait pas bien pourquoi.)  Le poisson préféré de ma Mère est la truite orange... (Joey pense qu'il a compris, mais ensuite il fait signe de la tête qu'il a rien capté.) Les chats... aiment... le poisson ! (Ross et Rachel sont complètement perdus) (au chat) Salut, Maman. (Rachel se cache la bouche d'une main, et en faisant gestuellement  "Oh mon dieu".) Oh, je n'avais pas vu ce sourire depuis 17 ans !
+**Phoebe :** Non Dr. Scepticisme ! J'en suis sûre. D'abord, okay, il y a la sensation. (Chandler hausse les épaules) D'accord, et ensuite, qu'est-ce que tu dis du fait qu'elle est allée dans mon étui qui est doublé avec de la feutrine orange. (Rachel hoche la tête mais elle ne sait pas bien pourquoi.) Le poisson préféré de ma Mère est la truite orange... (Joey pense qu'il a compris, mais ensuite il fait signe de la tête qu'il a rien capté.) Les chats... aiment... le poisson ! (Ross et Rachel sont complètement perdus) (au chat) Salut, Maman. (Rachel se cache la bouche d'une main, et en faisant gestuellement "Oh mon dieu".) Oh, je n'avais pas vu ce sourire depuis 17 ans !
 
 **Joey :** (à Chandler) Mec, la maman de Phoebe a une énorme paire de...
 
@@ -689,7 +689,7 @@ Traduit par Maud Fournier
 
 **Monica :** Pourquoi tu n'utilises pas le téléphone qui est ici ?
 
-**Phoebe :** Ben, je dois rappeler une certaine maman à la P-L-A-G-E. J'ai épelé le mauvais mot.  (entre dans la chambre de Monica)
+**Phoebe :** Ben, je dois rappeler une certaine maman à la P-L-A-G-E. J'ai épelé le mauvais mot. (entre dans la chambre de Monica)
 
 **Ross :** Bon les gars, je suis fou, ou bien la mère de Phoebe vous fait penser à un chat ?
 
@@ -1015,533 +1015,533 @@ Traduit par Frédéric Neiller
 
 **Joey :** Salut !! On a de la chance ! Treeger a dit qu'on pouvait recuperer tous ces trucs cool entreposés dans la cave. Bouge pas. [ressort de l'appartement]
 
-**Chandler:** Oh non-non-non, je m'enfuis à la rame !!!
+**Chandler :** Oh non-non-non, je m'enfuis à la rame !!!
 
-**Joey:** [re-entre avec des chaises de jardin toutes rouillées] Huh ?!
+**Joey :** [re-entre avec des chaises de jardin toutes rouillées] Huh ?!
 
-**Chandler:** Wow ! Tu rigoles ?! On récupère cette merde rouillée à l'oeil ?!
+**Chandler :** Wow ! Tu rigoles ?! On récupère cette merde rouillée à l'oeil ?!
 
-**Joey:** Uh-huh. Ça et du papier à bulles. Et elles sont pas toutes eclatées !!! [Ils s'assoient tous les deux, le poulet et le canard sortent alors de la chambre de Joey]
+**Joey :** Uh-huh. Ça et du papier à bulles. Et elles sont pas toutes eclatées !!! [Ils s'assoient tous les deux, le poulet et le canard sortent alors de la chambre de Joey]
 
-**Chandler:** On est vraiment des clodos !!!
+**Chandler :** On est vraiment des clodos !!!
 
 ### GENERIQUE DEBUT
 
 ### [APPARTEMENT DE MONICA ET RACHEL. Monica, Phoebe, Rachel et Ross prennent le petit-déjeuner]
 
-**Monica:** [sortant de sa chambre] A quel point mon cas est-il désespéré ???
+**Monica :** [sortant de sa chambre] A quel point mon cas est-il désespéré ???
 
-**Rachel:** Oh ! C'est bien que Chandler soit pas là, il gagne toujours à ce jeu !!!
+**Rachel :** Oh ! C'est bien que Chandler soit pas là, il gagne toujours à ce jeu !!!
 
-**Monica:** Je viens juste de dire à ma mère que je vais faire la cuisine pour une de ses fêtes.
+**Monica :** Je viens juste de dire à ma mère que je vais faire la cuisine pour une de ses fêtes.
 
-**Phoebe:** Pourquoi ?
+**Phoebe :** Pourquoi ?
 
-**Monica:** Parce que j'ai besoin d'argent, et en plus c'est une bonne occasion pour se debarasser des derniers bouts de fierté qu'ils me restaient.
+**Monica :** Parce que j'ai besoin d'argent, et en plus c'est une bonne occasion pour se debarasser des derniers bouts de fierté qu'ils me restaient.
 
-**Ross:** Allez, c'est pas si mal. Je pense pas que Maman t'aurait engagé si elle ne croyait pas en toi.
+**Ross :** Allez, c'est pas si mal. Je pense pas que Maman t'aurait engagé si elle ne croyait pas en toi.
 
-**Monica:** C'est pas le peine de lui faire de la lèche, elle est pas là !!!
+**Monica :** C'est pas le peine de lui faire de la lèche, elle est pas là !!!
 
 ### [APPARTEMENT DE CHANDLER ET JOEY. Joey lit le journal et Chandler se prépare pour partir au travail]
 
-**Rachel:** [entre] Salut ! Umm, vous avez du jus les gars ?
+**Rachel :** [entre] Salut ! Umm, vous avez du jus les gars ?
 
-**Joey:** Non, juste des cornichons.
+**Joey :** Non, juste des cornichons.
 
-**Chandler:** Hey uh, Rach, je suis tombé par hasard sur Joanna dans la rue, marrant non ??
+**Chandler :** Hey uh, Rach, je suis tombé par hasard sur Joanna dans la rue, marrant non ??
 
-**Rachel:** Joanna, mon chef ??? Wow, ca a du être bizarre non ???.
+**Rachel :** Joanna, mon chef ??? Wow, ça a du être bizarre non ???.
 
-**Chandler:** En fait non, elle m'a même demandé si je voulais aller prendre un verre.
+**Chandler :** En fait non, elle m'a même demandé si je voulais aller prendre un verre.
 
-**Rachel:** [rigolant] Tu, tu lui as pas répondu "oui" ???
+**Rachel :** [rigolant] Tu, tu lui as pas répondu "oui" ???
 
-**Chandler:** [rigolant] Non. Non !
+**Chandler :** [rigolant] Non. Non !
 
-**Joanna:** [sortant de la salle vetue d'une serviette de bain] Salut, Rachel. [elle va dans la chambre de Chandler]
+**Joanna :** [sortant de la salle vetue d'une serviette de bain] Salut, Rachel. [elle va dans la chambre de Chandler]
 
-**Chandler:** Oui, enfin j'ai pas dit "oui" au début....
+**Chandler :** Oui, enfin j'ai pas dit "oui" au début....
 
-**Rachel:** Qu'est ce qu'elle fout là ??? [Joey imite le bruit d'un lit qui grince]
+**Rachel :** Qu'est ce qu'elle fout là ??? [Joey imite le bruit d'un lit qui grince]
 
-**Rachel:** Je comprends pas ! La dernière fois que tu es sortie avec tu as dit que c'était une grosse dinde !!!
+**Rachel :** Je comprends pas ! La dernière fois que tu es sortie avec tu as dit que c'était une grosse dinde !!!
 
-**Chandler:** Ben je me suis dit que je l'avais jugé trop vite, et cette fois nous avons placé notre relation à un niveau supérieur. [Joey fait le même bruit mais encore plus fort]
+**Chandler :** Ben je me suis dit que je l'avais jugé trop vite, et cette fois nous avons placé notre relation à un niveau supérieur. [Joey fait le même bruit mais encore plus fort]
 
-**Rachel:** Bon, la dernière fois j'ai failli me faire virer, alors tu la plaques, tu la plaques tout de suite !!!
+**Rachel :** Bon, la dernière fois j'ai failli me faire virer, alors tu la plaques, tu la plaques tout de suite !!!
 
-**Chandler:** Oh, allez ! Ça m'arrive pas tous les jours !!! Normalement ca m'arrive même jamais des trucs comme ca. [Joey refait le meme type de bruit mais cette fois on peut deviner que le bruit est du à une seule personne. Chandler se tourne alors vers Joey et l'interoge du regard]
+**Chandler :** Oh, allez ! Ça m'arrive pas tous les jours !!! Normalement ça m'arrive même jamais des trucs comme ca. [Joey refait le meme type de bruit mais cette fois on peut deviner que le bruit est du à une seule personne. Chandler se tourne alors vers Joey et l'interoge du regard]
 
-**Rachel:** Chandler !! [Il se retourne rapidement] Jure moi que tu vas la plaquer.
+**Rachel :** Chandler !! [Il se retourne rapidement] Jure moi que tu vas la plaquer.
 
-**Chandler:** Okay, je te promets que je vais la plaquer.
+**Chandler :** Okay, je te promets que je vais la plaquer.
 
-**Rachel:** Merci.
+**Rachel :** Merci.
 
-**Chandler:** J'espère que tu sais à quoi je renonce pour toi, parce que y'a pas que dans ton bureau qu'elle est le patron si tu vois ce que je veux dire...
+**Chandler :** J'espère que tu sais à quoi je renonce pour toi, parce que y'a pas que dans ton bureau qu'elle est le patron si tu vois ce que je veux dire...
 
-**Joey:** Yeah-eh-eah ! [Rachel le foudroie du regard] Oh-oh, désolé, mais je vois ce qu'il veut dire.
+**Joey :** Yeah-eh-eah ! [Rachel le foudroie du regard] Oh-oh, désolé, mais je vois ce qu'il veut dire.
 
 ### [CUISINE DES GELLER. Monica et Phoebe préparent la nouriture pour la fête]
 
-**Mme Geller:** [entre] Comment ca se passe pour vous ???
+**Mme Geller :** [entre] Comment ça se passe pour vous ???
 
-**Monica:** Parfait, les quiches sont bientôt prêtes.
+**Monica :** Parfait, les quiches sont bientôt prêtes.
 
-**Mme Geller:** C'est quoi ca ? Du vernis à ongles bleu ??
+**Mme Geller :** C'est quoi ça ? Du vernis à ongles bleu ??
 
-**Monica:** Ouais, je trouve ca beau.
+**Monica :** Ouais, je trouve ça beau.
 
-**Mme Geller:** Ahh, les mains de ta grand-mère étaient comme ca le jour où on l'a trouvé morte.
+**Mme Geller :** Ahh, les mains de ta grand-mère étaient comme ça le jour où on l'a trouvé morte.
 
-**Monica:** Je peux te poser une question ??
+**Monica :** Je peux te poser une question ??
 
-**Mme Geller:** Hmm.
+**Mme Geller :** Hmm.
 
-**Monica:** Pourquoi tu m'as engagé ?
+**Monica :** Pourquoi tu m'as engagé ?
 
-**Mme Geller:** Oh, Richard était content de la nouriture pour sa fête, bon bien sur il couchait avec toi. Ensuite j'ai entendu que la nouriture au marriage des lesbiennes était aussi excellente, et je me suis dit que là tu ne couchais avec personne. Remarque ca pourrait être marrant. [sort]
+**Mme Geller :** Oh, Richard était content de la nouriture pour sa fête, bon bien sur il couchait avec toi. Ensuite j'ai entendu que la nouriture au marriage des lesbiennes était aussi excellente, et je me suis dit que là tu ne couchais avec personne. Remarque ça pourrait être marrant. [sort]
 
-**Monica:** [à Phoebe] Oh my God ! Elle m'as engagé parce qu'elle trouve vraiment que je suis douée.
+**Monica :** [à Phoebe] Oh my God ! Elle m'as engagé parce qu'elle trouve vraiment que je suis douée.
 
-**Phoebe:** Okay, moi j'ai pas entendu ca.
+**Phoebe :** Okay, moi j'ai pas entendu ca.
 
-**Monica:** Oh si, elle m'a pas engagé par pitié, ou pour me ridiculiser devant ses amis, elle trouve vraiment que je suis douée.
+**Monica :** Oh si, elle m'a pas engagé par pitié, ou pour me ridiculiser devant ses amis, elle trouve vraiment que je suis douée.
 
-**Phoebe:** Wow ! Et en plus, c'est OK si tu es lesbienne ! [Elle lui fait le signe avec le pouce en l'air]
+**Phoebe :** Wow ! Et en plus, c'est OK si tu es lesbienne ! [Elle lui fait le signe avec le pouce en l'air]
 
 ### [APPARTEMENT DE CHANDLER ET JOEY. Joey enlève des chewing-gums sous la table quand quelque'un frappe à la porte. Il va ouvrir]
 
-**Vendeur:**: [Entre avant que Joey puisse réagir] Bonjour, c'est vous qui prennez les décisions ici ??
+**Vendeur :** : [Entre avant que Joey puisse réagir] Bonjour, c'est vous qui prennez les décisions ici ??
 
-**Joey:** Uhhhh. [Pas très sur]
+**Joey :** Uhhhh. [Pas très sur]
 
-**Vendeur:**: Avez vous une collection d'encyclopedies ???
+**Vendeur :** : Avez vous une collection d'encyclopedies ???
 
-**Joey:** Non ! Non. Mais allez donc voir dans la boutique au coin de la rue, ils vendent de tous là-bas.
+**Joey :** Non ! Non. Mais allez donc voir dans la boutique au coin de la rue, ils vendent de tous là-bas.
 
-**Vendeur:**: En fait je n'achète pas, je vends. Est ce que ca arrive souvent que vos amis parlent de quelque chose, et vous, vous vous contentez de faire oui de la tête ou
+**Vendeur :** : En fait je n'achète pas, je vends. Est ce que ça arrive souvent que vos amis parlent de quelque chose, et vous, vous vous contentez de faire oui de la tête ou
 
 ### de rigoler sans comprendre de quoi ils parlent ?? [On voit alors des Flashbacks ou Joey est dans ce genre de situations] [Flashback chez Monica et Rachel, tout le monde est là]
 
-**Ross:** ... Je vous jure, c'est tout à fait anticonstitutionel. Monica, Chandler, Phoebe, er
+**Ross :** ... Je vous jure, c'est tout à fait anticonstitutionel. Monica, Chandler, Phoebe, er
 
-**Rachel:** Oh oui, tout à fait d'accord. [Joey fait simplement "oui" de la tête] [Flashback à Central Perk, tout le gang est là
+**Rachel :** Oh oui, tout à fait d'accord. [Joey fait simplement "oui" de la tête] [Flashback à Central Perk, tout le gang est là
 
-**Monica:** ... Je pense qu'il mérite le prix Nobel pour ca. [Joey fait "oui" de la tête]
+**Monica :** ... Je pense qu'il mérite le prix Nobel pour ca. [Joey fait "oui" de la tête]
 
-**Tous:** Nooon !! [Joey arrete rapidement de faire "oui" de la tête] [Flashback chez Monica et Rachel, le gang joue aux cartes]
+**Tous :** Nooon !! [Joey arrete rapidement de faire "oui" de la tête] [Flashback chez Monica et Rachel, le gang joue aux cartes]
 
-**Chandler:** ... c'était comme une table d'enfants Algonquins. [Tout le monde rigole, Joey rigole aussi pour ne pas montrer qu'il n'a pas compris la blague] [Retour au présent]
+**Chandler :** ... c'était comme une table d'enfants Algonquins. [Tout le monde rigole, Joey rigole aussi pour ne pas montrer qu'il n'a pas compris la blague] [Retour au présent]
 
-**Vendeur:**: [Coupant la séquence de flashbacks] Excusez moi, je suis désolé, mais ca fait bien 2 minutes trente que vous avez pas dit un mot, ca vous interesse ou pas ???
+**Vendeur :** : [Coupant la séquence de flashbacks] Excusez moi, je suis désolé, mais ça fait bien 2 minutes trente que vous avez pas dit un mot, ça vous interesse ou pas ???
 
-**Joey:** Ben, quoi, oh, ouais, ouais, entrez entrez..
+**Joey :** Ben, quoi, oh, ouais, ouais, entrez entrez..
 
 ### [CUISINE DES GELLER. Monica et Phoebe sont toujours au travail]
 
-**Phoebe:** C'est bizarre.
+**Phoebe :** C'est bizarre.
 
-**Monica:** Quoi ?
+**Monica :** Quoi ?
 
-**Phoebe:** Tes ongles.
+**Phoebe :** Tes ongles.
 
-**Monica:** Oh, je sais, normalement je mets pas de faux ongles, mais là au moins ma mère ne dira rien si je les mords !!!
+**Monica :** Oh, je sais, normalement je mets pas de faux ongles, mais là au moins ma mère ne dira rien si je les mords !!!
 
-**Phoebe:** Oh, non, je veux dire que c'est bizarre que tu ais seulement 9 ongles.
+**Phoebe :** Oh, non, je veux dire que c'est bizarre que tu ais seulement 9 ongles.
 
-**Monica:** [regarde ses ongles] Oh my God. Attends, j'en avais dix quand... [réalisant] Oh my God ! Il est tombé dans une quiche ! Oh My God !
+**Monica :** [regarde ses ongles] Oh my God. Attends, j'en avais dix quand... [réalisant] Oh my God ! Il est tombé dans une quiche ! Oh My God !
 
-**Phoebe:** Okay, pas de panique. Je vais foncer au magasin pour t'acheter un nouveau jeu d'ongles bleus, personne ne saura et tout va bien se passer. [elle court chercher son mateau, réfléchis un peu et...] Oh ! Oh, c'est pas ca le problème, c'est parce que quelqu'un va le manger. 2
+**Phoebe :** Okay, pas de panique. Je vais foncer au magasin pour t'acheter un nouveau jeu d'ongles bleus, personne ne saura et tout va bien se passer. [elle court chercher son mateau, réfléchis un peu et...] Oh ! Oh, c'est pas ça le problème, c'est parce que quelqu'un va le manger. 2
 
-**Mme Geller:** [entre] [à Monica] Cherie, ne mange pas tes ongles.
+**Mme Geller :** [entre] [à Monica] Cherie, ne mange pas tes ongles.
 
-**Monica:** Okay ah, ne panique pas s'il te plait. Umm, y'a un ongle bleu dans une des mes mini-quiches, et on peut pas savoir dans laquelle.
+**Monica :** Okay ah, ne panique pas s'il te plait. Umm, y'a un ongle bleu dans une des mes mini-quiches, et on peut pas savoir dans laquelle.
 
-**Phoebe:** Et celui qui le trouve est le roi !!!
+**Phoebe :** Et celui qui le trouve est le roi !!!
 
-**Mme Geller:** [rigolant] Je ne panique pas.
+**Mme Geller :** [rigolant] Je ne panique pas.
 
-**Monica:** Alors pourquoi tu rigoles ?
+**Monica :** Alors pourquoi tu rigoles ?
 
-**Mme Geller:** Oh pour rien, ton père me doit juste 30 balles.
+**Mme Geller :** Oh pour rien, ton père me doit juste 30 balles.
 
-**Monica:** Quoi ??? T'avais parié que je perdrais un ongle ?
+**Monica :** Quoi ??? T'avais parié que je perdrais un ongle ?
 
-**Mme Geller:** Oh non, ne dit pas de betises. J'avais juste parié que j'aurais besoin de ca. [Elle ouvre le congélateur et nous voyons...]
+**Mme Geller :** Oh non, ne dit pas de betises. J'avais juste parié que j'aurais besoin de ca. [Elle ouvre le congélateur et nous voyons...]
 
-**Monica:** Des lasagnes surgelées ???
+**Monica :** Des lasagnes surgelées ???
 
-**Mme Geller:** Um-hmm.
+**Mme Geller :** Um-hmm.
 
-**Monica:** Tu avais parié que j'allais me planter ?! Donc tu ne m'as pas engagé parce que tu me trouvais doué mais...
+**Monica :** Tu avais parié que j'allais me planter ?! Donc tu ne m'as pas engagé parce que tu me trouvais doué mais...
 
-**Mme Geller:** Non-non-non, ca c'était vrai, mais les lasagnes c'était juste au cas où tu nous faisais une Monica.
+**Mme Geller :** Non-non-non, ça c'était vrai, mais les lasagnes c'était juste au cas où tu nous faisais une Monica.
 
-**Monica:** Tu avais promis au Dr. Weinburg de ne plus utiliser cette expression.
+**Monica :** Tu avais promis au Dr. Weinburg de ne plus utiliser cette expression.
 
-**Mme Geller:** Allez cherie, un peu d'humour quoi, tu n'as jamais su rigoler de toi-même.
+**Mme Geller :** Allez cherie, un peu d'humour quoi, tu n'as jamais su rigoler de toi-même.
 
-**Monica:** [rigolant] C'est vrai, ma mère ne croit pas en moi ! Oh, c'est hilarant ! Ha-ha-ha-ha-ha.
+**Monica :** [rigolant] C'est vrai, ma mère ne croit pas en moi ! Oh, c'est hilarant ! Ha-ha-ha-ha-ha.
 
-**Phoebe:** Tu trouves ??.
+**Phoebe :** Tu trouves ??.
 
-**Mme Geller:** Non, je crois en...
+**Mme Geller :** Non, je crois en...
 
-**Monica:** [l'interompant] Non ! Tu crois aux lasagnes ! [elle sort de la cuisine comme une folle, et un lourd silence s'installe] Four: Ding !
+**Monica :** [l'interompant] Non ! Tu crois aux lasagnes ! [elle sort de la cuisine comme une folle, et un lourd silence s'installe] Four: Ding !
 
-**Phoebe:** Op, les quiches inmangeables sont prêtes.
+**Phoebe :** Op, les quiches inmangeables sont prêtes.
 
 ### [BUREAU DE JOANNA. Joanna et Chandler sont sur une chaise entrain de s'embrasser. Chandler n'a pas de pantalon]
 
-**Chandler:** Euuuh, j'ai pas... vraiment l'impression qu'on se sépare là.
+**Chandler :** Euuuh, j'ai pas... vraiment l'impression qu'on se sépare là.
 
-**Joanna:** Non, on est entrain de se séparer, je suis triste.
+**Joanna :** Non, on est entrain de se séparer, je suis triste.
 
-**Chandler:** Okay. [Ils recommencent à s'embrasser quand le téléphone sonne].
+**Chandler :** Okay. [Ils recommencent à s'embrasser quand le téléphone sonne].
 
-**Joanna:** [répondant au téléphone] Oui. [écoute] Uh, ca peut pas attendre demain ??[écoute] OK. [raccroche] Incroyable !!!
+**Joanna :** [répondant au téléphone] Oui. [écoute] Uh, ça peut pas attendre demain ??[écoute] OK. [raccroche] Incroyable !!!
 
-**Chandler:** Merci.
+**Chandler :** Merci.
 
-**Joanna:** Non, non, c'était mon chef, faut que j'y aille.
+**Joanna :** Non, non, c'était mon chef, faut que j'y aille.
 
-**Chandler:** Okay. [commence à reboutonner sa chemise]
+**Chandler :** Okay. [commence à reboutonner sa chemise]
 
-**Joanna:** Tu fais quoi là ?
+**Joanna :** Tu fais quoi là ?
 
-**Chandler:** Je m'habille.
+**Chandler :** Je m'habille.
 
-**Joanna:** Pourquoi ?
+**Joanna :** Pourquoi ?
 
-**Chandler:** Quand je me promène nu dans la rue les gens me jettent des ordures !!!
+**Chandler :** Quand je me promène nu dans la rue les gens me jettent des ordures !!!
 
-**Joanna:** Attend, je vais te montrer quelque chose.
+**Joanna :** Attend, je vais te montrer quelque chose.
 
-**Chandler:** Quoi ?
+**Chandler :** Quoi ?
 
-**Joanna:** Juste un petit gadget dont on m'a fait cadeau. [elle sort alors des menottes] Mets tes mains ensemble.
+**Joanna :** Juste un petit gadget dont on m'a fait cadeau. [elle sort alors des menottes] Mets tes mains ensemble.
 
-**Chandler:** Ah-ha,c'est pas toi mon chef. [elle l'embrasse] OK, c'est toi ! [elle l'attache à la chaise avec les menottes. Ooh, excitant.
+**Chandler :** Ah-ha, c'est pas toi mon chef. [elle l'embrasse] OK, c'est toi ! [elle l'attache à la chaise avec les menottes. Ooh, excitant.
 
-**Joanna:** [elle l'embrasse] Je reviens dans 10 minutes. [commence à sortir]
+**Joanna :** [elle l'embrasse] Je reviens dans 10 minutes. [commence à sortir]
 
-**Chandler:** Tu vas, tu vas pas me laisser comme ca ???
+**Chandler :** Tu vas, tu vas pas me laisser comme ça ???
 
-**Joanna:** Ça m'excite de savoir que tu es là à m'attendre.
+**Joanna :** Ça m'excite de savoir que tu es là à m'attendre.
 
-**Chandler:** Okay. Mais si tu reviens pas rapidement, [elle sort et ferme la porte] et ben, et ben j'peux rien y faire !!! [À l'extérieur du bureau de Joanna, dans le bureau de Rachel et Sophie. Elles rentrent du déjeuner]
+**Chandler :** Okay. Mais si tu reviens pas rapidement, [elle sort et ferme la porte] et ben, et ben j'peux rien y faire !!! [À l'extérieur du bureau de Joanna, dans le bureau de Rachel et Sophie. Elles rentrent du déjeuner]
 
-**Joanna:** [ferme la porte à clé] Oh. Sophie: Bonjour, je vous ai ramené un gateau !!!
+**Joanna :** [ferme la porte à clé] Oh. Sophie: Bonjour, je vous ai ramené un gateau !!!
 
-**Joanna:** Oh super ! Je vais le mettre dans mon cul, juste à coté de ta langue [elle prend le gateau et sort]
+**Joanna :** Oh super ! Je vais le mettre dans mon cul, juste à coté de ta langue [elle prend le gateau et sort]
 
-**Rachel:** C'est bizarre qu'elle ait fermé la porte.
+**Rachel :** C'est bizarre qu'elle ait fermé la porte.
 
-**Sophie:** Tu sais quoi ? Elle a la liste des primes là-dedans. Ce matin je l'ai vu quand elle la préparait.
+**Sophie :** Tu sais quoi ? Elle a la liste des primes là-dedans. Ce matin je l'ai vu quand elle la préparait.
 
-**Rachel:** Okay, promets de ne rien dire, mais Marc m'a laissé la clé de son bureau. Tu veux aller voir cette liste ??? Sophie: Ouais ! [Rachel ouvre la porte pour découvrir Chandler à moitié nu menotté à une chaise. Elles hallucinent un peu et Chandler est surpris de les voir]
+**Rachel :** Okay, promets de ne rien dire, mais Marc m'a laissé la clé de son bureau. Tu veux aller voir cette liste ??? Sophie: Ouais ! [Rachel ouvre la porte pour découvrir Chandler à moitié nu menotté à une chaise. Elles hallucinent un peu et Chandler est surpris de les voir]
 
-**Chandler:** Salut ! [à Sophie] Ça va ? [Rachel et Sophie sortent et ferment la porte sans rien dire].
+**Chandler :** Salut ! [à Sophie] Ça va ? [Rachel et Sophie sortent et ferment la porte sans rien dire].
 
 ### [BUREAU DE JOANNA. Chandler, toujours menotté à la chaise, regarde un catalogue de lingerie, il tourne les pages avec ses dents. Le téléphone sonne et Chandler decroche en appuyant sur un bouton avec son nez]
 
-**Chandler:** Allo, Joanna...[il se rend compte qu'il ne connait pas son nom de famille]...&Cie
+**Chandler :** Allo, Joanna...[il se rend compte qu'il ne connait pas son nom de famille]...&Cie
 
-**Joanna:** [au téléphone] Désolé mais ca va durer plus longtemps que prévu.
+**Joanna :** [au téléphone] Désolé mais ça va durer plus longtemps que prévu.
 
-**Chandler:** Combien de temps ?!
+**Chandler :** Combien de temps ?!
 
-**Joanna:** Quelques heures, je suis désolée.
+**Joanna :** Quelques heures, je suis désolée.
 
-**Chandler:** Ecoute c'est pas marrant, alors tu te pointe ici tout de suite !!!
+**Chandler :** Ecoute c'est pas marrant, alors tu te pointe ici tout de suite !!!
 
-**Joanna:** Je peux pas !!
+**Joanna :** Je peux pas !!
 
-**Chandler:** Pourquoi pas ?!
+**Chandler :** Pourquoi pas ?!
 
-**Joanna:** Je suis dans la voiture de mon patron !!!
+**Joanna :** Je suis dans la voiture de mon patron !!!
 
-**Chandler:** Quoi ?!
+**Chandler :** Quoi ?!
 
-**Joanna:** Uh-oh, tunnel. [La communication est coupée] [Chandler a une idée] [Bureau de Rachel, l'intercom sonne.]
+**Joanna :** Uh-oh, tunnel. [La communication est coupée] [Chandler a une idée] [Bureau de Rachel, l'intercom sonne.]
 
-**Rachel:** [répondant enervée] Quoi ?!
+**Rachel :** [répondant enervée] Quoi ?!
 
-**Chandler:** [avec une voix serieuse de businessman] Rachel, Pourrais-je vous voir un instant ? [Rachel entre dans le bureau de Joanna]... Okay, voila la situation. Les clés des menottes sont derrière la porte. Ce serait très sympa que tu les prennes et que tu viennes me libérer ? OK, ca n'a rien avoir, mais j'adore ton nouveau pantalon.
+**Chandler :** [avec une voix serieuse de businessman] Rachel, Pourrais-je vous voir un instant ? [Rachel entre dans le bureau de Joanna]... Okay, voila la situation. Les clés des menottes sont derrière la porte. Ce serait très sympa que tu les prennes et que tu viennes me libérer ? OK, ça n'a rien avoir, mais j'adore ton nouveau pantalon.
 
-**Rachel:** Tu avais promis de la plaquer !!!
+**Rachel :** Tu avais promis de la plaquer !!!
 
-**Chandler:** Je l'ai plaquée !!! Elle a juste très bien pris la chose...
+**Chandler :** Je l'ai plaquée !!! Elle a juste très bien pris la chose...
 
-**Rachel:** Et tu as jamais pensé que tu pouvais ruiner ma carrière ???!
+**Rachel :** Et tu as jamais pensé que tu pouvais ruiner ma carrière ???!
 
-**Chandler:** J'y ai pensé ! Mais après il s'est passé un truc qui m'a fait oublié.
+**Chandler :** J'y ai pensé ! Mais après il s'est passé un truc qui m'a fait oublié.
 
-**Rachel:** OK, tu sais quoi, tu t'es mis dans ces menottes tout seul, eh bien tu t'en sors tout seul !!!.
+**Rachel :** OK, tu sais quoi, tu t'es mis dans ces menottes tout seul, eh bien tu t'en sors tout seul !!!.
 
-**Chandler:** Non-non-non-non-non-non-non !! Je peux pas sortir de ces menottes ! Tu dois me confondre avec Super-Chandler !! Allez, detache moi, elle peut revenir dans des heures et des heures, et j'ai froid, et [arrete de parler et regarde une jupe sur une statue derrière le bureau]
+**Chandler :** Non-non-non-non-non-non-non !! Je peux pas sortir de ces menottes ! Tu dois me confondre avec Super-Chandler !! Allez, detache moi, elle peut revenir dans des heures et des heures, et j'ai froid, et [arrete de parler et regarde une jupe sur une statue derrière le bureau]
 
-**Rachel:** Oh, Chandler !! OK, ecoute ! [elle prend les clés] Tu ne la revois plus jamais !!!
+**Rachel :** Oh, Chandler !! OK, ecoute ! [elle prend les clés] Tu ne la revois plus jamais !!!
 
-**Chandler:** Jamais !
+**Chandler :** Jamais !
 
-**Rachel:** Tu ne remets plus jamais les pieds ici !
+**Rachel :** Tu ne remets plus jamais les pieds ici !
 
-**Chandler:** Pas de probleme !
+**Chandler :** Pas de probleme !
 
-**Rachel:** Tu me rends mon Walkman !
+**Rachel :** Tu me rends mon Walkman !
 
-**Chandler:** J'ai jamais pris ton Walkman.
+**Chandler :** J'ai jamais pris ton Walkman.
 
-**Rachel:** OK, alors je l'ai perdu, tu m'en achete un neuf !!!
+**Rachel :** OK, alors je l'ai perdu, tu m'en achete un neuf !!!
 
-**Chandler:** D'accord ! Allez ! Vas-y ! Excelllent ! [Rachel lui enlève les menotts] Ahhh ! [Il se frotte les poignets]
+**Chandler :** D'accord ! Allez ! Vas-y ! Excelllent ! [Rachel lui enlève les menotts] Ahhh ! [Il se frotte les poignets]
 
-**Rachel:** Ça fait mal ?
+**Rachel :** Ça fait mal ?
 
-**Chandler:** Non, mais dans les films ils font toujours ca quand on leur enlève les menottes. [Il court vers son pantalon] Bonjour gentil pantalon !!
+**Chandler :** Non, mais dans les films ils font toujours ça quand on leur enlève les menottes. [Il court vers son pantalon] Bonjour gentil pantalon !!
 
-**Rachel:** Attend attend, qu'est ce que tu vas dire à Joanna ???
+**Rachel :** Attend attend, qu'est ce que tu vas dire à Joanna ???
 
-**Chandler:** Sur quoi ?
+**Chandler :** Sur quoi ?
 
-**Rachel:** Quand elle va voir que tu es plus là elle va comprendre que je t'ai libéré, et moi je vais me faire virer !!!
+**Rachel :** Quand elle va voir que tu es plus là elle va comprendre que je t'ai libéré, et moi je vais me faire virer !!!
 
-**Chandler:** J'inventerai un truc ! Je suis un bon menteur, je l'avais vraiment emprunté ton Walkman !
+**Chandler :** J'inventerai un truc ! Je suis un bon menteur, je l'avais vraiment emprunté ton Walkman !
 
-**Rachel:** Non, tu vas rien inventer, elle devinera que j'ai la clé de son bureau, Il faut que je te rattache à la chaise comme avant [Elle essaye de le trainer vers la chaise, mais Chandler resiste]
+**Rachel :** Non, tu vas rien inventer, elle devinera que j'ai la clé de son bureau, Il faut que je te rattache à la chaise comme avant [Elle essaye de le trainer vers la chaise, mais Chandler resiste]
 
-**Chandler:** Oh-ho-ho, dans tes rêves !!! [Il commence à mettre son pantalon, mais Rachel arrive à la trainer jusqu'à la chaise. Arrivés près de la chaise, Chandler laisse tomber son pantalon et donne un coup pied dans la chaise. Rachel se met alors à reculer et finit par attacher Chandler à la poignée d'un tiroir]... Eh ben c'est mieux comme ca !!!
+**Chandler :** Oh-ho-ho, dans tes rêves !!! [Il commence à mettre son pantalon, mais Rachel arrive à la trainer jusqu'à la chaise. Arrivés près de la chaise, Chandler laisse tomber son pantalon et donne un coup pied dans la chaise. Rachel se met alors à reculer et finit par attacher Chandler à la poignée d'un tiroir]... Eh ben c'est mieux comme ça !!!
 
 ### [APPARTEMENT DE CHANDLER ET JOEY. Le vendeur essaye toujours de vendre ses encyclopedies]
 
-**Vendeur:**: Tiens, voilà un truc interessant, Joey. Vous savez quoi sur Van Gogh ?
+**Vendeur :** : Tiens, voilà un truc interessant, Joey. Vous savez quoi sur Van Gogh ?
 
-**Joey:** Il s'est coupé une oreille.
+**Joey :** Il s'est coupé une oreille.
 
-**Vendeur:**: Et ?
+**Vendeur :** : Et ?
 
-**Joey:** Je sais pas.
+**Joey :** Je sais pas.
 
-**Vendeur:**: Il a peint ca. [montre une image sur le livre]
+**Vendeur :** : Il a peint ca. [montre une image sur le livre]
 
-**Joey:** Wow ! C'est pas mal. Je croyais qu'il s'était coupé une oreille parce qu'il se trouvait nul. Y'a quoi encore là dedans ?
+**Joey :** Wow ! C'est pas mal. Je croyais qu'il s'était coupé une oreille parce qu'il se trouvait nul. Y'a quoi encore là dedans ?
 
-**Vendeur:**: Voyons voir, ahhh... Où vit le Pape ?
+**Vendeur :** : Voyons voir, ahhh... Où vit le Pape ?
 
-**Joey:** Dans les bois. Non, 2 secondes, ca c'est la réponse de la blague.
+**Joey :** Dans les bois. Non, 2 secondes, ça c'est la réponse de la blague.
 
-**Vendeur:**: Non, c'est au Vatican. Ensuite, que savez vous sur le caoutchouc vulcanisé ????
+**Vendeur :** : Non, c'est au Vatican. Ensuite, que savez vous sur le caoutchouc vulcanisé ????
 
-**Joey:** Préservatifs pour Mr Spock ???
+**Joey :** Préservatifs pour Mr Spock ???
 
-**Vendeur:**: [rigolant] Vous avez vraiment besoin de ces livres.
+**Vendeur :** : [rigolant] Vous avez vraiment besoin de ces livres.
 
 ### [CHAMBRE DE MONICA ENFANT (qui est maintenant une salle de gym). Monica est couchée sur un appareil]
 
-**Phoebe:** Salut !
+**Phoebe :** Salut !
 
-**Monica:** Salut.
+**Monica :** Salut.
 
-**Phoebe:** C'était ta chambre avant ??? [Elle fait "oui" de la tête] Wow ! Tu devais être en forme quand tu étais enfant.
+**Phoebe :** C'était ta chambre avant ??? [Elle fait "oui" de la tête] Wow ! Tu devais être en forme quand tu étais enfant.
 
-**Monica:** Ohh, je suis si bête. Comment j'ai pu croire qu'elle avait changé.
+**Monica :** Ohh, je suis si bête. Comment j'ai pu croire qu'elle avait changé.
 
-**Phoebe:** OK, qui se fout de ce que ta mère pense ? Tu nous as fait une Monica, et alors !!! ??.
+**Phoebe :** OK, qui se fout de ce que ta mère pense ? Tu nous as fait une Monica, et alors !!! ??.
 
-**Monica:** Oh bien, je suis contente que tu me rappelles ca.
+**Monica :** Oh bien, je suis contente que tu me rappelles ca.
 
-**Phoebe:** Non, mais pourquoi est ce que ca doit être négatif ?? Tu dois changer le sens de cette expression. Tu reviens dans la cuisine et tu montres à ta mère ce que tu sais faire. Tu finis le travail pour lequel on t'as engagé, et on appelera ca "faire une Monica".
+**Phoebe :** Non, mais pourquoi est ce que ça doit être négatif ?? Tu dois changer le sens de cette expression. Tu reviens dans la cuisine et tu montres à ta mère ce que tu sais faire. Tu finis le travail pour lequel on t'as engagé, et on appelera ça "faire une Monica".
 
-**Monica:** Quoi ?
+**Monica :** Quoi ?
 
-**Phoebe:** Okay, ummm, si un enfant ne ramène que des 20/20 de l'école, ces parents diront, "Ouais, il nous a fait une Monica", ou alors un pompier sauve un enfant et les gens disent: "Oooh, il nous a fait une Monica". Ou un footballeur met un coup-franc en pleine lucarne, et le commentateur dit: "Il l'a mis pleine lunette", parce que certaines choses ne changent pas.
+**Phoebe :** Okay, ummm, si un enfant ne ramène que des 20/20 de l'école, ces parents diront, "Ouais, il nous a fait une Monica", ou alors un pompier sauve un enfant et les gens disent: "Oooh, il nous a fait une Monica". Ou un footballeur met un coup-franc en pleine lucarne, et le commentateur dit: "Il l'a mis pleine lunette", parce que certaines choses ne changent pas.
 
-**Monica:** [se lève] OK, je redescends. Mais je ne vais pas servir les lasagnes, je vais servir un truc que j'ai fait moi-même. [Monica sort. Phoebe va alors s'asseoir à un appareil de musculation pour pectroraux. Elle bouge les bras et elle lève facilement le poids.]
+**Monica :** [se lève] OK, je redescends. Mais je ne vais pas servir les lasagnes, je vais servir un truc que j'ai fait moi-même. [Monica sort. Phoebe va alors s'asseoir à un appareil de musculation pour pectroraux. Elle bouge les bras et elle lève facilement le poids.]
 
-**Phoebe:** Wow ! Mes seins sont vraiment forts !! [Elle descend rejoindre Monica]
+**Phoebe :** Wow ! Mes seins sont vraiment forts !! [Elle descend rejoindre Monica]
 
 ### [BUREAU DE JOANNA. Rachel et Chandler essayent de trouver un accord]
 
-**Rachel:** Chandler ! Chandler, s'il te plait, il faut que je te re-attache comme tu étais avant sinon je vais me faire virer, Joanna ne veut pas qu'on rentre dans son bureau, maitenant je sais pourquoi !!!
+**Rachel :** Chandler ! Chandler, s'il te plait, il faut que je te re-attache comme tu étais avant sinon je vais me faire virer, Joanna ne veut pas qu'on rentre dans son bureau, maitenant je sais pourquoi !!!
 
-**Chandler:** Ecoute, de toutes facons t'es dans la merde !!! Okay ? Si elle revient et qu'elle me voit attaché ici et pas à la chaise, elle va comprendre que tu es venue ici. Donc ca change rien que tu me laisses partir.
+**Chandler :** Ecoute, de toutes facons t'es dans la merde !!! Okay ? Si elle revient et qu'elle me voit attaché ici et pas à la chaise, elle va comprendre que tu es venue ici. Donc ça change rien que tu me laisses partir.
 
-**Rachel:** OK, et si je lave ta salle de bain pendant un mois ?
+**Rachel :** OK, et si je lave ta salle de bain pendant un mois ?
 
-**Chandler:** Ce serait même pas propre après !! [Rachel fait une moue dégoutée] Je veux ma liberté, c'est tout.
+**Chandler :** Ce serait même pas propre après !! [Rachel fait une moue dégoutée] Je veux ma liberté, c'est tout.
 
-**Rachel:** Massage de pieds pendant un mois !
+**Rachel :** Massage de pieds pendant un mois !
 
-**Chandler:** Liberté !
+**Chandler :** Liberté !
 
-**Rachel:** Je classerais tes photos dans des albums !
+**Rachel :** Je classerais tes photos dans des albums !
 
-**Chandler:** Liberté ! Je veux ma liberté ! Pourquoi tu comprends pas ???! [il ouvre la porte] Sophie, à l'aide ! À l'aide ! [Sophie se lève]
+**Chandler :** Liberté ! Je veux ma liberté ! Pourquoi tu comprends pas ???! [il ouvre la porte] Sophie, à l'aide ! À l'aide ! [Sophie se lève]
 
-**Rachel:** Assis Sophie !! [Elle ferme la porte et empeche Chandler de parler en lui mettant sa cravatte dans la bouche]... Non, calme toi bon Dieu !!! [Chandler essaye de crier mais la cravatte l'en empeche, il crache alors la cravatte]
+**Rachel :** Assis Sophie !! [Elle ferme la porte et empeche Chandler de parler en lui mettant sa cravatte dans la bouche]... Non, calme toi bon Dieu !!! [Chandler essaye de crier mais la cravatte l'en empeche, il crache alors la cravatte]
 
-**Chandler:** Je vais te le demander une dernière fois. Est ce que tu pourrais s'il te plait... [Il bouge sa main en avant, mais comme cette main est attaché au tiroir, il s'ouvre et vient taper Chandler derrière la tête, il s'arrête alors de parler]
+**Chandler :** Je vais te le demander une dernière fois. Est ce que tu pourrais s'il te plait... [Il bouge sa main en avant, mais comme cette main est attaché au tiroir, il s'ouvre et vient taper Chandler derrière la tête, il s'arrête alors de parler]
 
 ### [APPARTEMENT DE CHANDLER ET JOEY. Joey est entrain de lire le volume "V" de l'encyclopedie]
 
-**Joey:** Wow ! Y'a tellement de choses à savoir sur le vomi. [Le canard sort de la salle bain en faisant coin-coin] [au canard] 2 secondes s'il te plait. [le canard repart dans la salle de bain]
+**Joey :** Wow ! Y'a tellement de choses à savoir sur le vomi. [Le canard sort de la salle bain en faisant coin-coin] [au canard] 2 secondes s'il te plait. [le canard repart dans la salle de bain]
 
-**Vendeur:**: Alors, vous en pensez quoi ??? Je vous fais le tout pour 7200 Francs, ce qui revient à 300 Francs le volume !
+**Vendeur :** : Alors, vous en pensez quoi ??? Je vous fais le tout pour 7200 Francs, ce qui revient à 300 Francs le volume !
 
-**Joey:** 7200 Francs ? Vous pensez que j'ai 7200 francs ??? Je suis à la maison en plein milieu de la journée et jäai des meubles de jardin dans mon salon !!! Apparement y'a certains trucs qu'on apprend pas dans votre encyclopedie !!!
+**Joey :** 7200 Francs ? Vous pensez que j'ai 7200 francs ??? Je suis à la maison en plein milieu de la journée et jäai des meubles de jardin dans mon salon !!! Apparement y'a certains trucs qu'on apprend pas dans votre encyclopedie !!!
 
-**Vendeur:** OK, combien vous avez alors ???
+**Vendeur :** OK, combien vous avez alors ???
 
-**Joey:** Ben zéro actuellement, et zéro pour une très longue periode !!
+**Joey :** Ben zéro actuellement, et zéro pour une très longue periode !!
 
-**Vendeur:** Vous avez rien ???
+**Vendeur :** Vous avez rien ???
 
-**Joey:** Vous voulez voir ce que j'ai ?? [Il se lève et vide ses poches] Okay ? J'ai un mini-bounty un ticket de cinéma, mes clés, un Kleenex, un caillou, et un soldat en plastique. Eh !
+**Joey :** Vous voulez voir ce que j'ai ?? [Il se lève et vide ses poches] Okay ? J'ai un mini-bounty un ticket de cinéma, mes clés, un Kleenex, un caillou, et un soldat en plastique. Eh !
 
-**Vendeur:**: Okay, je vois le genre. Uh, merci pour votre temps. [commence à partir]
+**Vendeur :** : Okay, je vois le genre. Uh, merci pour votre temps. [commence à partir]
 
-**Joey:** Et 300 francs... [le
+**Joey :** Et 300 francs... [le
 
-**Vendeur:** [s'arrête] Huh, ce pantalon doit être à Chandler... Pour 300 balles, Vous pouvez acheter un livre ! Quel volume vous préférez ? A ? B ? C ?
+**Vendeur :** [s'arrête] Huh, ce pantalon doit être à Chandler... Pour 300 balles, Vous pouvez acheter un livre ! Quel volume vous préférez ? A ? B ? C ?
 
-**Joey:** Oh, je crois que je vais prendre le "V", je veux voir comment ca finit.
+**Joey :** Oh, je crois que je vais prendre le "V", je veux voir comment ça finit.
 
 ### [BUREAU DE JOANNA. Rachel et Chandler sont toujours en négociation]
 
-**Rachel:** Je ferai tes courses et tes paquets de Noel.
+**Rachel :** Je ferai tes courses et tes paquets de Noel.
 
-**Chandler:** Non !
+**Chandler :** Non !
 
-**Rachel:** Je, euuh, je te presserai du jus d'orange frais tous les matins !!
+**Rachel :** Je, euuh, je te presserai du jus d'orange frais tous les matins !!
 
-**Chandler:** Avec beaucoup de pulpe ???
+**Chandler :** Avec beaucoup de pulpe ???
 
-**Rachel:** [heureuse] Ouiii !!
+**Rachel :** [heureuse] Ouiii !!
 
-**Chandler:** Non !
+**Chandler :** Non !
 
-**Rachel:** D'oh !! [pause] J'ai trouvé !
+**Rachel :** D'oh !! [pause] J'ai trouvé !
 
-**Chandler:** Non t'as pas trouvé.
+**Chandler :** Non t'as pas trouvé.
 
-**Rachel:** Oh si j'ai trouvé. Il va y avoir des rumeurs sur ca, on peut pas l'empecher. Sophie sait, Monica et Phoebe savent.
+**Rachel :** Oh si j'ai trouvé. Il va y avoir des rumeurs sur ca, on peut pas l'empecher. Sophie sait, Monica et Phoebe savent.
 
-**Chandler:** Et comment savent-elles ?
+**Chandler :** Et comment savent-elles ?
 
-**Rachel:** Oh, je les ai appelé. Et quand elles me demanderont ce que j'ai vu, [elle écarte ses mains considerablement] je peux être très généreuse, ou très [avec une voix aigue] méchante.
+**Rachel :** Oh, je les ai appelé. Et quand elles me demanderont ce que j'ai vu, [elle écarte ses mains considerablement] je peux être très généreuse, ou très [avec une voix aigue] méchante.
 
-**Chandler:** [intrigué] Continue.
+**Chandler :** [intrigué] Continue.
 
-**Rachel:** Tu peux devenir une légende, tu peux devenir le nouveau Rocco Siffredi....
+**Rachel :** Tu peux devenir une légende, tu peux devenir le nouveau Rocco Siffredi....
 
-**Chandler:** Et Rocco Siffredi a une grande...
+**Chandler :** Et Rocco Siffredi a une grande...
 
-**Rachel:** Ohh, rien du tout comparé à toi. [Chandler est très interessé et acquiesse de la tête]
+**Rachel :** Ohh, rien du tout comparé à toi. [Chandler est très interessé et acquiesse de la tête]
 
 ### [CUISINE DES GELLER. Phoebe revient avec des assiettes sales]
 
-**Monica:** Alors ?
+**Monica :** Alors ?
 
-**Phoebe:** Ils n'ont même pas touché les lasagnes !
+**Phoebe :** Ils n'ont même pas touché les lasagnes !
 
-**Monica:** Vraiment ?!
+**Monica :** Vraiment ?!
 
-**Phoebe:** Oh, ils ont adoré ta fricassée.
+**Phoebe :** Oh, ils ont adoré ta fricassée.
 
-**Monica:** Oui !!!
+**Monica :** Oui !!!
 
-**Phoebe:** C'est dur de croire qu'il y a un moment c'était juste un tas d'ingrédients.
+**Phoebe :** C'est dur de croire qu'il y a un moment c'était juste un tas d'ingrédients.
 
-**Mme Geller:** [entre] Eh bien, aparement tout le monde a aimé ton plat.
+**Mme Geller :** [entre] Eh bien, aparement tout le monde a aimé ton plat.
 
-**Monica:** Et toi ?
+**Monica :** Et toi ?
 
-**Mme Geller:** J'ai trouvé ca... delicieux.
+**Mme Geller :** J'ai trouvé ca... delicieux.
 
-**Monica:** Donc, si tout le monde a aimé, si toi aussi tu as aimé, ca devient donc un succès, ce qui fait que toi tu deviens une...
+**Monica :** Donc, si tout le monde a aimé, si toi aussi tu as aimé, ça devient donc un succès, ce qui fait que toi tu deviens une...
 
-**Mme Geller:** [l'interompant] salope ?
+**Mme Geller :** [l'interompant] salope ?
 
-**Monica:** Ben je voulais dire mauvaise langue, mais on peut utiliser ton mot.
+**Monica :** Ben je voulais dire mauvaise langue, mais on peut utiliser ton mot.
 
-**Mme Geller:** OK, j'avais tord, et je dois avouer que tu m'as impressioné.
+**Mme Geller :** OK, j'avais tord, et je dois avouer que tu m'as impressioné.
 
-**Monica:** Wow !
+**Monica :** Wow !
 
-**Phoebe:** Umm, on peut dire qu'elle a fait une Monica. [Monica et sa mère regarde Phoebe] [à Monica] Elle sait pas qu'on a changé le sens. [Monica fait "Non" de la tête]
+**Phoebe :** Umm, on peut dire qu'elle a fait une Monica. [Monica et sa mère regarde Phoebe] [à Monica] Elle sait pas qu'on a changé le sens. [Monica fait "Non" de la tête]
 
-**Mme Geller:** Et la prochaine fois que je te demande de faire la cuisine, il y aura seulement de la glace au congélateur. [Elle commence à se manger les ongles]
+**Mme Geller :** Et la prochaine fois que je te demande de faire la cuisine, il y aura seulement de la glace au congélateur. [Elle commence à se manger les ongles]
 
-**Monica:** Ça représente beaucoup pour moi. Oh, et arrête donc de manger tes ongles.
+**Monica :** Ça représente beaucoup pour moi. Oh, et arrête donc de manger tes ongles.
 
 ### [CENTRAL PERK. Tout le groupe est présent excepté Chandler]
 
-**Chandler:** [entre] Salut.
+**Chandler :** [entre] Salut.
 
-**Joey, Rachel, et Ross:** Salut !
+**Joey, Rachel, et Ross :** Salut !
 
-**Monica:** [avec une voix sexy] Salut, Chandler. [Phoebe a un grand sourire sur son visage]
+**Monica :** [avec une voix sexy] Salut, Chandler. [Phoebe a un grand sourire sur son visage]
 
-**Chandler:** [à Rachel] Je t'adore. [il l'embrasse sur le front]
+**Chandler :** [à Rachel] Je t'adore. [il l'embrasse sur le front]
 
-**Joey:** Qu'est ce qui se passe ?
+**Joey :** Qu'est ce qui se passe ?
 
-**Phoebe:** Oh. [Elle s'approche de Joey et lui murmure dans l'oreille ce que Rachel lui a dit. Ross et Joey éclate alors de rire]
+**Phoebe :** Oh. [Elle s'approche de Joey et lui murmure dans l'oreille ce que Rachel lui a dit. Ross et Joey éclate alors de rire]
 
-**Joey:** Non, il en a pas une comme ca !
+**Joey :** Non, il en a pas une comme ça !
 
-**Chandler:** [regarde sa montre] OK, ca a tenu 2 heures !
+**Chandler :** [regarde sa montre] OK, ça a tenu 2 heures !
 
-**Rachel:** Tu as plaqué Joanna ?
+**Rachel :** Tu as plaqué Joanna ?
 
-**Chandler:** Je pense.
+**Chandler :** Je pense.
 
-**Joey:** Ben il était temps que tu la plaques, elle était sur le point d'exploser comme le Vésuve.
+**Joey :** Ben il était temps que tu la plaques, elle était sur le point d'exploser comme le Vésuve.
 
-**Ross:** Le volcan ?
+**Ross :** Le volcan ?
 
-**Joey:** Ouais, et en parlant des volcans, ils sont quand-même formés de roches en fusion !!!.
+**Joey :** Ouais, et en parlant des volcans, ils sont quand-même formés de roches en fusion !!!.
 
-**Rachel:** Quoi ?!
+**Rachel :** Quoi ?!
 
-**Joey:** Oh yeah, c'est plein de laves, de nuées ardentes, heureusement que la plupart sont éteints.
+**Joey :** Oh yeah, c'est plein de laves, de nuées ardentes, heureusement que la plupart sont éteints.
 
-**Monica:** Pourquoi tu nous parles des volcans tout à coup ?
+**Monica :** Pourquoi tu nous parles des volcans tout à coup ?
 
-**Joey:** On peut parler d'autres choses, qu'est ce qui vous branche ? La vivisection ? Les vases communiquants ? La guerre du Vietnam ?
+**Joey :** On peut parler d'autres choses, qu'est ce qui vous branche ? La vivisection ? Les vases communiquants ? La guerre du Vietnam ?
 
-**Monica:** Oh ! Est ce que quelqu'un a vu ce documentaire sur la guerre de Corée ? [Joey est dégouté]
+**Monica :** Oh ! Est ce que quelqu'un a vu ce documentaire sur la guerre de Corée ? [Joey est dégouté]
 
-**Tous:** Oh, yeah. Yeah.
+**Tous :** Oh, yeah. Yeah.
 
-**Phoebe:** Oh God, la Corée est un si beau pays.
+**Phoebe :** Oh God, la Corée est un si beau pays.
 
-**Ross:** Avec un passé si triste.
+**Ross :** Avec un passé si triste.
 
-**Chandler:** Ouais, ils s'apellent tous Kim là-bas. [Tout le monde rigole, Joey fait de même pour ne pas montrer qu'il n'a pas compris la blague. Quand les rires s'arrêtent Joey a un air très déprimé]
+**Chandler :** Ouais, ils s'apellent tous Kim là-bas. [Tout le monde rigole, Joey fait de même pour ne pas montrer qu'il n'a pas compris la blague. Quand les rires s'arrêtent Joey a un air très déprimé]
 
 ### GENERIQUE FIN
 
 ### [BUREAU DE RACHEL. Rachel arrive pour commencer sa journée]
 
-**Joanna:** [depuis son bureau] Qui est là ?
+**Joanna :** [depuis son bureau] Qui est là ?
 
-**Rachel:** C'est moi, bonjour !
+**Rachel :** C'est moi, bonjour !
 
-**Joanna:** Rachel, pouvez vous venir un moment s'il vous plait ?
+**Joanna :** Rachel, pouvez vous venir un moment s'il vous plait ?
 
-**Rachel:** Oui, bien sur, umm, ils avaient pas de pain au sésame, donc j'ai... [Entre dans le bureau et découvre Joanna en nuisette menotté à une chaise] Oh mon Dieu !
+**Rachel :** Oui, bien sur, umm, ils avaient pas de pain au sésame, donc j'ai... [Entre dans le bureau et découvre Joanna en nuisette menotté à une chaise] Oh mon Dieu !
 
-**Joanna:** Il y a eu un petit malentendu. Pouvez vous récuperer les clés derrière la porte pour moi.
+**Joanna :** Il y a eu un petit malentendu. Pouvez vous récuperer les clés derrière la porte pour moi.
 
-**Rachel:** Oh, oui, oui !! [Elle s'approche de la porte, puis se demande si elle doit poser son pain avant ou après, elle pose finalement le pain sur la table et va chercher les clés]
+**Rachel :** Oh, oui, oui !! [Elle s'approche de la porte, puis se demande si elle doit poser son pain avant ou après, elle pose finalement le pain sur la table et va chercher les clés]
 
-**Joanna:** Vous direz à votre ami Chandler que cette fois c'est fini entre nous !!!
+**Joanna :** Vous direz à votre ami Chandler que cette fois c'est fini entre nous !!!
 
-**Rachel:** Okay.
+**Rachel :** Okay.
 
 ### FIN
 
@@ -1593,7 +1593,7 @@ Traduit par Laura Cynober
 
 **Rachel :** Pardon. Je ne viens pas souvent ici.
 
-**M. Treeger :** Bien sûr que non. Princesse oblige ! Papa, paie-moi une pizza ! Et une fabrique de bonbecs ! Fais chanter la troupe de Cats à ma fête.  Vous pouvez vous pointer mettre le souk, un gars en bleu nettoiera ! Pensez donc aux autres, pour changer.
+**M. Treeger :** Bien sûr que non. Princesse oblige ! Papa, paie-moi une pizza ! Et une fabrique de bonbecs ! Fais chanter la troupe de Cats à ma fête. Vous pouvez vous pointer mettre le souk, un gars en bleu nettoiera ! Pensez donc aux autres, pour changer.
 
 **Rachel :** Oui, pardon.
 
@@ -2039,7 +2039,7 @@ Traduit par Laura Cynober
 
 ### [Scène : Chez Lara et Jen Massage. Phoebe postule pour une place de masseuse.]
 
-**La directrice :**  Vous avez de l'expérience. Pourquoi avoir quitté votre emploi ?
+**La directrice :** Vous avez de l'expérience. Pourquoi avoir quitté votre emploi ?
 
 **Phoebe :** Je passais pour une pute.
 
@@ -2069,9 +2069,9 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### [Scène : Au Central Perk, toute la bande est réunie. Ross tient dans sa main un bout de papier qu'il jette par terre pour essayer d'attirer l'attention de Rachel.]
 
-**Ross, ramassant le papier :** Tiens, tiens !Qu'est-ce que c'est ?Ah oui, c'est le numéro de téléphone de cette fille. (Rachel l'ignore). C'est bien ça, c'est un numéro de téléphone... qu'une très jolie fille m'a donné. (Il le tient de façon à ce que Rachel puisse le voir. Elle l'ignore touojurs). Rien de spécial. C'est le numéro de chez elle, mais...(Rachel continue à l'ignorer). Oups...!(Il jette le papier sur ses genoux). J'ai failli le perdre ! La belle Amanda me donne son numéro et je le laisse tomber.(Il l'agite devant Rachel. Soudain, Phoebe éternue : Rachel attrape le papier et le donne à Phoebe pour qu'elle se mouche dedans.)
+**Ross, ramassant le papier :** Tiens, tiens ! Qu'est-ce que c'est ? Ah oui, c'est le numéro de téléphone de cette fille. (Rachel l'ignore). C'est bien ça, c'est un numéro de téléphone... qu'une très jolie fille m'a donné. (Il le tient de façon à ce que Rachel puisse le voir. Elle l'ignore touojurs). Rien de spécial. C'est le numéro de chez elle, mais...(Rachel continue à l'ignorer). Oups...!(Il jette le papier sur ses genoux). J'ai failli le perdre ! La belle Amanda me donne son numéro et je le laisse tomber.(Il l'agite devant Rachel. Soudain, Phoebe éternue : Rachel attrape le papier et le donne à Phoebe pour qu'elle se mouche dedans.)
 
-**Phoebe:** Merci.
+**Phoebe :** Merci.
 
 ### GENERIQUE DE DEBUT
 
@@ -2125,19 +2125,19 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Chandler :** En silence ! S'asressant à Kathy, la fille qu'il apprécie). Salut. J'étais assis là-bas et... euh... Chandler ! Je m'appelle Chandler. Je l'ai dit ?
 
-**Kathy:** Non. Moi, c'est Kathy.
+**Kathy :** Non. Moi, c'est Kathy.
 
 **Chandler :** Avec un K ou un C ?
 
-**Kathy:** Un K.
+**Kathy :** Un K.
 
 **Chandler :** Hoho !
 
-**Kathy:** Waoh !Vous êtes très doué !
+**Kathy :** Waoh ! Vous êtes très doué !
 
 **Chandler :** Aidez-moi, j'ai pris un risque.
 
-**Kathy:** Vous avez raison. Excusez-moi. Mais je devrais vous prévenir : j'attends mon copain.(Joey entre). Justement, le voilà !
+**Kathy :** Vous avez raison. Excusez-moi. Mais je devrais vous prévenir : j'attends mon copain.(Joey entre). Justement, le voilà !
 
 **Joey :** Hé !
 
@@ -2149,43 +2149,43 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Joey :** Je te l'avais pas dit ? Toujours en train de frimer !
 
-**Phoebe :** Je dois vous prévenir que j'ai un rhume. Si j'éternue au milieu d'une chanson, ce n'est pas exprès. Sauf au dernier couplet de " Poivre et sel. "(Elle commence à chanter). Chat qui pue, chat qui pue. Qu 'as-tu encore mangé ? (Elle s'arrête). Ça commence pas mal.(Elle recommence à chanter). Chat qui pue...(Elle s'arrête de nouveau). Gunther,sois gentil. Amène-moi un whisky.
+**Phoebe :** Je dois vous prévenir que j'ai un rhume. Si j'éternue au milieu d'une chanson, ce n'est pas exprès. Sauf au dernier couplet de " Poivre et sel. "(Elle commence à chanter). Chat qui pue, chat qui pue. Qu 'as-tu encore mangé ? (Elle s'arrête). Ça commence pas mal.(Elle recommence à chanter). Chat qui pue...(Elle s'arrête de nouveau). Gunther, sois gentil. Amène-moi un whisky.
 
 ### [Scène : Chez Chandler et Joey, Chandler, qui vient de se lever en plein milieu de la nuit, entre dans le salon.]
 
 ### Chandler (s'apercevant que Kathy est debout, en train de regarder la télé) : Salut !
 
-**Kathy:** Salut !
+**Kathy :** Salut !
 
 **Chandler :** A 2h30 du matin, d'habitude, je n'ai pas à me battre pour avoir la télécommande.
 
-**Kathy:** Excuse-moi. c'est qu'ils passent un truc avec Ernie Kovacs que je veux absolument voir.
+**Kathy :** Excuse-moi. c'est qu'ils passent un truc avec Ernie Kovacs que je veux absolument voir.
 
 **Chandler :** C'est ce que je veux voir !
 
-**Kathy:** Sans blague ? Je l'adore !
+**Kathy :** Sans blague ? Je l'adore !
 
 **Chandler :** Désolé pour cet après-midi. Si j'avais su que vous deux étiez... Je n'aurais jamais...
 
-**Kathy:** Je t'en prie.
+**Kathy :** Je t'en prie.
 
 **Chandler :** Alors comme ça tu as connu Joey au cours de théâtre ?
 
-**Kathy:** Oui. On doit jouer ensemble. Joey a choisi trois scènes. Trois scènes où on s'embrasse.
+**Kathy :** Oui. On doit jouer ensemble. Joey a choisi trois scènes. Trois scènes où on s'embrasse.
 
 **Chandler :** C'est bien. Avant, c'était moi qui devais répéter avec lui.
 
-### Kathy(Elle rit) : Wouhou !
+### Kathy (Elle rit) : Wouhou !
 
 **Chandler :** Ça commence ?
 
-**Kathy:** Non. Mais ce balai magique est génial !
+**Kathy :** Non. Mais ce balai magique est génial !
 
 **Chandler (Il court dans la cuisine et lui montre son balai magique) :** Hé ! Regarde !
 
-**Kathy:** lncroyable !
+**Kathy :** lncroyable !
 
-**Chandler :** Ça commence !( Il entre d'un bond dans le canoë et s'asseoit. Le poussin se met à piailler. Il se baisse pour le ramasser). Viens-là, mon petit.
+**Chandler :** Ça commence !(Il entre d'un bond dans le canoë et s'asseoit. Le poussin se met à piailler. Il se baisse pour le ramasser). Viens-là, mon petit.
 
 ### Kathy (riant) : Et le canard ?
 
@@ -2249,7 +2249,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Monica :** Et quand ta mère est morte ? Et que tu t'es retrouvée à la rue à 14 ans...
 
-**Phoebe :** Ça y est, j'ai trouvé !Un jour, j'ai eu un épi dans les cheveux.
+**Phoebe :** Ça y est, j'ai trouvé ! Un jour, j'ai eu un épi dans les cheveux.
 
 **Ross (Il entre) :** Salut !
 
@@ -2275,7 +2275,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Josh :** Les mecs...
 
-**Monica :** Tu jouais au foot au lycée ? (Elle fait allusion à son sweat-shirt de "New-York University Football" ).
+**Monica :** Tu jouais au foot au lycée ? (Elle fait allusion à son sweat-shirt de "New-York University Football").
 
 **Josh :** Je joue toujours. L'an prochain, j'espère pouvoir aller en fac.
 
@@ -2291,7 +2291,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Monica :** Très mignon...
 
-**Rachel :** ll est génial !Ça me change, d'être enfin avec quelqu' un de marrant. ll n'est jamais ennuyeux, lui. Et je parie qu'il n'est jamais allé dans un musée...
+**Rachel :** ll est génial ! Ça me change, d'être enfin avec quelqu' un de marrant. ll n'est jamais ennuyeux, lui. Et je parie qu'il n'est jamais allé dans un musée...
 
 **Ross :** ll aura sans doute l'occasion d'y aller bientôt. Pour une sortie scolaire, par exemple.
 
@@ -2305,7 +2305,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Monica :** C'est un truc stupide que Ross avait inventé pour nos parents. C'était un moyen de faire un doigt d'honneur sans avoir vraiment à le faire. J'ai pleuré, quand tu as inventé ça. J'ai réalisé que j'étais moins bête que mon grand frère.
 
-**Ross :** Bon... Je vais aller me préparer...(Il fait ce même geste à Monica)pour mon rendez-vous de ce soir. Je fonce.
+**Ross :** Bon... Je vais aller me préparer...(Il fait ce même geste à Monica) pour mon rendez-vous de ce soir. Je fonce.
 
 **Phoebe :** Je dois y aller aussi. Je chante dans une heure.(Elle se racle la gorge et parle de sa voix habituelle). Venez donc m'écouter. Ecoutez ! (Elle essaye de chanter). Mes chaussures collantes... Mince ! J'ai perdu ma bronchite sexy !
 
@@ -2363,7 +2363,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Kathy !
 
-**Kathy :** Hé, Chandler !Qu'est-ce que tu fais là ?
+**Kathy :** Hé, Chandler ! Qu'est-ce que tu fais là ?
 
 **Chandler :** Je voulais juste dire bonjour.
 
@@ -2385,7 +2385,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Phoebe :** Je veux être sexy à nouveau. J'essaye d'attraper un rhume. ll paraît que le virus traîne.
 
-**Monica :** Phoebe !Tu risques une pneumonie.
+**Monica :** Phoebe ! Tu risques une pneumonie.
 
 **Chandler, entrant :** OK. Vous aviez raison. J'aime la copine de Joey.
 
@@ -2451,7 +2451,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Rachel :** Oh... (Elle veut se détacher de Josh, mais il la retient toujours). Arrête !
 
-**Josh :** On se voit à la fête ?La fête de la bière ! On va s'éclater !
+**Josh :** On se voit à la fête ? La fête de la bière ! On va s'éclater !
 
 **Rachel :** Ouais !! (Monica lève les deux pouces de façon sarcastisque ; Josh s'en va). ll ferait un mari idéal.(Rachel regarde dans son portefeuille). Ohoh !
 
@@ -2501,7 +2501,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Chandler :** Je crois que c'est à cause des bas résille. Les filles en bas résille, ça me rappelle... mon père en bas résille.
 
-**Kathy :** D'accord. Je comprends mieux pourquoi tu es célibataire. J'ai une copine , elle te plairait, elle est très jolie. On pourrait sortir tous les quatre.
+**Kathy :** D'accord. Je comprends mieux pourquoi tu es célibataire. J'ai une copine, elle te plairait, elle est très jolie. On pourrait sortir tous les quatre.
 
 **Chandler :** Non, merci.
 
@@ -2519,13 +2519,13 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Joey :** Fais mieux semblant.
 
-**Chandler :** Si j'allais lui dire qu'elle me plaît ? Que je pense à elle tout le temps ? Depuis notre première rencontre ?Que je pourrais me trancher la gorge... par amour pour elle, et qu'à chaque instant de chaque minute de chaque heure de chaque jour... je te maudis de l'avoir rencontrée le premier !
+**Chandler :** Si j'allais lui dire qu'elle me plaît ? Que je pense à elle tout le temps ? Depuis notre première rencontre ? Que je pourrais me trancher la gorge... par amour pour elle, et qu'à chaque instant de chaque minute de chaque heure de chaque jour... je te maudis de l'avoir rencontrée le premier !
 
 **Joey :** Pas mal du tout. Mais n'en rajoute pas trop.
 
 ### [Scène : Chez Monica et Rachel, Monica et Rachel discutent.]
 
-**Ross, entrant :** Amanda m'a déposé en voiture. C'est un de ses bons côtés : elle a l'âge de conduire. (A Monica)Je suppose que tu ne viens pas dîner chez les parents.
+**Ross, entrant :** Amanda m'a déposé en voiture. C'est un de ses bons côtés : elle a l'âge de conduire. (A Monica) Je suppose que tu ne viens pas dîner chez les parents.
 
 **Monica :** Non, désolée.
 
@@ -2539,11 +2539,11 @@ Traduit par Stéphan Levine et Marion Bayol
 
 **Ross :** Moi, au moins, elle ne sort pas avec moi... pour voir des films X.
 
-**Rachel :** Pourquoi tu ne l'épouses pas ?Non, j'avais oublié ! Elle n'est pas lesbienne.
+**Rachel :** Pourquoi tu ne l'épouses pas ? Non, j'avais oublié ! Elle n'est pas lesbienne.
 
 **Ross :** Amanda et moi nous sommes très...
 
-**Monica, les interrompant :** Vous n'êtes rien !Vous n'êtes pas ensemble ! Tu es sa baby-sitter. Tu piques le boulot d'une gamine !
+**Monica, les interrompant :** Vous n'êtes rien ! Vous n'êtes pas ensemble ! Tu es sa baby-sitter. Tu piques le boulot d'une gamine !
 
 **Rachel, riant :** C'est tellement nul !
 
@@ -2575,7 +2575,7 @@ Traduit par Stéphan Levine et Marion Bayol
 
 ### Les chèvres trottent trottent
 
-### En semant des petites crottes. (A Gunther)Ça marche, même sans ma voix sexy ?
+### En semant des petites crottes. (A Gunther) Ça marche, même sans ma voix sexy ?
 
 **Gunther :** Ça me plaît. Il éternue.
 
@@ -2791,7 +2791,7 @@ Traduit par Laura Cynober
 
 **Cheryl :** Ça te dit d'entrer ?
 
-**Ross :**  L'homo erectus chassait-il avec des outils en bois ?
+**Ross :** L'homo erectus chassait-il avec des outils en bois ?
 
 **Cheryl :** A en croire certaines études.
 
@@ -3151,7 +3151,7 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 ### [SCENE : chez Monica et Rachel, tout le monde est là sauf Joey et Chandler qui déjeunent]
 
-**Chandler :**(entre en peignoir) J'ai vu Kathy nue dans la salle de bains. Quelle torture !
+**Chandler :** (entre en peignoir) J'ai vu Kathy nue dans la salle de bains. Quelle torture !
 
 **Ross :** Si un jour tu es prisonnier de guerre, tu vas être surpris.
 
@@ -3505,7 +3505,7 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 ### [SCENE : Central Perk, Ross a fini de jouer et range ses affaires]
 
-**Ross :**(s'adresse à Phoebe) Hey !
+**Ross :** (s'adresse à Phoebe) Hey !
 
 **Phoebe :** Tu as été génial. Vraiment génial.
 
@@ -4029,7 +4029,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 **Monica :** Moi, avec le fils de Richard.
 
-**Joey :** Ewwwww !! ew !ew !ew !
+**Joey :** Ewwwww !! ew ! ew ! ew !
 
 **Chandler :** (dans la boite, dans le salon) Très mauvaise idée.
 
@@ -4045,7 +4045,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 **Joey :** Chandler ?
 
-**Chandler :** Le sens de la boîte est triple. Et d'un : (sort un doigt par le trou) ça me donne le temps de méditer sur ce que j'ai fait. De deux : (en sort un deuxième)ça prouve combien compte mon amitié avec Joey. Et de trois : (puis un troisième) ça fait mal !
+**Chandler :** Le sens de la boîte est triple. Et d'un : (sort un doigt par le trou) ça me donne le temps de méditer sur ce que j'ai fait. De deux : (en sort un deuxième) ça prouve combien compte mon amitié avec Joey. Et de trois : (puis un troisième) ça fait mal !
 
 **Ross :** (s'adresse à Rachel) Le collier de l'an dernier... Je peux le voir ?
 
@@ -4951,7 +4951,7 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 ### (Monica entre.)
 
-**Tous:** Salut !
+**Tous :** Salut !
 
 **Phoebe :** Ça ne va pas ?
 
@@ -4993,29 +4993,29 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Chandler :** Dis-moi, Drew... Tu es libre en ce moment ? Je ne demande pas pour moi. Je ne suis pas gay. Je ne t'invite pas. Je ne suis pas gay.
 
-**Drew:** Je ne l'ai jamais pensé. Maintenant, si.
+**Drew :** Je ne l'ai jamais pensé. Maintenant, si.
 
 **Chandler :** Mon amie Rachel veut rencontrer quelqu'un.
 
-**Drew:** Je sors d'une relation. Je ne cherche rien de sérieux.
+**Drew :** Je sors d'une relation. Je ne cherche rien de sérieux.
 
 **Chandler :** Parfait. Même un petit flirt conviendrait à Rachel.
 
-**Mike:** Rachel, la super nana qu'on a vue l'autre jour ?
+**Mike :** Rachel, la super nana qu'on a vue l'autre jour ?
 
 **Chandler :** C'est son nom de famille.
 
-**Mike:** Je suis libre pour elle.
+**Mike :** Je suis libre pour elle.
 
-**Drew:** Je n'ai pas dit que j'étais pris.
+**Drew :** Je n'ai pas dit que j'étais pris.
 
-**Mike:** On en parlera au match, demain.
+**Mike :** On en parlera au match, demain.
 
-**Drew:** Attends ! J'ai reçu une boîte de havanes. Je te les apporte vers cinq heures.
+**Drew :** Attends ! J'ai reçu une boîte de havanes. Je te les apporte vers cinq heures.
 
 **Chandler :** Je préfère partir plus tôt, d'habitude. Mais d'accord...
 
-**Mike:** Avant le match, on pourrait boire un Basil Haydens.
+**Mike :** Avant le match, on pourrait boire un Basil Haydens.
 
 **Chandler :** Je ne connais pas, mais volontiers !
 
@@ -5047,7 +5047,7 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Chandler :** Bonjour, les enfants !
 
-**Tous:** Hé !
+**Tous :** Hé !
 
 **Chandler :** Je t'ai trouvé cinquante mecs !
 
@@ -5101,7 +5101,7 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Monica :** Et comment, que je vais vous virer ! A tout à l'heure.
 
-### [Scène : Central Perk, Ross, Phoebe, et Chandler sont là.] 
+### [Scène : Central Perk, Ross, Phoebe, et Chandler sont là.]
 
 **Ross :** Je dois partir. J'ai rendez-vous.
 
@@ -5135,7 +5135,7 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Joey :** Qu'est-ce qu'elle a, ta veste ?
 
-**Monica :** Ils l'ont cuite. Ça suffit. Je vais les réunir.  Je te vire ce soir.
+**Monica :** Ils l'ont cuite. Ça suffit. Je vais les réunir. Je te vire ce soir.
 
 **Joey :** Ça marche. (Il commence à tapoter la partie brûlée de la veste qui se trouve au niveau de la poitrine de Monica.)
 
@@ -5163,9 +5163,9 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Chandler :** Pourquoi ? J'adore les filles qui veulent juste... Je vois.
 
-**Rachel :** Tu lui dis ca et moi je couche le premier soir... Que va-t-il s'imaginer ?
+**Rachel :** Tu lui dis ça et moi je couche le premier soir... Que va-t-il s'imaginer ?
 
-### [Scène : Chez Allesandro, Joey mange du fromage dans la cuisine.] 
+### [Scène : Chez Allesandro, Joey mange du fromage dans la cuisine.]
 
 **Monica :** Joey, passe-moi le fromage.
 
@@ -5337,7 +5337,7 @@ Traduit par Stéphan Levine et Guillaume Martin
 
 **Monica :** Bon. Allez porter ces salades à la table 4. Vous, allez chercher l'espadon. Et vous... Allez chez le coiffeur.
 
-### [Scène : Le train, il s'arrête dans une gare.]  
+### [Scène : Le train, il s'arrête dans une gare.]
 
 **Le contrôleur :** Dernier arrêt, Montréal. Terminus, Montréal.
 
@@ -5671,7 +5671,7 @@ Traduit par Stéphan Levine et Dimitri Bourrié
 
 **Chandler :** [entre] Phoebe chante à Karl Malden ?
 
-**Phoebe:** Je crois que le toutou doit sortir. Allez, viens sur le balcon.
+**Phoebe :** Je crois que le toutou doit sortir. Allez, viens sur le balcon.
 
 **Monica :** Quoi ?
 
@@ -5691,7 +5691,7 @@ Traduit par Stéphan Levine et Dimitri Bourrié
 
 **Chandler :** Ecoutez, il faut m'aider ! Je sais m'y prendre avec une femme. Ça marche bien, c'est agréable... Mais je veux passer du « agréable » au « Mon Dieu ! Quelqu'un est en train de la tuer. »
 
-**Monica :** Je vais te montrer un truc. Passe-moi le carnet Rachel. [Rachel lui donne.]  Bon... [Elle dessine une femme.] Alors...
+**Monica :** Je vais te montrer un truc. Passe-moi le carnet Rachel. [Rachel lui donne.] Bon... [Elle dessine une femme.] Alors...
 
 **Chandler :** [Il regarde le dessin.] Ne dessine pas une vraie... Elle est canon !
 
@@ -5779,7 +5779,7 @@ Traduit par Stéphan Levine et Dimitri Bourrié
 
 **Alice :** Mais si jamais tu veux nous parler, on boit un café à côté.
 
-**Franck Jr. :** [Il voit le chiot.] Qui c'est, lui ? Il est mignon.  [Il le porte.] Il me rappelle mon vieux chien, Tumeur ! J'ai envie de t'emmener à la maison.
+**Franck Jr. :** [Il voit le chiot.] Qui c'est, lui ? Il est mignon. [Il le porte.] Il me rappelle mon vieux chien, Tumeur ! J'ai envie de t'emmener à la maison.
 
 **Phoebe :** Pourquoi pas ?
 
@@ -5849,605 +5849,605 @@ Traduit par Frédéric Neiller
 
 ### [APPARTEMENT DE MONICA ET RACHEL (pendant la nuit). Tout le monde dort. Le poulet qui est en fait un coq se met à chanter au lever su soleil. Monica et Rachel se reveillent et courent dans leur salon recherchant la source de tout ce bruit]
 
-**Rachel:** Qu'est ce que c'est que ce truc ?!! [à Monica] C'est quoi ca ? C'est toi ?? [Monica fait "non" de la tête, et rachel comprend d'où vient le bruit] Ohhhhhhh ! [Elle sort vite de son appart et se dirige chez les mecs avec Monica qui la suit]
+**Rachel :** Qu'est ce que c'est que ce truc ?!! [à Monica] C'est quoi ça ? C'est toi ?? [Monica fait "non" de la tête, et rachel comprend d'où vient le bruit] Ohhhhhhh ! [Elle sort vite de son appart et se dirige chez les mecs avec Monica qui la suit]
 
-**Monica:** Eh ben, t'es vraiment pas du matin toi.
+**Monica :** Eh ben, t'es vraiment pas du matin toi.
 
-**Rachel:** [énervée] LACHE MOI !!! [Elle commence à frapper à la porte] Debout ! Debout ! Debout ! Oh la vache ! Debout, debout, debout, debout, debout !! [Chandler ouvre enfin la porte]
+**Rachel :** [énervée] LACHE MOI !!! [Elle commence à frapper à la porte] Debout ! Debout ! Debout ! Oh la vache ! Debout, debout, debout, debout, debout !! [Chandler ouvre enfin la porte]
 
-**Rachel:** C'est quoi ce bruit ?
+**Rachel :** C'est quoi ce bruit ?
 
-**Chandler:** TOI !!!
+**Chandler :** TOI !!!
 
-**Joey:** C'est le poulet, il subit quelques... changements.
+**Joey :** C'est le poulet, il subit quelques... changements.
 
-**Monica:** Quel genre de changement ?
+**Monica :** Quel genre de changement ?
 
-**Chandler:** Ben le veterinaire pense que c'est coq. [le coq fait un cocorico] On va demander un deuxieme avis.
+**Chandler :** Ben le veterinaire pense que c'est coq. [le coq fait un cocorico] On va demander un deuxieme avis.
 
 ### GENERIQUE DEBUT
 
 ### [APPARTEMENT DE MONICA ET RACHEL (plus tard le même matin). Toute la bande est là pour le petit-dejeuner. Rachel revient des courses]
 
-**Phoebe:** Salut !
+**Phoebe :** Salut !
 
-**Ross:** Salut, pourquoi t'es allé faire des courses à 8 heures du mat ???
+**Ross :** Salut, pourquoi t'es allé faire des courses à 8 heures du mat ???
 
-**Rachel:** Ben je suis réveillée depuis 6 heures. On dit merci au stupide coq de quelqu'un.
+**Rachel :** Ben je suis réveillée depuis 6 heures. On dit merci au stupide coq de quelqu'un.
 
-**Phoebe:** Vous devriez vraiment vous debarassez de ces animaux. Ils n'ont rien à faire dans un appartement.
+**Phoebe :** Vous devriez vraiment vous debarassez de ces animaux. Ils n'ont rien à faire dans un appartement.
 
-**Rachel:** Ouais, surtout pas avec tous ces couteaux et ces livres de cuisine qui trainent...
+**Rachel :** Ouais, surtout pas avec tous ces couteaux et ces livres de cuisine qui trainent...
 
-**Phoebe:** OK, je vais aller voir le docteur ès fertilité pour voir si je suis prête à recevoir les embryons de Frank et d'Alice dans mon utérus.
+**Phoebe :** OK, je vais aller voir le docteur ès fertilité pour voir si je suis prête à recevoir les embryons de Frank et d'Alice dans mon utérus.
 
-**Ross:** Et comment vont ils savoir si tu es prête ???
+**Ross :** Et comment vont ils savoir si tu es prête ???
 
-**Phoebe:** Oh, ils vont regarder si ma couche endomère est assez épaisse.
+**Phoebe :** Oh, ils vont regarder si ma couche endomère est assez épaisse.
 
-**Chandler:** Oh, je peux, je peux vérifier ca pour toi.
+**Chandler :** Oh, je peux, je peux vérifier ça pour toi.
 
-**Phoebe:** Okay, pensez tous epais.
+**Phoebe :** Okay, pensez tous epais.
 
-**Tous:** Salut, bonne chance. [Elle ouvre la porte, Monica et Joey entre]
+**Tous :** Salut, bonne chance. [Elle ouvre la porte, Monica et Joey entre]
 
-**Phoebe:** Salut ! Souhaitez moi bonne chance.
+**Phoebe :** Salut ! Souhaitez moi bonne chance.
 
-**Monica:** Oh, bonne chance.
+**Monica :** Oh, bonne chance.
 
-**Joey:** Bonne chance. [à Monica] Et j'ai raison !
+**Joey :** Bonne chance. [à Monica] Et j'ai raison !
 
-**Monica:** Oh ca c'est pas vrai !!!
+**Monica :** Oh ça c'est pas vrai !!!
 
-**Rachel:** Quoi ?
+**Rachel :** Quoi ?
 
-**Joey:** Elle est énervée parce que je sais qu'aujourd'hui c'est le jour de la lessive, ce qui veut dire qu'elle porte sa culotte de grand-mère.
+**Joey :** Elle est énervée parce que je sais qu'aujourd'hui c'est le jour de la lessive, ce qui veut dire qu'elle porte sa culotte de grand-mère.
 
-**Chandler:** Je peux vérifier ca pour toi.
+**Chandler :** Je peux vérifier ça pour toi.
 
-**Monica:** J'arrive pas à croire que tu penses que Chandler et toi vous nous connaissez mieux qu'on vous connait.
+**Monica :** J'arrive pas à croire que tu penses que Chandler et toi vous nous connaissez mieux qu'on vous connait.
 
-**Chandler:** Ben... c'est vrai, tu peux manger les tic-tacs uniquement en nombre pair.
+**Chandler :** Ben... c'est vrai, tu peux manger les tic-tacs uniquement en nombre pair.
 
-**Joey:** Ouais, où est le problème ???
+**Joey :** Ouais, où est le problème ???
 
-**Chandler:** [à Rachel] Et toi... Ross, si tu regardes dans le sac de Rachel tu vas trouver une boite de cookies à moitié entamée.
+**Chandler :** [à Rachel] Et toi... Ross, si tu regardes dans le sac de Rachel tu vas trouver une boite de cookies à moitié entamée.
 
-**Ross:** [Il regarde et sort une boite de cookie à moitié entamée] T'es bon [il goute un cookie] Ils le sont pas.
+**Ross :** [Il regarde et sort une boite de cookie à moitié entamée] T'es bon [il goute un cookie] Ils le sont pas.
 
-**Rachel:** Ça m'impressione pas, tout le monde mange en faisant les courses.
+**Rachel :** Ça m'impressione pas, tout le monde mange en faisant les courses.
 
-**Monica:** Ouais.
+**Monica :** Ouais.
 
-**Joey:** Ah ouais ??? Ross, combien reste il de trucs dans le sac ???
+**Joey :** Ah ouais ??? Ross, combien reste il de trucs dans le sac ???
 
-**Ross:** Cinq.
+**Ross :** Cinq.
 
-**Chandler:** Okay, 50 balles qu'on peut deviner ce que sont ces 5 trucs.
+**Chandler :** Okay, 50 balles qu'on peut deviner ce que sont ces 5 trucs.
 
-**Rachel:** Combien de propositions vous pouvez faire ?
+**Rachel :** Combien de propositions vous pouvez faire ?
 
-**Joey:** Six.
+**Joey :** Six.
 
-**Ross:** Défi proposé.
+**Ross :** Défi proposé.
 
-**Monica:** D'accord !
+**Monica :** D'accord !
 
-**Ross:** Défi accepté.
+**Ross :** Défi accepté.
 
-**Joey:** OK, on commence avec... des pommes.
+**Joey :** OK, on commence avec... des pommes.
 
-**Ross:** [Avec une voix à la Julien Lepers] On va commencer avec des pommes.
+**Ross :** [Avec une voix à la Julien Lepers] On va commencer avec des pommes.
 
-**Chandler:** [à Ross] Arrête ca tout de suite ! [Ross sort des pommes du sac]... Ouais !
+**Chandler :** [à Ross] Arrête ça tout de suite ! [Ross sort des pommes du sac]... Ouais !
 
-**Joey:** Okay. Uhh, des chips tortillas, du yaourt
+**Joey :** Okay. Uhh, des chips tortillas, du yaourt
 
-**Chandler:** Du Diet coke.
+**Chandler :** Du Diet coke.
 
-**Ross:** Oui. Oui. Oui. [Ils ont tout bon jusque là]
+**Ross :** Oui. Oui. Oui. [Ils ont tout bon jusque là]
 
-**Chandler:** Du jus d'orange.
+**Chandler :** Du jus d'orange.
 
-**Rachel:** Non ! Y'a pas de jus d'orange là dedans ! On a gagné !!
+**Rachel :** Non ! Y'a pas de jus d'orange là dedans ! On a gagné !!
 
-**Monica:** Ha-ha !
+**Monica :** Ha-ha !
 
-**Ross:** Ils ont encore une proposition.
+**Ross :** Ils ont encore une proposition.
 
-**Rachel:** Okay, alors on a gagné sur cette proposition.
+**Rachel :** Okay, alors on a gagné sur cette proposition.
 
-**Joey:** Okay, le dernier truc...
+**Joey :** Okay, le dernier truc...
 
-**Chandler:** Oh-oh, oh, oh-oh ! [murmure quelque chose à Joey]
+**Chandler :** Oh-oh, oh, oh-oh ! [murmure quelque chose à Joey]
 
-**Joey:** Non-non, pas avant deux semaines.
+**Joey :** Non-non, pas avant deux semaines.
 
-**Chandler:** J'ai trouvé ! Du ruban... adhésif. [Ross sort en effet un ruban adhésif du sac]
+**Chandler :** J'ai trouvé ! Du ruban... adhésif. [Ross sort en effet un ruban adhésif du sac]
 
-**Ross:** Comment tu savais qu'elle avait acheté du scotch ?
+**Ross :** Comment tu savais qu'elle avait acheté du scotch ?
 
-**Chandler:** Ben on a utilisé tout leur scotch la nuit dernière en jouant à "grimace qui fait peur".
+**Chandler :** Ben on a utilisé tout leur scotch la nuit dernière en jouant à "grimace qui fait peur".
 
-**Monica:** Oh, zut !
+**Monica :** Oh, zut !
 
-**Chandler:** OK, 50 balles, fait peter, aboule, paye, donne !!!.
+**Chandler :** OK, 50 balles, fait peter, aboule, paye, donne !!!.
 
-**Monica:** Ça veut pas dire que vous nous connaissez mieux, je veux une revanche.
+**Monica :** Ça veut pas dire que vous nous connaissez mieux, je veux une revanche.
 
-**Rachel:** Ouais, et pas des questions sur mes courses, mais sur de vrais trucs personnels.
+**Rachel :** Ouais, et pas des questions sur mes courses, mais sur de vrais trucs personnels.
 
-**Monica:** Yeah ! Et le gagnant recupère 500 balles.
+**Monica :** Yeah ! Et le gagnant recupère 500 balles.
 
-**Joey:** Vraiment ?
+**Joey :** Vraiment ?
 
-**Monica:** Vous avez peur ?
+**Monica :** Vous avez peur ?
 
-**Joey:** Non ! OK, qui pose les questions ?
+**Joey :** Non ! OK, qui pose les questions ?
 
-**Monica:** Ross s'en occupe.
+**Monica :** Ross s'en occupe.
 
-**Ross:** Oh bien sur, "Ross s'en occupe !", il a pas d'enfant, pas de boulot et pas de vie privée.
+**Ross :** Oh bien sur, "Ross s'en occupe !", il a pas d'enfant, pas de boulot et pas de vie privée.
 
-**Rachel:** OK, alors Phoebe va s'en occuper.
+**Rachel :** OK, alors Phoebe va s'en occuper.
 
-**Ross:** Non-non non, je veux jouer.
+**Ross :** Non-non non, je veux jouer.
 
 ### [CABINET MEDICAL. Le docteur Zane examine Phoebe tandis qu'Alice et Frank observent]
 
-**Dr. Zane:** Votre utérus est prêt pour l'implantation.
+**Dr. Zane :** Votre utérus est prêt pour l'implantation.
 
-**Phoebe:** Oh ! J'en étais sur, j'en étais sur, je me sentais très épaisse ce matin.
+**Phoebe :** Oh ! J'en étais sur, j'en étais sur, je me sentais très épaisse ce matin.
 
-**Frank:** OK, OK, alors allez chercher les oeufs et mettez les dedans.
+**Frank :** OK, OK, alors allez chercher les oeufs et mettez les dedans.
 
-**Dr. Zane:** Okay, ca va prendre un petit moment pour les préparer.
+**Dr. Zane :** Okay, ça va prendre un petit moment pour les préparer.
 
-**Phoebe:** "Les" ? Comme dans "Plus qu'un embreyon" ??
+**Phoebe :** "Les" ? Comme dans "Plus qu'un embreyon" ??
 
-**Dr. Zane:** Um-hmm, 5 en fait.
+**Dr. Zane :** Um-hmm, 5 en fait.
 
-**Phoebe:** 5 ? Okay, je vais accoucher où, dans un hopital ou dans une boite sous un escalier ?
+**Phoebe :** 5 ? Okay, je vais accoucher où, dans un hopital ou dans une boite sous un escalier ?
 
-**Dr. Zane:** On en implante 5 parce que ca donne 25% de chances pour qu'un s'attache.
+**Dr. Zane :** On en implante 5 parce que ça donne 25% de chances pour qu'un s'attache.
 
-**Phoebe:** Quoi ! 25 pourcents ? Ça fait 75% de chances de rien du tout !!!
+**Phoebe :** Quoi ! 25 pourcents ? Ça fait 75% de chances de rien du tout !!!
 
-**Frank:** He, vous savez à quoi je pensais, ca devient quoi la probabilité si on met 200 embreyons là-dedans ?
+**Frank :** He, vous savez à quoi je pensais, ça devient quoi la probabilité si on met 200 embreyons là-dedans ?
 
-**Alice:** Cheri, c'est une femme, pas un distributeur de chewing-gums.
+**Alice :** Cheri, c'est une femme, pas un distributeur de chewing-gums.
 
-**Phoebe:** Okay, vous savez quoi, pas de panique, j'essaierai autant de fois que c'est necessaire jusqu'à ce que ca marche.
+**Phoebe :** Okay, vous savez quoi, pas de panique, j'essaierai autant de fois que c'est necessaire jusqu'à ce que ça marche.
 
-**Frank:** Ben, en fait, le truc c'est qu'on peut le faire qu'une seule fois.
+**Frank :** Ben, en fait, le truc c'est qu'on peut le faire qu'une seule fois.
 
-**Alice:** Umm, ca coute 90.000 Francs pour chaque essai. Donc en ce moment on utilise tout l'argent qu'on a pour cette tentative.
+**Alice :** Umm, ça coute 90.000 Francs pour chaque essai. Donc en ce moment on utilise tout l'argent qu'on a pour cette tentative.
 
-**Phoebe:** Whoa !! Ça fait une grosse pression sur moi et mon utérus. [au Dr. Zane] OK, alors il y a peut-être un truc que je peux faire pour être sure de tomber enceinte ???
+**Phoebe :** Whoa !! Ça fait une grosse pression sur moi et mon utérus. [au Dr. Zane] OK, alors il y a peut-être un truc que je peux faire pour être sure de tomber enceinte ???
 
-**Dr. Zane:** Non, désolé.
+**Dr. Zane :** Non, désolé.
 
-**Phoebe:** Wow ! Vous savez vraiment rien !!!
+**Phoebe :** Wow ! Vous savez vraiment rien !!!
 
-**Frank:** Je sais, il faut que tu sois bourrée, ca a marché pour pas mal de filles dans mon lycée.
+**Frank :** Je sais, il faut que tu sois bourrée, ça a marché pour pas mal de filles dans mon lycée.
 
 ### [APPARTEMENT DE MONICA ET RACHEL. Le jeu va commencer]
 
-**Monica:** Vous savez quoi ? D'une minute à l'autre Phoebe pourrait être enceinte.
+**Monica :** Vous savez quoi ? D'une minute à l'autre Phoebe pourrait être enceinte.
 
-**Joey:** Huh.
+**Joey :** Huh.
 
-**Rachel:** Je sais je sais, ca va completement changer sa vie.
+**Rachel :** Je sais je sais, ça va completement changer sa vie.
 
-**Joey:** Je sais. [Ils pensent tous à ca]
+**Joey :** Je sais. [Ils pensent tous à ca]
 
-**Ross:** Le jeu est prêt.
+**Ross :** Le jeu est prêt.
 
-**Tous:** Ouais ! Yes ! [Ils arrivent dans le salon tout excité]
+**Tous :** Ouais ! Yes ! [Ils arrivent dans le salon tout excité]
 
-**Ross:** Okay, chaque équipe va répondre à 10 questions. L'équipe qui répond au plus de questions gagne le jeu. Okay, les catégories sont, Peur et animaux, Histoire ancienne, Litérature, et Divers. OK, pile ou face our savoir qui commence. [Il lance la pièce, tout le monde la regarde atterir sur la table, pusi se tourne vers Ross pour avoir le résultat] Okay, la prochaine fois quelqu'un choisit pile ou face !!!
+**Ross :** Okay, chaque équipe va répondre à 10 questions. L'équipe qui répond au plus de questions gagne le jeu. Okay, les catégories sont, Peur et animaux, Histoire ancienne, Litérature, et Divers. OK, pile ou face our savoir qui commence. [Il lance la pièce, tout le monde la regarde atterir sur la table, pusi se tourne vers Ross pour avoir le résultat] Okay, la prochaine fois quelqu'un choisit pile ou face !!!
 
-**Tous:** Oh yeah ! [Ross lance la pièce à nouveau]
+**Tous :** Oh yeah ! [Ross lance la pièce à nouveau]
 
-**Rachel:** Pile !
+**Rachel :** Pile !
 
-**Ross:** C'est face. [Les garcons se felicitent] Messieurs, choisissez une catégorie.
+**Ross :** C'est face. [Les garcons se felicitent] Messieurs, choisissez une catégorie.
 
-**Chandler:** Peur et animaux.
+**Chandler :** Peur et animaux.
 
-**Ross:** De quel genre d'animaux Monica a le plus peur ?
+**Ross :** De quel genre d'animaux Monica a le plus peur ?
 
-**Joey:** Les animaux habillés comme des hommes.
+**Joey :** Les animaux habillés comme des hommes.
 
-**Ross:** Correct. Mesdames ?
+**Ross :** Correct. Mesdames ?
 
-**Monica:** Même catégorie ?
+**Monica :** Même catégorie ?
 
-**Ross:** Quel phénomène fait peur à Chandler au point qu'il en mouille son pantalon ?
+**Ross :** Quel phénomène fait peur à Chandler au point qu'il en mouille son pantalon ?
 
-**Monica:** Michael Flatley, Seigneur de la Dance !
+**Monica :** Michael Flatley, Seigneur de la Dance !
 
-**Ross:** C'est correct.
+**Ross :** C'est correct.
 
-**Joey:** [à Chandler] L'irlandais qui danse ?!
+**Joey :** [à Chandler] L'irlandais qui danse ?!
 
-**Chandler:** Ouais, ces jambes bougent comme si elles n'etaient pas attachées à son corps !
+**Chandler :** Ouais, ces jambes bougent comme si elles n'etaient pas attachées à son corps !
 
-**Ross:** Messieurs, votre choix.
+**Ross :** Messieurs, votre choix.
 
-**Joey:** Divers.
+**Joey :** Divers.
 
-**Ross:** Monica et moi nous avions une grand-mère qui est morte, on est tous allé à l'enterement, comme s'appelait notre grand-mère !
+**Ross :** Monica et moi nous avions une grand-mère qui est morte, on est tous allé à l'enterement, comme s'appelait notre grand-mère !
 
-**Joey:** [à Chandler] Mamie ?
+**Joey :** [à Chandler] Mamie ?
 
-**Chandler:** Elle a un vrai nom !!!
+**Chandler :** Elle a un vrai nom !!!
 
-**Joey:** [répondant à la question] Althea !
+**Joey :** [répondant à la question] Althea !
 
-**Chandler:** Althea ?! Tu fais quoi là ?!
+**Chandler :** Althea ?! Tu fais quoi là ?!
 
-**Joey:** Je tente ma chance.
+**Joey :** Je tente ma chance.
 
-**Chandler:** T'es sur d'Althea ?!
+**Chandler :** T'es sur d'Althea ?!
 
-**Ross:** Althea, c'est correct.
+**Ross :** Althea, c'est correct.
 
-**Chandler:** Bien tenté ! [Ross fait un signe aux filles pour qu'elles choisissent]
+**Chandler :** Bien tenté ! [Ross fait un signe aux filles pour qu'elles choisissent]
 
-**Rachel:** On prend Litérature !!
+**Rachel :** On prend Litérature !!
 
-**Ross:** Toutes les semaines le programme télé arrive chez Chanler et Joey, quel est le nom sur l'enveloppe ?
+**Ross :** Toutes les semaines le programme télé arrive chez Chanler et Joey, quel est le nom sur l'enveloppe ?
 
-**Rachel:** C'est Chandler qui le recoit ! Le nom c'est Chandler Bing !
+**Rachel :** C'est Chandler qui le recoit ! Le nom c'est Chandler Bing !
 
-**Monica:** Non !!
+**Monica :** Non !!
 
-**Ross:** J'ai bien peur que le nom sur l'enveloppe soit Chinandolor Bong.
+**Ross :** J'ai bien peur que le nom sur l'enveloppe soit Chinandolor Bong.
 
-**Monica:** Je le savais. Utilise ta tête Rachel !
+**Monica :** Je le savais. Utilise ta tête Rachel !
 
-**Chandler:** En fait c'est Mademoiselle Chinandolor Bong.
+**Chandler :** En fait c'est Mademoiselle Chinandolor Bong.
 
 ### [CABINET MEDICAL. Phoebe parle à l'éprouvette contenant les oeufs]
 
-**Phoebe:** Salut, petits embryons. Ben je suis Phoebe Buffay, salut ! J'espère être votre utérus pour les 9 prochains mois. Vous devez savoir qu'on fait ca pour Frank et Alice, mais vous les connaissez, vous etiez chez eux. Umm, ils veulent vraiment des enfants, alors quand on vous met dedans vous vous accrochez OK ??. Et je vous promets de garder bien au chaud jusqu'à que ce vous soyez prêt... Oh ! La prochaine que vous me verrez je serai entrain d'hurler, ne vous inquietez pas, c'est normal.
+**Phoebe :** Salut, petits embryons. Ben je suis Phoebe Buffay, salut ! J'espère être votre utérus pour les 9 prochains mois. Vous devez savoir qu'on fait ça pour Frank et Alice, mais vous les connaissez, vous etiez chez eux. Umm, ils veulent vraiment des enfants, alors quand on vous met dedans vous vous accrochez OK ??. Et je vous promets de garder bien au chaud jusqu'à que ce vous soyez prêt... Oh ! La prochaine que vous me verrez je serai entrain d'hurler, ne vous inquietez pas, c'est normal.
 
-**Dr. Zane:** Prête ?
+**Dr. Zane :** Prête ?
 
-**Phoebe:** Uh-huh. [aux embryons] Bonne chance.
+**Phoebe :** Uh-huh. [aux embryons] Bonne chance.
 
 ### [APPARTEMENT DE MONICA ET RACHEL. Le jeu est presque terminé]
 
-**Ross:** OK, le score est 9-8 pour les mecs. Mesdames, si vous ratez la question ils gagnent, choisissez votre catégorie.
+**Ross :** OK, le score est 9-8 pour les mecs. Mesdames, si vous ratez la question ils gagnent, choisissez votre catégorie.
 
-**Rachel:** [hurlant] Divers !!
+**Rachel :** [hurlant] Divers !!
 
-**Ross:** Pas la peine de crier tout le temps.
+**Ross :** Pas la peine de crier tout le temps.
 
-**Rachel:** [hurlant] Désolé !
+**Rachel :** [hurlant] Désolé !
 
-**Ross:** Ooh. Le père de Chandler dirige un show uniquement masculin à Las Végas, quel est le nom de ce spectacle ?
+**Ross :** Ooh. Le père de Chandler dirige un show uniquement masculin à Las Végas, quel est le nom de ce spectacle ?
 
-**Monica:** Viva Las Gaygas !
+**Monica :** Viva Las Gaygas !
 
-**Chandler:** Malheureusement c'est vrai.
+**Chandler :** Malheureusement c'est vrai.
 
-**Les filles:** Oui !!
+**Les filles :** Oui !!
 
-**Ross:** OK, égalité. Heureusement j'avais prévu ca. [Il ouvre une enveloppe et en sort des petits cartons] Les questions éclairs !
+**Ross :** OK, égalité. Heureusement j'avais prévu ca. [Il ouvre une enveloppe et en sort des petits cartons] Les questions éclairs !
 
-**Tous:** Ohhhh.
+**Tous :** Ohhhh.
 
-**Ross:** 30 secondes, vous devez répondre le plus possible.
+**Ross :** 30 secondes, vous devez répondre le plus possible.
 
-**Monica:** Vous êtes morts, je suis trop forte à ca.
+**Monica :** Vous êtes morts, je suis trop forte à ca.
 
-**Chandler:** Tu permets, moi j'assure sur les questions éclairs, on va vous tuer.
+**Chandler :** Tu permets, moi j'assure sur les questions éclairs, on va vous tuer.
 
-**Monica:** Huh, tu veux parier ?
+**Monica :** Huh, tu veux parier ?
 
-**Chandler:** Ben je suis perdu, on a fait quoi jusqu'à maintenant...
+**Chandler :** Ben je suis perdu, on a fait quoi jusqu'à maintenant...
 
-**Monica:** OK, on parie plus d'argent alors, 750 balles ?
+**Monica :** OK, on parie plus d'argent alors, 750 balles ?
 
-**Ross:** 750 balles.
+**Ross :** 750 balles.
 
-**Chandler:** Pourquoi pas 1000 balles ?
+**Chandler :** Pourquoi pas 1000 balles ?
 
-**Ross:** [de nouveau à la Julien Lepers] 1000 balles.
+**Ross :** [de nouveau à la Julien Lepers] 1000 balles.
 
-**Monica:** Tu recommence !!!
+**Monica :** Tu recommence !!!
 
-**Ross:** Désolé.
+**Ross :** Désolé.
 
-**Rachel:** Monica, j'ai pas envie de perdre 1000 balles.
+**Rachel :** Monica, j'ai pas envie de perdre 1000 balles.
 
-**Monica:** Ça n'arrivera pas. [à Chandler] 1500 ?
+**Monica :** Ça n'arrivera pas. [à Chandler] 1500 ?
 
-**Rachel:** Monica ?!
+**Rachel :** Monica ?!
 
-**Monica:** J'essaye juste de rendre le pari plus epicé !
+**Monica :** J'essaye juste de rendre le pari plus epicé !
 
-**Rachel:** Okay, alors joue du poivre, pas de l'argent !!!
+**Rachel :** Okay, alors joue du poivre, pas de l'argent !!!
 
-**Monica:** Je sais, si on gagne ils doivent se debarasser du coq ?
+**Monica :** Je sais, si on gagne ils doivent se debarasser du coq ?
 
-**Rachel:** Oooohh interessant.
+**Rachel :** Oooohh interessant.
 
-**Joey:** Jamais de la vie, il fait partie de la famille !
+**Joey :** Jamais de la vie, il fait partie de la famille !
 
-**Rachel:** Ajoute le canard !!!
+**Rachel :** Ajoute le canard !!!
 
-**Joey:** C'est quoi le problème avec le canard ?? Il fait pas de bruit lui !!!
+**Joey :** C'est quoi le problème avec le canard ?? Il fait pas de bruit lui !!!
 
-**Rachel:** Ouais, mais il excite l'autre.
+**Rachel :** Ouais, mais il excite l'autre.
 
-**Joey:** Ecoutez, on va pas...
+**Joey :** Ecoutez, on va pas...
 
-**Chandler:** [interompant] OK, bougez pas ! Si vous gagnez on se debarasse des oiseaux.
+**Chandler :** [interompant] OK, bougez pas ! Si vous gagnez on se debarasse des oiseaux.
 
-**Joey:** [étonné] Dah !! [Chandler lui fait signe de se calmer]
+**Joey :** [étonné] Dah !! [Chandler lui fait signe de se calmer]
 
-**Chandler:** Mais si on gagne on recupère votre appartement.
+**Chandler :** Mais si on gagne on recupère votre appartement.
 
-**Joey:** Oooooh !
+**Joey :** Oooooh !
 
-**Monica:** D'accord !
+**Monica :** D'accord !
 
-**Rachel:** Monica, tu paries l'appartement, ca va pas ???!!.
+**Rachel :** Monica, tu paries l'appartement, ça va pas ???!!.
 
-**Monica:** Rachel, j'ai répondu à toutes les questions. Je suis une Déesse à ce jeu ! Regarde ma main. [elle tend sa main]
+**Monica :** Rachel, j'ai répondu à toutes les questions. Je suis une Déesse à ce jeu ! Regarde ma main. [elle tend sa main]
 
-**Rachel:** Quoi ? T'as les réponses écrites dessus ??
+**Rachel :** Quoi ? T'as les réponses écrites dessus ??
 
-**Monica:** Non !! C'est solide comme de la pierre, on va gagner.
+**Monica :** Non !! C'est solide comme de la pierre, on va gagner.
 
-**Rachel:** OK, allons-y.
+**Rachel :** OK, allons-y.
 
-**Monica:** Allez !
+**Monica :** Allez !
 
-**Rachel:** Okay. [Ellese retournent au salon]
+**Rachel :** Okay. [Ellese retournent au salon]
 
-**Ross:** OK messieurs, vous d'abord.
+**Ross :** OK messieurs, vous d'abord.
 
-**Joey:** Okay.
+**Joey :** Okay.
 
-**Chandler:** Okay. [sautant un peu partout]
+**Chandler :** Okay. [sautant un peu partout]
 
-**Ross:** Vous avez 30 secondes. Et les questions éclairs commencent... Arrête Chandler [Chandler arrête de sauter]-maintenant. Quel était le surnom de Monica quand elle était gardien de but en Hockey sur gazon ?
+**Ross :** Vous avez 30 secondes. Et les questions éclairs commencent... Arrête Chandler [Chandler arrête de sauter]-maintenant. Quel était le surnom de Monica quand elle était gardien de but en Hockey sur gazon ?
 
-**Joey:** Gros gardien obèse.
+**Joey :** Gros gardien obèse.
 
-**Ross:** Correct. Rachel dit que son film préféré est...
+**Ross :** Correct. Rachel dit que son film préféré est...
 
-**Chandler:** Les liaisons dangeureuses.
+**Chandler :** Les liaisons dangeureuses.
 
-**Ross:** Correct. Mais son vrai film préféré est...
+**Ross :** Correct. Mais son vrai film préféré est...
 
-**Joey:** Weekend at Bernie's.
+**Joey :** Weekend at Bernie's.
 
-**Ross:** Correct. À 14 ans Monica s'est coincée un stylo quelque part, où ?
+**Ross :** Correct. À 14 ans Monica s'est coincée un stylo quelque part, où ?
 
-**Chandler:** Oh ! [murmure quelque à Joey, puis à Ross]
+**Chandler :** Oh ! [murmure quelque à Joey, puis à Ross]
 
-**Ross:** Beuuurk ! Non !! Dans son oreille ! OK, Monica sépare ses seviettes de bain, combien de catégories a-t-elle crée ? [Ils se concertent]
+**Ross :** Beuuurk ! Non !! Dans son oreille ! OK, Monica sépare ses seviettes de bain, combien de catégories a-t-elle crée ? [Ils se concertent]
 
-**Joey:** Serviette de tous les jours.
+**Joey :** Serviette de tous les jours.
 
-**Chandler:** Affriolantes.
+**Chandler :** Affriolantes.
 
-**Joey:** Invités.
+**Joey :** Invités.
 
-**Chandler:** Invités affriolants.
+**Chandler :** Invités affriolants.
 
-**Ross:** Deux secondes...
+**Ross :** Deux secondes...
 
-**Joey:** Uhh, 11!
+**Joey :** Uhh, 11!
 
-**Ross:** 11, incroyable 11, c'est correct. [Les garcons se felicitent] OK, ca fait quatre point pour les garcons, à vous Mesdames.
+**Ross :** 11, incroyable 11, c'est correct. [Les garcons se felicitent] OK, ça fait quatre point pour les garcons, à vous Mesdames.
 
-**Rachel:** OK !
+**Rachel :** OK !
 
-**Monica:** Allez ! [Pendant qu'ils changent de place ils se font le truc de Ross, vous savez son geste de se taper les poings l'un contre l'autre]
+**Monica :** Allez ! [Pendant qu'ils changent de place ils se font le truc de Ross, vous savez son geste de se taper les poings l'un contre l'autre]
 
-**Ross:** 30 secondes au chrono, 5 réponses et c'est gagné. Et les questions éclairs commencent maintenant. Quel est la nouriture préférée de Joey ???
+**Ross :** 30 secondes au chrono, 5 réponses et c'est gagné. Et les questions éclairs commencent maintenant. Quel est la nouriture préférée de Joey ???
 
-**Monica:** Les sandwichs !
+**Monica :** Les sandwichs !
 
-**Ross:** Correct. A quel age Chandler a-t-il touché les seins d'une fille pour la première fois ?
+**Ross :** Correct. A quel age Chandler a-t-il touché les seins d'une fille pour la première fois ?
 
-**Rachel:** 14 ?
+**Rachel :** 14 ?
 
-**Ross:** Non, 19.
+**Ross :** Non, 19.
 
-**Chandler:** Merci vieux.
+**Chandler :** Merci vieux.
 
-**Ross:** Joey avait un ami imaginaire, il s'appelait... ?
+**Ross :** Joey avait un ami imaginaire, il s'appelait... ?
 
-**Monica:** Maurice.
+**Monica :** Maurice.
 
-**Ross:** Correct, son metier c'etait ?
+**Ross :** Correct, son metier c'etait ?
 
-**Rachel:** Space cowboy !
+**Rachel :** Space cowboy !
 
-**Ross:** Correct ! Que fait Chandler Bing comme travail ? [Les filles sont surprises]
+**Ross :** Correct ! Que fait Chandler Bing comme travail ? [Les filles sont surprises]
 
-**Rachel:** Oh flute, c'est un truc avec des nombres.
+**Rachel :** Oh flute, c'est un truc avec des nombres.
 
-**Monica:** Et des procédés.
+**Monica :** Et des procédés.
 
-**Rachel:** Il a une malette.
+**Rachel :** Il a une malette.
 
-**Ross:** 10 secondes, il faut répondre ou vous perdez.
+**Ross :** 10 secondes, il faut répondre ou vous perdez.
 
-**Monica:** C'est, euuh, c'est un truc avec le transpondage.
+**Monica :** C'est, euuh, c'est un truc avec le transpondage.
 
-**Rachel:** Oh-oh-oh, c'est un Tranpondé-transpondeur !!!
+**Rachel :** Oh-oh-oh, c'est un Tranpondé-transpondeur !!!
 
-**Monica:** Mais ca existe même pas ca !! Je vais trouver, je vais trouver !!! [Ross arrête le chrono, le jeu est fini] NOOOOOOOOON !!!!!
+**Monica :** Mais ça existe même pas ça !! Je vais trouver, je vais trouver !!! [Ross arrête le chrono, le jeu est fini] NOOOOOOOOON !!!!!
 
-**Rachel:** Oh my God. Chandler et
+**Rachel :** Oh my God. Chandler et
 
-**Joey:** YEAH !!! YES !!!
+**Joey :** YEAH !!! YES !!!
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Chandler et Joey transporte le baby-foot d'un appart à l'autre]
 
-**Joey:** Preums pour la chambre de Monica !
+**Joey :** Preums pour la chambre de Monica !
 
-**Chandler:** On peut pas decider comme ca !!!
+**Chandler :** On peut pas decider comme ça !!!
 
-**Joey:** Bien sur qu'on peut, c'est comme ca, j'etais devant la chambre et j'ai dit preums !!! [Chandler se retourne and grognant et s'apercoit que Joey est en effet en face de la chambre, il jure silencieusement !]
+**Joey :** Bien sur qu'on peut, c'est comme ca, j'etais devant la chambre et j'ai dit preums !!! [Chandler se retourne and grognant et s'apercoit que Joey est en effet en face de la chambre, il jure silencieusement !]
 
-**Monica:** Man, I feel like I'm coming down with something.
+**Monica :** Man, I feel like I'm coming down with something.
 
-**Joey:** Quoi ?
+**Joey :** Quoi ?
 
-**Monica:** Yeah. [to Chandler] I bet you can't guess what colour my tonsils are ? I'll bet the apartment !
+**Monica :** Yeah. [to Chandler] I bet you can't guess what colour my tonsils are ? I'll bet the apartment !
 
-**Chandler:** Oh, je vais jamais parier cet appartement, il est trop bien.
+**Chandler :** Oh, je vais jamais parier cet appartement, il est trop bien.
 
-**Phoebe:** [entre] Salut !
+**Phoebe :** [entre] Salut !
 
-**Chandler:** Salut !
+**Chandler :** Salut !
 
-**Joey:** Salut-ooh Pheebs, ils sont dedans ?
+**Joey :** Salut-ooh Pheebs, ils sont dedans ?
 
-**Phoebe:** Umm, yeah, uh-huh, ils sont implantés.
+**Phoebe :** Umm, yeah, uh-huh, ils sont implantés.
 
-**Monica:** Comment tu te sens ?
+**Monica :** Comment tu te sens ?
 
-**Phoebe:** Ben, morte de trouille parce que la probabilité de succès est faible. Et c'est la seule chance qu'ils peuvent se payer, ils mettent tous leurs oeufs dans mon panier.
+**Phoebe :** Ben, morte de trouille parce que la probabilité de succès est faible. Et c'est la seule chance qu'ils peuvent se payer, ils mettent tous leurs oeufs dans mon panier.
 
-**Chandler:** Ouais, mais je parie que ca va marcher.
+**Chandler :** Ouais, mais je parie que ça va marcher.
 
-**Monica:** Vraiment ?! Combien tu parie ?!
+**Monica :** Vraiment ?! Combien tu parie ?!
 
-**Phoebe:** OK, je vais faire un test de grossesse tout de suite.
+**Phoebe :** OK, je vais faire un test de grossesse tout de suite.
 
-**Joey:** Oh wow ! Tu peux savoir si vite ??
+**Joey :** Oh wow ! Tu peux savoir si vite ??
 
-**Phoebe:** Ben le docteur a dit que ca peut prendre quelques jours, mais mon corps a toujours été plus rapide que la médecine occidentale.
+**Phoebe :** Ben le docteur a dit que ça peut prendre quelques jours, mais mon corps a toujours été plus rapide que la médecine occidentale.
 
-**Rachel:** [sortant de sa chambre, enfin, de la chambre que Chandler va prendre, elle voit le baby-foot] Oh my God ! J'arrive pas à croire que vous pensez vraiment emménager ici !
+**Rachel :** [sortant de sa chambre, enfin, de la chambre que Chandler va prendre, elle voit le baby-foot] Oh my God ! J'arrive pas à croire que vous pensez vraiment emménager ici !
 
-**Chandler:** Eh ben tu ferais mieux d'y croire !
+**Chandler :** Eh ben tu ferais mieux d'y croire !
 
-**Rachel:** Mais, je je je, je ne m'en vais pas moi.
+**Rachel :** Mais, je je je, je ne m'en vais pas moi.
 
-**Joey:** Quoi ?!
+**Joey :** Quoi ?!
 
-**Rachel:** Non c'était un pari stupide, on jouait juste à un jeu débile !
+**Rachel :** Non c'était un pari stupide, on jouait juste à un jeu débile !
 
-**Joey:** Tu peux pas ignorer le pari ! C'est un pari ! On parie et on parie, et quand on perd, on perd le pari !!!
+**Joey :** Tu peux pas ignorer le pari ! C'est un pari ! On parie et on parie, et quand on perd, on perd le pari !!!
 
-**Monica:** Ecoute Rach, on doit partir. Si on avait gagné on les aurait forcé á se debarasser des oiseaux n'est ce pas ?
+**Monica :** Ecoute Rach, on doit partir. Si on avait gagné on les aurait forcé á se debarasser des oiseaux n'est ce pas ?
 
-**Rachel:** Noooon.
+**Rachel :** Noooon.
 
-**Monica:** OK, écoute, ca me plait pas plus qu'à toi, mais si ca peut te rassurer, tout est entierement ta faute.
+**Monica :** OK, écoute, ça me plait pas plus qu'à toi, mais si ça peut te rassurer, tout est entierement ta faute.
 
-**Rachel:** Quoi ?!
+**Rachel :** Quoi ?!
 
-**Monica:** Chinadolor Bong, allez, on leur pique le programme télé toutes les semaines !
+**Monica :** Chinadolor Bong, allez, on leur pique le programme télé toutes les semaines !
 
-**Chandler:** J'en étais sur !
+**Chandler :** J'en étais sur !
 
-**Rachel:** Je m'en fous, je ne vais nulle part.
+**Rachel :** Je m'en fous, je ne vais nulle part.
 
-**Chandler:** Cool, une colocataire feminine. [Phoebe sort de la salle de bain pendant que Rachel s'assoit degoutée]
+**Chandler :** Cool, une colocataire feminine. [Phoebe sort de la salle de bain pendant que Rachel s'assoit degoutée]
 
-**Monica:** Alors ?
+**Monica :** Alors ?
 
-**Phoebe:** Rien, rien du tout.
+**Phoebe :** Rien, rien du tout.
 
-**Monica:** Ça fait juste quelques heures depuis l'implantation, attend encore un peu.
+**Monica :** Ça fait juste quelques heures depuis l'implantation, attend encore un peu.
 
-**Phoebe:** Ouais, t'as raison, en attendant je vais essayer d'aider le procédé, alors je vais, je vais m'assoir, [Elle s'assoit sur un fauteuil, avec son dos à l'endroit ou on met d'habitude ses fesses, et ses jambes sont sur le dossier et pointent vers le haut] Voila !!! Je vais laisser la gravité faire son travail [Un peu plus tard, le demenagement se poursuit. Monica essaye de soulever une caisse, quand Rachel sort de son ex-chambre]
+**Phoebe :** Ouais, t'as raison, en attendant je vais essayer d'aider le procédé, alors je vais, je vais m'assoir, [Elle s'assoit sur un fauteuil, avec son dos à l'endroit ou on met d'habitude ses fesses, et ses jambes sont sur le dossier et pointent vers le haut] Voila !!! Je vais laisser la gravité faire son travail [Un peu plus tard, le demenagement se poursuit. Monica essaye de soulever une caisse, quand Rachel sort de son ex-chambre]
 
-**Monica:** He Rach, j'ai besoin d'un petit coup de main là.
+**Monica :** He Rach, j'ai besoin d'un petit coup de main là.
 
-**Rachel:** Non, tu laisses cette caisse ! On ne part pas ! C'est mon appartement et je l'aime ! C'est un appartement de fille ! Là-bas c'est un appart de mecs, c'est sale et ca pue. Ici c'est joli, c'est tellement joli ! Et, et, et c'est mauve ! Et je te dis ca avec la main de fer, je ne pars pas et je dis avec ma main aussi solide que de la pierre. [Elle tend sa main comme Monica a fait precedement, sauf que là Rachel tremble à mort]
+**Rachel :** Non, tu laisses cette caisse ! On ne part pas ! C'est mon appartement et je l'aime ! C'est un appartement de fille ! Là-bas c'est un appart de mecs, c'est sale et ça pue. Ici c'est joli, c'est tellement joli ! Et, et, et c'est mauve ! Et je te dis ça avec la main de fer, je ne pars pas et je dis avec ma main aussi solide que de la pierre. [Elle tend sa main comme Monica a fait precedement, sauf que là Rachel tremble à mort]
 
-**Monica:** OK, je m'occupe de tout.
+**Monica :** OK, je m'occupe de tout.
 
-**Rachel:** C'est bien, tu fais comme ma main te dit ! [Un peu plus tard, Phoebe est toujours dans le fauteuil, Rachel est allongée lorsque Monica entre] Comment ca c'est passé ?
+**Rachel :** C'est bien, tu fais comme ma main te dit ! [Un peu plus tard, Phoebe est toujours dans le fauteuil, Rachel est allongée lorsque Monica entre] Comment ça c'est passé ?
 
-**Monica:** J'ai perdu nos matelas. [Encore un peu plus tard, Rachel s'est finalement decidé à demenager et elle aide Monica à ranger, Phoebe est toujours dans le fauteil avec la tête en bas et les pieds en l'air]
+**Monica :** J'ai perdu nos matelas. [Encore un peu plus tard, Rachel s'est finalement decidé à demenager et elle aide Monica à ranger, Phoebe est toujours dans le fauteil avec la tête en bas et les pieds en l'air]
 
-**Phoebe:** [Chantant] Êtes vous là petits foetus ? Sortirez vous dans neuf mois ?Je vous acheterai des Adidas. [On frappe à la porte, Monica va ouvrir]
+**Phoebe :** [Chantant] Êtes vous là petits foetus ? Sortirez vous dans neuf mois ? Je vous acheterai des Adidas. [On frappe à la porte, Monica va ouvrir]
 
-**Monica:** Salut ! Frank et Alice: [entrent] Salut !
+**Monica :** Salut ! Frank et Alice: [entrent] Salut !
 
-**Alice:** Salut, Phoebe ! On était à la pharmacie, alors on t'a acheté un petit cadeau.
+**Alice :** Salut, Phoebe ! On était à la pharmacie, alors on t'a acheté un petit cadeau.
 
-**Phoebe:** Oh. Oh.
+**Phoebe :** Oh. Oh.
 
-**Frank:** Umm, c'est une sucette, et, euuuh, un test de grossesse.
+**Frank :** Umm, c'est une sucette, et, euuuh, un test de grossesse.
 
-**Monica:** He, ne mélangez pas sinon vous allez gacher la sucette...
+**Monica :** He, ne mélangez pas sinon vous allez gacher la sucette...
 
-**Alice:** So umm, tu te sens en forme pour un test, y'a qu'une question....
+**Alice :** So umm, tu te sens en forme pour un test, y'a qu'une question....
 
-**Phoebe:** OK, je vais le faire. Mais umm, rappelez vous que c'est encore assez tôt, okay , donc si ca dit que je suis pas enceinte, ca ne veut pas dire que je ne vais pas tomber enceinte,okay. et, et, et pour eviter de me rendre folle ne mettez pas tous vos espoirs dans ce test.
+**Phoebe :** OK, je vais le faire. Mais umm, rappelez vous que c'est encore assez tôt, okay, donc si ça dit que je suis pas enceinte, ça ne veut pas dire que je ne vais pas tomber enceinte, okay. et, et, et pour eviter de me rendre folle ne mettez pas tous vos espoirs dans ce test.
 
-**Alice:** Okay.
+**Alice :** Okay.
 
-**Frank:** Okay. [Ils ont l'air très nerveux et gigotent d'impatience]
+**Frank :** Okay. [Ils ont l'air très nerveux et gigotent d'impatience]
 
-**Phoebe:** Parfait. [Elle va faire le test] [La porte s'ouvre, Joey et Chandler entrent tous deux perchés sur le chien en céramique apparement monté sur roulettes, c'est une entrée triomphale, style les chars qui entrent dans Paris à la Libération]
+**Phoebe :** Parfait. [Elle va faire le test] [La porte s'ouvre, Joey et Chandler entrent tous deux perchés sur le chien en céramique apparement monté sur roulettes, c'est une entrée triomphale, style les chars qui entrent dans Paris à la Libération]
 
-**Rachel:** Vous êtes vraiment méchants, vous êtes des sadiques !
+**Rachel :** Vous êtes vraiment méchants, vous êtes des sadiques !
 
-**Joey:** Heh, ne vous énervez pas contre nous, on vous a pas forcé à faire monter les paris !
+**Joey :** Heh, ne vous énervez pas contre nous, on vous a pas forcé à faire monter les paris !
 
-**Rachel:** C'est pas vrai, c'est elle qui m'a forcé !
+**Rachel :** C'est pas vrai, c'est elle qui m'a forcé !
 
-**Monica:** Heh, on habiterait toujours ici si tu avais bien répondu à la question !
+**Monica :** Heh, on habiterait toujours ici si tu avais bien répondu à la question !
 
-**Rachel:** Ouais, mais c'était une question stupide !
+**Rachel :** Ouais, mais c'était une question stupide !
 
-**Ross:** Ne t'en prends pas aux questions !
+**Ross :** Ne t'en prends pas aux questions !
 
-**Chandler:** Arretez donc de crier dans notre appartement, vous ruinez cette journée si parfaite !
+**Chandler :** Arretez donc de crier dans notre appartement, vous ruinez cette journée si parfaite !
 
-**Rachel:** Arrete de dire que c'est votre appartement !
+**Rachel :** Arrete de dire que c'est votre appartement !
 
-**Joey:** Mais c'est notre appartement !
+**Joey :** Mais c'est notre appartement !
 
-**Rachel:** Non c'est pas vrai ! [Tout le monde commence alors à se crier dessus quand Phoebe sort de la salle de bain]
+**Rachel :** Non c'est pas vrai ! [Tout le monde commence alors à se crier dessus quand Phoebe sort de la salle de bain]
 
-**Phoebe:** Les mecs les mecs, vous allez avoir un bébé, [montrant Frank et Alice] ils vont avoir un bébé !
+**Phoebe :** Les mecs les mecs, vous allez avoir un bébé, [montrant Frank et Alice] ils vont avoir un bébé !
 
-**Frank:** MA SOEUR VA AVOIR MON BEBE !!!!!!! [Tout le monde se jette sur Phoebe pour l'embrasser]
+**Frank :** MA SOEUR VA AVOIR MON BEBE !!!!!!! [Tout le monde se jette sur Phoebe pour l'embrasser]
 
-**Phoebe:** Okay, mais ca doit pas être bon pour le bébé ca.
+**Phoebe :** Okay, mais ça doit pas être bon pour le bébé ca.
 
-**Tous:** Oh ! [Ils s'écartent tous de Phoebe et recommencent à s'embrasser entre eux laissant Phoebe à l'écart]
+**Tous :** Oh ! [Ils s'écartent tous de Phoebe et recommencent à s'embrasser entre eux laissant Phoebe à l'écart]
 
 ### GENERIQUE DE FIN
 
 ### [APPARTEMENT DE CHANDLER ET JOEY (chez Monica et Rachel !). Monica et Rachel sont en train de s'installer]
 
-**Monica:** Je trouve pas de sacs poubelles !
+**Monica :** Je trouve pas de sacs poubelles !
 
-**Rachel:** Oh, je crois que c'est ici. [Elle ouvre un tiroir et elles hurlent à la vue de ce qu'il y a à l'interieur]
+**Rachel :** Oh, je crois que c'est ici. [Elle ouvre un tiroir et elles hurlent à la vue de ce qu'il y a à l'interieur]
 
-**Monica:** Qu'est ce que c'est ?!
+**Monica :** Qu'est ce que c'est ?!
 
-**Rachel:** Je sais pas, mais peut-être que si on laisse ce tiroir fermé ca va mourir
+**Rachel :** Je sais pas, mais peut-être que si on laisse ce tiroir fermé ça va mourir
 
-**Monica:** J'arrive pas à croire qu'on habite ici !
+**Monica :** J'arrive pas à croire qu'on habite ici !
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Ils ont fini de s'installer. Le chien en céramique monte la garde devant la fenêtre. Joey sort en hurlant de sa chambre (l'ancienne chambre de Monica quoi]
 
-**Chandler:** Quoi ?? Qu'est ce qu'y a !!!
+**Chandler :** Quoi ?? Qu'est ce qu'y a !!!
 
-**Joey:** T'as vu la taille des placards ?!
+**Joey :** T'as vu la taille des placards ?!
 
-**Chandler:** J'arrive pas à croire qu'on vit ici ! [Ils s'assoient dans leurs fauteils et remontent le repose-pied]
+**Chandler :** J'arrive pas à croire qu'on vit ici ! [Ils s'assoient dans leurs fauteils et remontent le repose-pied]
 
-**Chandler et Joey:** Awwwww !! [Ils basculent le dossier en position horizontale] Awwwwwww !!!
+**Chandler et Joey :** Awwwww !! [Ils basculent le dossier en position horizontale] Awwwwwww !!!
 
 ### FIN
 
@@ -6483,29 +6483,29 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Ross :** Oui.
 
-### (Dans la scène, il y a un coup  à la porte et Kathy l'ouvre. Nous ne voyons pas ce qu'il se passe mais nous entendons.)
+### (Dans la scène, il y a un coup à la porte et Kathy l'ouvre. Nous ne voyons pas ce qu'il se passe mais nous entendons.)
 
-**Le partenaire de Kathy:** Salut !
+**Le partenaire de Kathy :** Salut !
 
-**Kathy:** Salut !
+**Kathy :** Salut !
 
 **Ross :** En voilà, un beau mec.
 
 **Chandler :** J'ai la berlue ou on voit ses abdos sous le pardessus ?
 
-**Le partenaire de Kathy:** Tu fais ça depuis longtemps ?
+**Le partenaire de Kathy :** Tu fais ça depuis longtemps ?
 
-**Kathy:** Non, tu es mon premier. Pose l'argent sur la table.
+**Kathy :** Non, tu es mon premier. Pose l'argent sur la table.
 
 ### (Ross et Chandler sont abasourdis de voir Kathy et son partenaire commencer à faire l'amour.)
 
-**Le partenaire de Kathy:** C'est bon.
+**Le partenaire de Kathy :** C'est bon.
 
 **Ross :** Salé !
 
-**Le partenaire de Kathy:** Il vaut cher, ce chemisier ?
+**Le partenaire de Kathy :** Il vaut cher, ce chemisier ?
 
-**Kathy:** C'est comme tu le sens.
+**Kathy :** C'est comme tu le sens.
 
 ### (Le partenaire de Kathy lui arrache son chemisier et un bouton vole dans la salle, l'un tombe sur Ross. Chandler est bouche bée.)
 
@@ -6535,11 +6535,11 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Phoebe :** Ça a l'air super !
 
-**Joey :** (entrant)Hey ! (Allant vers le réfrigérateur)
+**Joey :** (entrant) Hey ! (Allant vers le réfrigérateur)
 
 **Monica :** Dis, on a échangé nos appartements. C'est plus " Par ici la bonne soupe" !
 
-**Joey :** (Prenant un cuisse de dinde)Il y a de la soupe ?
+**Joey :** (Prenant un cuisse de dinde) Il y a de la soupe ?
 
 **Monica :** Vous avez le grand appart, prévoyez des visites ! Le frigo doit être approvisionné. C'est "votre" appartement ! (Elle reprend la cuisse de dinde)
 
@@ -6607,7 +6607,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** Ok. (Elle en prend une et s'avance vers Joey pour avoir sa crêpe)
 
-**Joey :** Reste là. (Monica s'arrête et Joey lui lance la crêpe, qui vole par-dessus sa tête et atterrit dans le salon.)Ça s'améliore.
+**Joey :** Reste là. (Monica s'arrête et Joey lui lance la crêpe, qui vole par-dessus sa tête et atterrit dans le salon.) Ça s'améliore.
 
 **Chandler :** T'inquiète pas... on a aussi des céréales, des muffins, des gaufres... confiture, gelée et marmelade. Pour moi, c'est kif-kif.
 
@@ -6621,7 +6621,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Ross :** Quelqu'un regrette de ne plus être l'hôtesse.
 
-**Monica :** (elle rit)C'est plutôt un soulagement, voilà ce que c'est !
+**Monica :** (elle rit) C'est plutôt un soulagement, voilà ce que c'est !
 
 **Joey :** Phoebs, ton assiette.
 
@@ -6629,9 +6629,9 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### [Chez Bloomingdale, le nouveau travail de Rachel.]
 
-**Rachel :** (au téléphone)Je démissionne. J'ai aidé une mémé à enfiler un string qu'elle n'a pas acheté. (pause) Je file ma démission. Je vais parler à mon patron. Je t'assure ! (pause) Je t'assure ! (pause) Appelle-moi quand t'as ce message. (elle raccroche lorsque son patron, Mr Waltham entre.) M. Waltham ? Faut que je vous parle.
+**Rachel :** (au téléphone) Je démissionne. J'ai aidé une mémé à enfiler un string qu'elle n'a pas acheté. (pause) Je file ma démission. Je vais parler à mon patron. Je t'assure ! (pause) Je t'assure ! (pause) Appelle-moi quand t'as ce message. (elle raccroche lorsque son patron, Mr Waltham entre.) M. Waltham ? Faut que je vous parle.
 
-**Mr Waltham:** Un instant. Je suis au milieu d'une tâche.
+**Mr Waltham :** Un instant. Je suis au milieu d'une tâche.
 
 ### Et vous avez un client.
 
@@ -6639,25 +6639,25 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Bonjour !
 
-**Joshua:** Bonjour, je suis Joshua.
+**Joshua :** Bonjour, je suis Joshua.
 
 **Rachel :** Salut, Rachel Greene. Oui, Joshua ?
 
-**Joshua:** Je dois renouveler ma garde-robe. Ma femme, mon ex-femme...
+**Joshua :** Je dois renouveler ma garde-robe. Ma femme, mon ex-femme...
 
 **Rachel :** Je suis navrée.
 
 ### (Il s'éloigne pour aller voir quelques vêtements et Rachel se retourne et ajuste sous soutien-gorge essayant d'être à son avantage.)
 
-**Joshua:** Bref, elle a brûlé tous mes habits. J'ai sauvé deux choses : ce costume et ce qui s'est avéré être une jupe.
+**Joshua :** Bref, elle a brûlé tous mes habits. J'ai sauvé deux choses : ce costume et ce qui s'est avéré être une jupe.
 
 **Rachel :** Le costume est superbe.
 
-**Joshua:** C'était pas drôle de le déposer au pressing en jupe. J'ai même plus de sous-vêtements. Si vous voulez bien, je suis à vous.
+**Joshua :** C'était pas drôle de le déposer au pressing en jupe. J'ai même plus de sous-vêtements. Si vous voulez bien, je suis à vous.
 
 **Rachel :** Ok.
 
-**Mr Waltham:** Vous vouliez me parler ?
+**Mr Waltham :** Vous vouliez me parler ?
 
 **Rachel :** Non, c'était pas moi. (à Joshua) Alors, laissez-moi vous montrer mes dessous...(Joshua se retourne) La gamme que nous proposons.
 
@@ -6665,7 +6665,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Attendez ! Par là. (Elle lui indique le bon chemin)
 
-**Joshua:** Pardon. (Il passe devant depuis elle et elle regarde de nouveau ses fesses.)
+**Joshua :** Pardon. (Il passe devant depuis elle et elle regarde de nouveau ses fesses.)
 
 ### [La pièce de Kathy, Ross et Chandler l'attendent dans le hall après la pièce.]
 
@@ -6677,19 +6677,19 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Ross :** La voilà, pas un mot. Sois cool. Ne sois pas... toi.
 
-**Kathy:** Salut les gars !
+**Kathy :** Salut les gars !
 
 **Ross :** Salut !
 
-**Kathy:** Salut ! (elle embrasse Chandler) Merci d'être revenus ! Ça vous a plu ?
+**Kathy :** Salut ! (elle embrasse Chandler) Merci d'être revenus ! Ça vous a plu ?
 
 **Ross :** Tu penses ! (Chandler murmure quelque chose)
 
-**Kathy:** Nick et son allumette revêche !
+**Kathy :** Nick et son allumette revêche !
 
 ### (Chandler rit sans ouvrir la bouche.)
 
-**Kathy:** C'est une bonne pièce, n'est-ce pas ?
+**Kathy :** C'est une bonne pièce, n'est-ce pas ?
 
 ### (Chandler murmure quelque chose, et Ross lui dit de parler.)
 
@@ -6697,23 +6697,23 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Ross :** Ok, je...(il s'en va)
 
-**Kathy:** C'est clair, je couche avec lui ?
+**Kathy :** C'est clair, je couche avec lui ?
 
 **Chandler :** C'est flagrant ! Ça chauffait pas entre vous !
 
-**Kathy:** Tu m'accuses de te tromper et tu descends mon jeu ?
+**Kathy :** Tu m'accuses de te tromper et tu descends mon jeu ?
 
 **Chandler :** C'est normal. Tous les soirs nus, à vous toucher, vous embrasser.
 
-**Kathy:** A jouer ! C'est mon travail ! Je joue un rôle. Tu n'as pas confiance ?
+**Kathy :** A jouer ! C'est mon travail ! Je joue un rôle. Tu n'as pas confiance ?
 
 **Chandler :** Comprends-moi, vu comment on a commencé.
 
-**Kathy:** Tu me balances ça au visage ?
+**Kathy :** Tu me balances ça au visage ?
 
 **Chandler :** C'est ce qui s'est passé et tu ne nies rien.
 
-**Kathy:** Appelle-moi quand t'auras grandi.
+**Kathy :** Appelle-moi quand t'auras grandi.
 
 **Chandler :** T'attends pas à ce que ce soit de sitôt !
 
@@ -6737,7 +6737,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** Des biscuits tout chauds sortis du four !
 
-**Phoebe:** Oh ! (ils vont tous vers son appartement)
+**Phoebe :** Oh ! (ils vont tous vers son appartement)
 
 **Monica :** Servez-vous. J'ai bricolé des douceurs pour tout le monde.
 
@@ -6761,7 +6761,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** Attendez... C'est pas pour emporter !
 
-**Phoebe :** (se levant)Ce fut bon...
+**Phoebe :** (se levant) Ce fut bon...
 
 **Monica :** Vous en allez pas. J'ai du porno pour vous aussi.
 
@@ -6789,7 +6789,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Quelles marches ! (Il ouvre la porte de son appartement où Ross et Joey regarde le nouveau Playboy) Traînée ! (Ross et Chandler cachent rapidement le Playboy derrière eux. Chandler revient dans l'appartement des filles) Vous serez tous ravis d'entendre que Kathy couche avec ce type !
 
-**Tout le monde:** Quoi ?
+**Tout le monde :** Quoi ?
 
 **Ross :** T'avais raison ?
 
@@ -6807,13 +6807,13 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Je suis soûl, mais je sais ce qu'elle a dit. Je suis allé chez Bifteck Chewley.
 
-**Rachel :** Bifteck Charlie ? 
+**Rachel :** Bifteck Charlie ?
 
 **Chandler :** C'est ça ! Toi et moi, on a toujours été...(il fait un signe pour dire qu'ils pensent la même chose.)
 
 ### [Le couloir devant les appartements, Monica tire une cireuse pour le sol. Rachel monte les marches et elle s'arrête lorsqu'elle voit Monica.]
 
-**Rachel :** Oops.(elle commence à entrer chez Chandler et Joey.)T'as besoin d'aide ?
+**Rachel :** Oops.(elle commence à entrer chez Chandler et Joey.) T'as besoin d'aide ?
 
 **Monica :** C'est bon.
 
@@ -6823,7 +6823,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Salut !
 
-**Tout le monde:** Salut !
+**Tout le monde :** Salut !
 
 **Rachel :** J'ai passé une heure avec Joshua, et aucune avance de sa part. C'est frustrant !
 
@@ -6855,7 +6855,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Phoebe :** Arrête !
 
-**Joey :** (à Phoebe)Ça gaze ?
+**Joey :** (à Phoebe) Ça gaze ?
 
 ### (Phoebe le regarde, ricane et regarde ailleurs.)
 
@@ -6881,7 +6881,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Elle a appelé ?
 
-**Phoebe:** Non, désolée.
+**Phoebe :** Non, désolée.
 
 **Chandler :** Je devrais peut-être l'appeler.
 
@@ -6911,67 +6911,67 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** "Voudriez-vous voir un match de basket... "(Elle re essai)"C'est drôle, parce que j'ai des billets pour... " (Elle re essai) "A qui ça dit ?"(Joshua rentre du vestiaire.)
 
-**Joshua:** Votre avis ?
+**Joshua :** Votre avis ?
 
 **Rachel :** En tant que célibataire actuellement disponible... je vous trouve superbe. Vous êtes superbe.
 
-**Joshua:** Huh. (Elle commence à se recoiffer et le regarde dans le miroir.)
+**Joshua :** Huh. (Elle commence à se recoiffer et le regarde dans le miroir.)
 
-**Rachel :** C'est superbe. (Elle met son bras autour du sien et vérifie s'ils ressemble à un couple.)Oh oui, c'est superbe.(Pause) Ça vous plaît ?
+**Rachel :** C'est superbe. (Elle met son bras autour du sien et vérifie s'ils ressemble à un couple.) Oh oui, c'est superbe.(Pause) Ça vous plaît ?
 
-**Joshua:** Tout à fait, j'adore. Je le garde sur moi.
+**Joshua :** Tout à fait, j'adore. Je le garde sur moi.
 
 **Rachel :** Super.
 
-**Joshua:** Merci infiniment de votre aide.
+**Joshua :** Merci infiniment de votre aide.
 
 **Rachel :** De rien.
 
-**Joshua:** Je pense qu'on va s'arrêter là.
+**Joshua :** Je pense qu'on va s'arrêter là.
 
 **Rachel :** Oui-oui !
 
-**Joshua:** Merci. (Il commence à partir) Peut-être au printemps, pour les maillots.
+**Joshua :** Merci. (Il commence à partir) Peut-être au printemps, pour les maillots.
 
 **Rachel :** Pas maintenant ?
 
-**Joshua:** Ça ira.
+**Joshua :** Ça ira.
 
 **Rachel :** Ok.
 
-**Joshua:** A bientôt, j'espère. (Il passe la porte)
+**Joshua :** A bientôt, j'espère. (Il passe la porte)
 
 **Rachel :** Basket-ball !
 
-**Joshua:** (revenant)  Pardon ?
+**Joshua :** (revenant) Pardon ?
 
 **Rachel :** J'ai deux billets pour les Knicks si vous voulez... en remerciement.
 
-**Joshua:** Ce serait extra !
+**Joshua :** Ce serait extra !
 
 **Rachel :** C'est vrai ?
 
-**Joshua:** Fantastique ! Mon neveu est dingue des Knicks ! C'est fantastique ! Merci !(Il prend les tickets et part, Mr. Waltham se retourne)
+**Joshua :** Fantastique ! Mon neveu est dingue des Knicks ! C'est fantastique ! Merci !(Il prend les tickets et part, Mr. Waltham se retourne)
 
-**Mr. Waltham:** Bonjour.
+**Mr. Waltham :** Bonjour.
 
-**Joshua:** Salut !
+**Joshua :** Salut !
 
-### (Mr. Waltham admire les fesses de Joshua et il part. )
+### (Mr. Waltham admire les fesses de Joshua et il part.)
 
 ### [L'appartement de Kathy, Chandler frappe à la porte.]
 
-**Kathy:** (ouvrant la porte) Salut
+**Kathy :** (ouvrant la porte) Salut
 
 **Chandler :** Je suis venu m'excuser. Je me suis comporté comme un crétin. Je comprends que tu sois fâchée.
 
-**Kathy:** T'aurais dû appeler.
+**Kathy :** T'aurais dû appeler.
 
 **Chandler :** Je sais, j'aurais préféré. Mais je crois que c'est une bonne chose.
 
 ### C'est notre première dispute, et on la dépasse. Je sais que pour moi...(Il remarque un pantalon d'homme sur la chaise.) Le pantalon de Nick ?
 
-**Kathy:** Oui.
+**Kathy :** Oui.
 
 **Chandler :** Notre deuxième dispute va être balèze !
 
@@ -6985,7 +6985,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Pas rembarrée. Il est au match. Mon rencard, mais sans moi.
 
-**Monica :** (entrant)C'est prêt. Venez voir.
+**Monica :** (entrant) C'est prêt. Venez voir.
 
 **Joey :** Voir quoi ?
 
@@ -7049,11 +7049,11 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### [A Bloomingdale, Rachel est assise à son bureau lorsque Mr. Waltham entre.]
 
-**Mr. Waltham:** Un de vos clients a oublié son portefeuille, Joshua Bergen.
+**Mr. Waltham :** Un de vos clients a oublié son portefeuille, Joshua Bergen.
 
 **Rachel :** Vraiment ?
 
-**Mr. Waltham:** Vous l'appelez ?
+**Mr. Waltham :** Vous l'appelez ?
 
 **Rachel :** Mais certainement ! (Elle le permis de conduire de Joshua et je met en face du sien. Elle joue alors la comédie comme Dark Helmut dans Spaceballs, et elle imite une conversation entre eux.) Bonsoir, Rachel. Bonsoir, Joshua. Je l'ai laissé exprès. C'est vrai ? Je voulais juste vous revoir. Ça me fait plaisir ! J'ai quelque chose à vous dire. Oui ? Ça gaze ?
 
@@ -7091,11 +7091,11 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** [ne voulant pas être en dehors, elle prend quelque chose] Et ça ?
 
-**Joey :**[l'examinant] Un bout de sandwich vieux d'un an. [Monica laisse tomber le sandwich]
+**Joey :** [l'examinant] Un bout de sandwich vieux d'un an. [Monica laisse tomber le sandwich]
 
 **Ross :** [faisant semblant de pêcher dans le salon] Geller en a attrapé un ! Un gros, on dirait ! C'est la lutte éternelle entre l'homme...[il balance la canne qui touche une lampe] Quelqu'un a renversé une lampe.
 
-**Joey :**[s'approchant et prenant la lampe] Vous savez ce qui va être super ce week-end ? Quand mon père me demandera : " Que fais-tu de ta vie ?" Je lui dirai : je tourne un film avec Charlton Heston. Et toi ?
+**Joey :** [s'approchant et prenant la lampe] Vous savez ce qui va être super ce week-end ? Quand mon père me demandera : " Que fais-tu de ta vie ?" Je lui dirai : je tourne un film avec Charlton Heston. Et toi ?
 
 ### [Chandler sort de sa chambre, déprimé et habillé d'un jogging avec le poussin et le canard derrière lui.]
 
@@ -7123,65 +7123,65 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### [Chez Bloomingdale, Rachel est toujours en train d'habiller Joshua. Il essaye un pantalon.]
 
-**Joshua:** Ça ira avec la veste que vous m'avez choisie ?
+**Joshua :** Ça ira avec la veste que vous m'avez choisie ?
 
 **Rachel :** Hum... [Joshua se tourne ers le miroir et Rachel se met à regarder ses fesses.] Nous y voilà ! C'est parfait.
 
-**Joshua:** [se retournant] Il me faudrait aussi des gants. Des gants en cuir marron.
+**Joshua :** [se retournant] Il me faudrait aussi des gants. Des gants en cuir marron.
 
 **Rachel :** Voyons, vous faites...[elle prend sa main] Celle-là est grande. Et celle-là...[elle prend son autre main]
 
-**Joshua:** Grande aussi ?
+**Joshua :** Grande aussi ?
 
 **Rachel :** Deux grands gants.
 
-**Mr. Waltham:** [entrant] Puis-je vous voir ?
+**Mr. Waltham :** [entrant] Puis-je vous voir ?
 
 **Rachel :** Oui.
 
-**Mr. Waltham:** Ma nièce de Londres est ici en visite. En fait, elle est du Yorkshire. Elle a à peu près votre âge. Bref, j'ai des billets pour l'opéra, " La Chauve-Souris". Aimeriez-vous l'y accompagner ?
+**Mr. Waltham :** Ma nièce de Londres est ici en visite. En fait, elle est du Yorkshire. Elle a à peu près votre âge. Bref, j'ai des billets pour l'opéra, " La Chauve-Souris". Aimeriez-vous l'y accompagner ?
 
 **Rachel :** Ça marche. Je suis partante pour " La Chauve-Souris". [elle fait un geste vers Joshua]
 
-**Mr. Waltham:** Bien sûr. Merci infiniment.
+**Mr. Waltham :** Bien sûr. Merci infiniment.
 
-**Joshua:** Alors ?[Il tend ses mains comme pour dire "Où sont mes gants ?"]
+**Joshua :** Alors ?[Il tend ses mains comme pour dire "Où sont mes gants ?"]
 
 **Rachel :** Alors ? [Elle met ses mains sur celles de Joshua, oubliant totalement les gants, et espérant quelque chose de plus intime]
 
-**Joshua:** Les gants ?
+**Joshua :** Les gants ?
 
 **Rachel :** Ah, oui ! Je reviens.
 
-**Joshua:** En fait, faut que j'y aille.
+**Joshua :** En fait, faut que j'y aille.
 
 **Rachel :** Oh.
 
-**Joshua:** Mais, vous avez prévu quelque chose ce soir ?
+**Joshua :** Mais, vous avez prévu quelque chose ce soir ?
 
 **Rachel :** Non, rien.
 
-**Joshua:** Mon night-club ouvre ce soir. Ça vous dit ?
+**Joshua :** Mon night-club ouvre ce soir. Ça vous dit ?
 
 **Rachel :** Ce serait extra !
 
-**Joshua:** Vous êtes branchée S & M ?
+**Joshua :** Vous êtes branchée S & M ?
 
 **Rachel :** [choquée] Je suppose.
 
-**Joshua:** Je blaguais. [Rachel est soulagée] J'y serai tôt, mais je vous mets sur la liste des V. I. P. Ça roule. A ce soir.
+**Joshua :** Je blaguais. [Rachel est soulagée] J'y serai tôt, mais je vous mets sur la liste des V. I. P. Ça roule. A ce soir.
 
 **Rachel :** Oui, super !
 
-**Mr. Waltham:** [entrant] J'oubliais les billets.
+**Mr. Waltham :** [entrant] J'oubliais les billets.
 
 **Rachel :** Pardon ?
 
-**Mr. Waltham:** Pour vous et Emily, ce soir, " La Chauve-Souris" .
+**Mr. Waltham :** Pour vous et Emily, ce soir, " La Chauve-Souris" .
 
 **Rachel :** Ah, oui.
 
-**Mr. Waltham:** Ça vous plaira. Il y a deux des trois ténors.
+**Mr. Waltham :** Ça vous plaira. Il y a deux des trois ténors.
 
 **Rachel :** Oh oui !
 
@@ -7189,7 +7189,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Comment a-t-elle pu ? Je croyais que c'était la bonne. En tout cas...
 
-### je ne sortirai plus jamais de ce fauteuil !Maintenant, ce fauteuil sera le bon !
+### je ne sortirai plus jamais de ce fauteuil ! Maintenant, ce fauteuil sera le bon !
 
 ### Et mon jogging.
 
@@ -7201,7 +7201,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Joey :** Vous avez pas idée !
 
-**Tout le monde:** [Ils reculent immédiatement à cause de son odeur] Oh mon dieu !
+**Tout le monde :** [Ils reculent immédiatement à cause de son odeur] Oh mon dieu !
 
 **Monica :** Tu pues !
 
@@ -7299,19 +7299,19 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### [Chez Chandler et Joey, anciennement chez Monica et Rachel, le matin suivant, Monica et Phoebe prennent leurs petits déjeuner.]
 
-**Phoebe:** Ohh !
+**Phoebe :** Ohh !
 
 ### Monica Quoi ?
 
-**Phoebe:** Un coup de pied du bébé !
+**Phoebe :** Un coup de pied du bébé !
 
 **Monica :** Oh mon dieu !
 
-**Phoebe:** Non, attends. C'est l'élastique de mon slip qui a sauté.
+**Phoebe :** Non, attends. C'est l'élastique de mon slip qui a sauté.
 
 **Joey :** [sortant de sa chambre en courant] Putain, la panne d'oreiller ! Je devais être sur le tournage il y a 30 minutes !
 
-**Monica:** N'y va pas comme ça, tu pues !
+**Monica :** N'y va pas comme ça, tu pues !
 
 **Joey :** J'ai roupillé sans douche. J'ai pas le temps ! C'est pas loin. En courant, c'est jouable.
 
@@ -7327,11 +7327,11 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Monica :** Quoi ?
 
-**Phoebe:** Pourquoi ?
+**Phoebe :** Pourquoi ?
 
 **Rachel :** Une soirée horrible ! Il pleuvait des cordes. Pas de Rachel Greene sur la liste. Mais il y avait une Rachel Greep.
 
-**Phoebe:** Tu l'as rencontrée ?
+**Phoebe :** Tu l'as rencontrée ?
 
 **Rachel :** Elle n'existe pas ! Mais cette nana nous a entendus... elle a crié : "C'est moi !" et elle a pu entrer.
 
@@ -7339,11 +7339,11 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Elle était entrée. Mais une garce a voulu voler mon parapluie... alors j'ai cogné. Incroyable ! Tout ce que je voulais... c'était voir un peu Joshua en dehors du boulot... pour qu'il puisse tomber amoureux de moi.
 
-**Phoebe:** [allant vers elle pour la réconforter] Phoebs...
+**Phoebe :** [allant vers elle pour la réconforter] Phoebs...
 
 **Rachel :** C'est ton surnom.
 
-**Phoebe:** Je croyais que ça valait pour nous tous.
+**Phoebe :** Je croyais que ça valait pour nous tous.
 
 ### [Chandler sort de sa chambre]
 
@@ -7365,15 +7365,15 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Je peux...
 
-**Monica :**[à Chandler] Chut ! [au téléphone] Attend, quoi ?
+**Monica :** [à Chandler] Chut ! [au téléphone] Attend, quoi ?
 
 **Chandler :** "Chut" ? C'est mon téléphone !
 
-**Phoebe:** Chut !! S'il te plaît ! Que dit-il ?
+**Phoebe :** Chut !! S'il te plaît ! Que dit-il ?
 
 **Monica :** Il est avec Emily dans le Vermont.
 
-**Phoebe:** Quoi ? C'est pas vrai !
+**Phoebe :** Quoi ? C'est pas vrai !
 
 **Rachel :** C'est qui, Emily ? [elle réalises] Nonnnn !
 
@@ -7393,7 +7393,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### Avec des chaussures sèches, c'est une tout autre personne !
 
-**Emily :** [entrant précipitamment] Viens voir !Un daim mange des fruits du verger !
+**Emily :** [entrant précipitamment] Viens voir ! Un daim mange des fruits du verger !
 
 **Ross :** J'y vais ! Un daim mange des fruits du verger ! [il raccroche et sort en courant.]
 
@@ -7423,21 +7423,21 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Si ! C'est le temps, qu'on peut pas remonter.
 
-**Phoebe:** Pourquoi ne pas faire le plan de la phase 2 avec nous ?
+**Phoebe :** Pourquoi ne pas faire le plan de la phase 2 avec nous ?
 
 **Monica :** On peut faire les mecs !
 
 **Chandler :** [il rit] Impossible.
 
-**Phoebe:** Laisse-nous faire. On en a peut-être envie !
+**Phoebe :** Laisse-nous faire. On en a peut-être envie !
 
 **Chandler :** Non, vous seriez tout poilus et vous vivriez moins longtemps.[il va vers sa chambre]
 
-**Phoebe:** Arrête d'être une lopette ! Enlève-nous ça... et viens regarder danser des filles nues !
+**Phoebe :** Arrête d'être une lopette ! Enlève-nous ça... et viens regarder danser des filles nues !
 
 **Chandler :** Ok. [il commence a pleurer]
 
-**Phoebe:** Pardon. [elle s'approche et le prend dans ses bras.]
+**Phoebe :** Pardon. [elle s'approche et le prend dans ses bras.]
 
 ### [Les Studios Silvercup, Joey vient d'arriver pour sa scène.]
 
@@ -7449,27 +7449,27 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Joey :** Charlton Heston qui mange du réglisse !
 
-**A. R:** Il adore. Je ne l'ai jamais vu...[il respire et sens l'odeur de Joey]
+**A. R :** Il adore. Je ne l'ai jamais vu...[il respire et sens l'odeur de Joey]
 
 **Joey :** [essayant de faire comme si ce n'était pas lui qui sentait] D'où ça vient ? Qu'est-ce qui sent si mauvais ?
 
-**A. R:** Vous.
+**A. R :** Vous.
 
 **Joey :** On pourrait croire, mais vous savez qui c'est, à mon avis ?
 
-**A. R:** Vous ?
+**A. R :** Vous ?
 
 **Joey :** Non... c'est Heston.
 
-**A. R:** Quoi ?
+**A. R :** Quoi ?
 
 **Joey :** Ce type schlingue comme s'il avait été à la pêche et mangé du réglisse.
 
-**A. R:** Il risque pas de puer. Lui seul a sa douche perso.
+**A. R :** Il risque pas de puer. Lui seul a sa douche perso.
 
 **Joey :** Vraiment, une douche ? Et dans quelle loge ?
 
-**A. R:** Celle avec " Heston" marqué dessus.
+**A. R :** Celle avec " Heston" marqué dessus.
 
 **Joey :** Intéressant.
 
@@ -7481,35 +7481,35 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### [Un homme s'assoit à côté de Phoebe et allume une cigarette.]
 
-**Phoebe:** Pas ça. Il faut l'éteindre, je suis enceinte.
+**Phoebe :** Pas ça. Il faut l'éteindre, je suis enceinte.
 
-**Le fumeur de cigarette:** [Non, ce n'est pas le fumeur de cigarette d'X-Files.] Allez voir un autre strip-tease avec votre bébé.
+**Le fumeur de cigarette :** [Non, ce n'est pas le fumeur de cigarette d'X-Files.] Allez voir un autre strip-tease avec votre bébé.
 
-**Phoebe:** C'est même pas le mien ! [il part]
+**Phoebe :** C'est même pas le mien ! [il part]
 
 ### [Les danseuses finissent leur spectacle et tout le monde applaudie]
 
 **Monica :** Extra ! [se levant et glissant Un dollar sous le slip de la danseuse] très bien.
 
-**Phoebe:** [faisant la même chose] Vraiment, j'ai beaucoup aimé. Très exotique.
+**Phoebe :** [faisant la même chose] Vraiment, j'ai beaucoup aimé. Très exotique.
 
 **Rachel :** [les rejoignant] Pas de message de Joshua sur le répondeur. Il pourrait s'inquiéter de ne pas m'avoir vue au club. Le pire, c'est que... Ross est heureux dans le Vermont.
 
-**Phoebe:** Allez ! Regarde où tu es !
+**Phoebe :** Allez ! Regarde où tu es !
 
 **Monica :** [à la serveuse] On remet ça.
 
-**Phoebe:** Un daiquiri vierge pour moi.
+**Phoebe :** Un daiquiri vierge pour moi.
 
 **Monica :** Je prendrai le nom de votre nettoyeur de moquette.
 
 **Chandler :** Ça suffit ! Je vais rentrer appeler Kathy.
 
-**Phoebe:** Si ça peut t'aider.
+**Phoebe :** Si ça peut t'aider.
 
 **Chandler :** C'était un test. Quand je serai assez soûl... pour vouloir l'appeler, empêchez-moi. Puis je serai si soûl que j'appellerai Janice.
 
-**Phoebe:** Oui, comment va-t-elle ?
+**Phoebe :** Oui, comment va-t-elle ?
 
 **Chandler :** Oh !!
 
@@ -7517,39 +7517,39 @@ Traduit par Laura Cynober et Pauline Raoult
 
 ### [Les Studios Silvercup, Joey prend une douche dans la loge de Charlton Heston. Heston. Heston rentre, Joey panique, et va vers la douche et y trouve Joey.]
 
-**Charlton Heston:** Qui est là ? [il ouvre le rideau et voit Joey nu et mouillé.]
+**Charlton Heston :** Qui est là ? [il ouvre le rideau et voit Joey nu et mouillé.]
 
 **Joey :** Ça va ?
 
-**Charlton Heston:** Qui diable êtes-vous ?
+**Charlton Heston :** Qui diable êtes-vous ?
 
 **Joey :** Vous me croiriez pas si je disais Kurk Douglas.
 
-**Charlton Heston:** Enfile ton pantalon, gamin, que je te botte le cul.
+**Charlton Heston :** Enfile ton pantalon, gamin, que je te botte le cul.
 
 **Joey :** Attendez, vous ne comprenez pas. Je suis acteur. Joey Tribbiani. J'ai une scène avec vous... et je pue !
 
-**Charlton Heston:** [choqué] Tu es dans ce film ?
+**Charlton Heston :** [choqué] Tu es dans ce film ?
 
 **Joey :** Je suis un des flics qui vous trouvent irresponsable. Je suis vraiment désolé... mais je pue !
 
-**Charlton Heston:** Joey, c'est ça ?
+**Charlton Heston :** Joey, c'est ça ?
 
 **Joey :** Ouais.
 
-**Charlton Heston:** [il lui jette une serviette de bain, lui faisant signe de sortir de la douche et il s'assoit sur le canapé] Tout acteur, à un moment ou un autre...[Joey essaie de s'asseoir à côté de lui mais Heston lui fait signe de s'asseoir ailleurs.] Tout acteur se trouve puant. Lawrence Olivier lui-même se trouvait parfois puant. Bob Redford peut pas se regarder.
+**Charlton Heston :** [il lui jette une serviette de bain, lui faisant signe de sortir de la douche et il s'assoit sur le canapé] Tout acteur, à un moment ou un autre...[Joey essaie de s'asseoir à côté de lui mais Heston lui fait signe de s'asseoir ailleurs.] Tout acteur se trouve puant. Lawrence Olivier lui-même se trouvait parfois puant. Bob Redford peut pas se regarder.
 
 **Joey :** Vous comprenez pas...
 
-**Charlton Heston:** Ecoute-moi.
+**Charlton Heston :** Ecoute-moi.
 
 **Joey :** Oh oui, oui.
 
-**Charlton Heston:** Je n'en connais pas un parmi les meilleurs... qui ne se soit pas dit une fois : "Mais je suis puant !"Je viens de tourner une scène. A la première prise, j'étais infect ! Mais l'important, souviens-t'en... même si tu te trouves absolument puant... tu ne dois jamais pénétrer dans ma loge et utiliser ma douche. C'est compris ?
+**Charlton Heston :** Je n'en connais pas un parmi les meilleurs... qui ne se soit pas dit une fois : "Mais je suis puant !"Je viens de tourner une scène. A la première prise, j'étais infect ! Mais l'important, souviens-t'en... même si tu te trouves absolument puant... tu ne dois jamais pénétrer dans ma loge et utiliser ma douche. C'est compris ?
 
 **Joey :** Oui, monsieur. Je suis désolé. [il commence à partir]
 
-**Charlton Heston:** Minute. Prends ton pantalon.
+**Charlton Heston :** Minute. Prends ton pantalon.
 
 **Joey :** Oui. Oh ! Oui.
 
@@ -7607,7 +7607,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Rachel :** Elle avait la peau douce ! En glissant le billet dans son string, j'effleurais sa cuisse...
 
-**Chandler :**[il se lève en sautant] Phase 3 ! Je viens de passer en phase 3 !
+**Chandler :** [il se lève en sautant] Phase 3 ! Je viens de passer en phase 3 !
 
 **Monica :** Vraiment ?
 
@@ -7691,7 +7691,7 @@ Traduit par Laura Cynober et Pauline Raoult
 
 **Chandler :** Sois attentive ! Je peux me réveiller !
 
-**Le fumeur de cigarette:** Je suis Joshua, je viens chercher Rachel.
+**Le fumeur de cigarette :** Je suis Joshua, je viens chercher Rachel.
 
 **Rachel :** C'est pas Joshua !
 
@@ -7729,7 +7729,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Chandler :** Tu sais qui a des ongles comme ça ?
 
-**Janice:** Oh... mon... Dieu ! [Oui vous l'avez reconnue, c'est Janice.]
+**Janice :** Oh... mon... Dieu ! [Oui vous l'avez reconnue, c'est Janice.]
 
 ### Générique du début
 
@@ -7765,19 +7765,19 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Monica :** Comment vas-tu ?
 
-**Janice:** J'ai divorcé.
+**Janice :** J'ai divorcé.
 
 **Phoebe :** Ohh ! Wouah.
 
-**Janice:** J'ai une grosse pension alimentaire. [Elle fait son célèbre rire]
+**Janice :** J'ai une grosse pension alimentaire. [Elle fait son célèbre rire]
 
 **Joey :** Ça recommence.
 
-**Janice:** Je passais dire bonjour. Bonjour ! [à Chandler] Et toi, chéri, à plus tard. Je te vois ce soir.
+**Janice :** Je passais dire bonjour. Bonjour ! [à Chandler] Et toi, chéri, à plus tard. Je te vois ce soir.
 
 **Chandler :** Ok. Bye.
 
-**Janice:** Bye.
+**Janice :** Bye.
 
 **Chandler :** Bye. [Il lui ferme finalement la porte au nez] [Après qu'il ai fermé] Cette femme m'horripile ![Phoebe est coquée, Joey est soulagé.]
 
@@ -7807,19 +7807,19 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Emily :** Non, Ross ! C'est des amis anglais.[les présentant] Liam, Devon. Je vous présente Ross.
 
-**Devon:** Salut, mec.
+**Devon :** Salut, mec.
 
-**Liam:** Ça va ?
+**Liam :** Ça va ?
 
 **Ross :** Elle était bonne, hein ? [s'imitant lui même]"Au secours ! "
 
 **Emily :** Comment ça va ? Je veux vous appeler depuis mon arrivée. Mais... j'ai été assez occupée.
 
-**Devon:** On s'est pas revus depuis le concert de U2...
+**Devon :** On s'est pas revus depuis le concert de U2...
 
 **Emily :** Tu as raison.
 
-**Liam:** [il met son bras autour d'elle] La dernière fois qu'on s'est vus, c'était le lendemain matin.
+**Liam :** [il met son bras autour d'elle] La dernière fois qu'on s'est vus, c'était le lendemain matin.
 
 **Emily :** Sacré, Liam ! [Ross rit et la prend par l'épaule]
 
@@ -7827,9 +7827,9 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Ross :** Vous avez joué au "soccer" ? Ou dois-je dire au [avec un accent anglais] "football " ?
 
-**Devon:** On a joué au rugby.
+**Devon :** On a joué au rugby.
 
-**Liam:** On a un match, demain. Tu peux jouer, si tu veux.
+**Liam :** On a un match, demain. Tu peux jouer, si tu veux.
 
 **Emily :** [elle rit] Ross, jouer au rugby ? Je ne crois pas.
 
@@ -7839,9 +7839,9 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Ross :** Nous n'avions pas la liberté jusqu'en 1 776 non plus, alors...
 
-**Devon:** Très bien. On se voit au parc à deux heures.
+**Devon :** Très bien. On se voit au parc à deux heures.
 
-**Liam:** A la tienne !
+**Liam :** A la tienne !
 
 **Ross :** A la tienne !
 
@@ -7849,35 +7849,35 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 ### [Le Central Perk, Chandler tente sa pré-rupture.]
 
-**Janice:** Ah, ce que j'adore chanter !
+**Janice :** Ah, ce que j'adore chanter !
 
 **Chandler :** Je m'en suis aperçu. Je crois que les gens râlaient... parce qu'ils voulaient entendre "l'acteur" chanter " Old Man River".
 
-**Janice:** C'est fou ! Qui eût cru que Cupidon allait chez les manucures ? [elle fait son rire]
+**Janice :** C'est fou ! Qui eût cru que Cupidon allait chez les manucures ? [elle fait son rire]
 
 **Chandler :** [il rit] Il faut qu'on parle. Je sors tout juste d'une relation très sérieuse.
 
-**Janice:** Je sais ! Je sors tout juste d'un mariage. On est vraiment destinés l'un à l'autre.
+**Janice :** Je sais ! Je sors tout juste d'un mariage. On est vraiment destinés l'un à l'autre.
 
 **Chandler :** D'accord. Mais je crois que c'est trop rapide.
 
-**Janice:** Trop rapide, tu parles ! Chéri, tu ne m'échapperas pas, cette fois.
+**Janice :** Trop rapide, tu parles ! Chéri, tu ne m'échapperas pas, cette fois.
 
 **Chandler :** On dirait bien.[pause] Mais... malheureusement... ma société... me mute à l'étranger.
 
-**Janice:** Où ? [elle a le souffle coupé] A Paris ?
+**Janice :** Où ? [elle a le souffle coupé] A Paris ?
 
 **Chandler :** Pas à Paris.
 
-**Janice:** A Londres ? Non, Rome ? Vienne ? Barcelone ?
+**Janice :** A Londres ? Non, Rome ? Vienne ? Barcelone ?
 
 **Chandler :** Tu peux arrêter de parler un instant ? [il réfléchit] Au Yémen. C'est vrai. Je suis muté au Yémen.
 
-**Janice:** Quand ?
+**Janice :** Quand ?
 
 **Chandler :** Je ne sais pas exactement.
 
-**Janice:** Il faut que je profite le plus possible... de mon Chandler Bing avant que ce moment arrive.
+**Janice :** Il faut que je profite le plus possible... de mon Chandler Bing avant que ce moment arrive.
 
 **Chandler :** Ça doit se faire dans la journée de demain.
 
@@ -7911,7 +7911,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Joey :** Tu n'es même pas assez viril pour te câbler dessus.
 
-**Janice:** [entrant] Salut, Ross.
+**Janice :** [entrant] Salut, Ross.
 
 **Ross :** [choqué] Hé !
 
@@ -7919,7 +7919,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Chandler :** Tu sais... T'es pas obligée de faire mes valises.
 
-**Janice:** Tu m'as dit : "J'ai juste le temps de préparer mes affaires. " Alors est-ce que j'ai le choix ?
+**Janice :** Tu m'as dit : "J'ai juste le temps de préparer mes affaires. " Alors est-ce que j'ai le choix ?
 
 **Chandler :** Je croyais que oui, mais apparemment non.
 
@@ -7935,11 +7935,11 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Joey :** Bien joué. On dirait un vrai nom de pays.
 
-**Janice:** [se penchant en dehors de la chambre] Viens, on va rouler tes slips dans tes chaussures. Ça gagne de la place.
+**Janice :** [se penchant en dehors de la chambre] Viens, on va rouler tes slips dans tes chaussures. Ça gagne de la place.
 
 **Phoebe :** Je fais ça pour avoir l'air plus grande.
 
-**Janice:** Viens.
+**Janice :** Viens.
 
 **Chandler :** [à Janice] Ok ! [à Joey] Change de vie avec moi !
 
@@ -7951,7 +7951,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Ross :** Le chien de ta mère n'arrêtait pas de me regarder.
 
-**Joey :**[montrant la télé] Regarde ! Ça s'appelle une mêlée. On remet la balle en jeu.
+**Joey :** [montrant la télé] Regarde ! Ça s'appelle une mêlée. On remet la balle en jeu.
 
 **Ross :** Dans une mêlée, tout le monde s'emmêle ?
 
@@ -8015,17 +8015,17 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Emily :** S'il te plaît... dis-leur d'être sympas avec Ross. C'est sa première fois.
 
-**Liam:** Vraiment ? [nous voyons Ross qui saute avec le ballon et le reçoit dans la figure.]
+**Liam :** Vraiment ? [nous voyons Ross qui saute avec le ballon et le reçoit dans la figure.]
 
 **Emily :** [à Ross] Bonne chance.
 
 ### [La mêlée prend forme et le jeu est en cours.]
 
-**Liam:** Allez, viens ! [Ross prend son souffle] Ross ! Viens !
+**Liam :** Allez, viens ! [Ross prend son souffle] Ross ! Viens !
 
 ### [Ross marche vers la mêlée, fait le tour pour chercher une place dans la mêlée.]
 
-**Liam:** Viens dans la mêlée. Ross, vas-y !
+**Liam :** Viens dans la mêlée. Ross, vas-y !
 
 ### [Ross, pressé par ses coéquipiers, saute en haut de la mêlée et tombe la tête la première au milieu, il n'y a que ses jambes qui dépassent.]
 
@@ -8055,29 +8055,29 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Chandler :** Il ne fallait pas m'accompagner à l'aéroport.
 
-**Janice:** Si... Chaque instant est précieux. Il fallait bien que je prenne le deuxième taxi. Et tes amis se fichaient de ton départ.
+**Janice :** Si... Chaque instant est précieux. Il fallait bien que je prenne le deuxième taxi. Et tes amis se fichaient de ton départ.
 
 **Chandler :** On n'est pas très proches. [pause] C'est le moment de se dire... au revoir.
 
-**Janice:** Pas avant que tu montes dans l'avion.
+**Janice :** Pas avant que tu montes dans l'avion.
 
 **Chandler :** Alors faut juste... que tu attendes là. [Il lui tend la pancarte disant "Attendre ici"] [à la guichetière] Un faux billet pour le Yémen.
 
-**La guichetière:** Un billet pour le Yémen ?
+**La guichetière :** Un billet pour le Yémen ?
 
 **Chandler :** Je veux seulement un faux billet.
 
-**La guichetière:** Désolée, je ne comprends pas.
+**La guichetière :** Désolée, je ne comprends pas.
 
 **Chandler :** Comme si c'était pour un enfant...
 
-**La guichetière:** Vous voyagez avec un enfant ?
+**La guichetière :** Vous voyagez avec un enfant ?
 
 **Chandler :** Non, non [Montrant Janice] Elle croira que c'est une carte de crédit. Mais je vais vous donner une carte de bibliothèque.
 
-**La guichetière:** Le billet coûte 2 100 dollars et nous ne prenons pas cette carte.
+**La guichetière :** Le billet coûte 2 100 dollars et nous ne prenons pas cette carte.
 
-**Janice:** Que se passe-t-il ? Un problème ? Tu es obligé de rester ?
+**Janice :** Que se passe-t-il ? Un problème ? Tu es obligé de rester ?
 
 **Chandler :** [à la guichetière] American Express ?
 
@@ -8179,7 +8179,7 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 **Rachel :** Mon Dieu !
 
-**Mme Catrokis:** Bonjour, ma petite.
+**Mme Catrokis :** Bonjour, ma petite.
 
 **Rachel :** Bonjour, Mme Catrokis.
 
@@ -8219,29 +8219,29 @@ Traduit par Stéphan Levine et Pauline Raoult
 
 ### [L'aéroport, le vol pour le Yémen est appelé.]
 
-**La guichetière:** Dernier appel pour le vol 664 à destination du Yémen.
+**La guichetière :** Dernier appel pour le vol 664 à destination du Yémen.
 
 **Chandler :** Bon, faut que j'y aille.
 
-**Janice:** Au revoir, chéri d'amour. Je t'attendrai. Tu sais quand tu reviendras ?
+**Janice :** Au revoir, chéri d'amour. Je t'attendrai. Tu sais quand tu reviendras ?
 
 **Chandler :** Quand on aura trouvé une source d'énergie pour remplacer le pétrole.
 
-**Janice:** Je t'écrirai tous les jours. [lisant l'adresse] 15, Route du Yémen, Yémen.
+**Janice :** Je t'écrirai tous les jours. [lisant l'adresse] 15, Route du Yémen, Yémen.
 
 **Chandler :** Au revoir.
 
 ### [Il donne le billet à la guichetière et va vers l'embarquement. Janice s'éloigne et regarde par la fenêtre. Chandler revient et essaie de passer devant Janice, mais elle le voit.]
 
-**Janice:** Chandler ?
+**Janice :** Chandler ?
 
 **Chandler :** Non !
 
-**Janice:** Chandler !
+**Janice :** Chandler !
 
 **Chandler :** Te voilà ! Faut que je t'embrasse une dernière fois et... Tu devais partir après l'embarquement !
 
-**Janice:** Je veux te voir décoller.
+**Janice :** Je veux te voir décoller.
 
 **Chandler :** Alors je pars au Yémen. Je pars au Yémen ! [à une dame âgée qui part aussi pour le Yémen.] Quand on sera au Yémen, je pourrai rester avec vous ?
 
@@ -8881,543 +8881,543 @@ Transcrit par François Gay
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Chandler regarde la télé et on entend Mr Treeger dans la salle de bain]
 
-**Mr. Treeger:** Oh la vache !!!
+**Mr. Treeger :** Oh la vache !!!
 
-**Joey:** [sortant de sa chambre] Qu'est ce qui se passe ?
+**Joey :** [sortant de sa chambre] Qu'est ce qui se passe ?
 
-**Chandler:** Treeger est entrain de deboucher la douche.
+**Chandler :** Treeger est entrain de deboucher la douche.
 
-**Mr. Treeger:** Qu'est ce que c'est que ce truc !!!
+**Mr. Treeger :** Qu'est ce que c'est que ce truc !!!
 
-**Joey:** Il a peut-etre trouvé ton flip-flop. [Joey s'assoit et change de chaine, on voit alors deux personnes entrain de s'embrasser]
+**Joey :** Il a peut-etre trouvé ton flip-flop. [Joey s'assoit et change de chaine, on voit alors deux personnes entrain de s'embrasser]
 
-**Chandler:** Hey !
+**Chandler :** Hey !
 
-**Joey:** Whoa ! C'est du porno ??? Qu'est ce que j'ai fait ??? J'ai du toucher un truc sur la télécommande !!!.
+**Joey :** Whoa ! C'est du porno ??? Qu'est ce que j'ai fait ??? J'ai du toucher un truc sur la télécommande !!!.
 
-**Chandler:** On paye pour ca ?
+**Chandler :** On paye pour ça ?
 
-**Joey:** Non, on paye meme pas nos factures pourle cable, c'est peut-etre comme ca qu'ils nous punissent...
+**Joey :** Non, on paye meme pas nos factures pourle cable, c'est peut-etre comme ça qu'ils nous punissent...
 
-**Chandler:** OK, alors on devrait arreter de payer nos factures de téléphone, et hop, téléphone rose gratuit !!!.
+**Chandler :** OK, alors on devrait arreter de payer nos factures de téléphone, et hop, téléphone rose gratuit !!!.
 
-**Joey:** Peut-etre on devrait arreter de payer nos factures de gaz ? [Joey s'arrete de parler et realise qu'il vient de dire un truc stupide]
+**Joey :** Peut-etre on devrait arreter de payer nos factures de gaz ? [Joey s'arrete de parler et realise qu'il vient de dire un truc stupide]
 
-**Mr. Treeger:** [sortant de la salle de bain] Waouw, cette fille est nue !!!
+**Mr. Treeger :** [sortant de la salle de bain] Waouw, cette fille est nue !!!
 
-**Chandler:** Ouais, Joey a touché un truc sur la télécommande et c'est apparu !
+**Chandler :** Ouais, Joey a touché un truc sur la télécommande et c'est apparu !
 
-**Mr. Treeger:** Ah ouais, ca m'est arrivé une fois, j'étais entrain de zapper et paf !!! C'etait comme trouver de l'argent !!!.
+**Mr. Treeger :** Ah ouais, ça m'est arrivé une fois, j'étais entrain de zapper et paf !!! C'etait comme trouver de l'argent !!!.
 
-**Chandler:** Comme trouver de l'argent avec des filles nues dessus !!!
+**Chandler :** Comme trouver de l'argent avec des filles nues dessus !!!
 
-**Mr. Treeger:** Ouais, mais après j'ai fait l'erreur d'éteindre la télé et c'est jamais revenu. Et ca me rend triste [Treeger sort]
+**Mr. Treeger :** Ouais, mais après j'ai fait l'erreur d'éteindre la télé et c'est jamais revenu. Et ça me rend triste [Treeger sort]
 
-**Joey:** [à Chandler] Pourquoi il a éteint la télé ? [Chandler secoue la tete pour dire qu'il ne sait pas]
+**Joey :** [à Chandler] Pourquoi il a éteint la télé ? [Chandler secoue la tete pour dire qu'il ne sait pas]
 
 ### GENERIQUE DEBUT
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Un peu plus tard le meme matin. La chaine porno marche toujours, on peut y voir trois femmes qui s'appretent à raser la poitrine d'un homme. Joey et Chandler se demandent pourquoi le mec à la télé laisse les filles lui raser la poitrine, pendant que Monica et Rachel prennent leur petit-dej sur le baby-foot]
 
-**Rachel:** OK, ca commence à bien faire, on doit vraiment regarder ca pendant qu'on mange ? [Elle essaye de prendre la télécommande]
+**Rachel :** OK, ça commence à bien faire, on doit vraiment regarder ça pendant qu'on mange ? [Elle essaye de prendre la télécommande]
 
-**Joey et Chandler:** [l'empechent de prendre la télécommande] Oh non-non-non-non !
+**Joey et Chandler :** [l'empechent de prendre la télécommande] Oh non-non-non-non !
 
-**Chandler:** On sait pas ce qui peut faire disparaitre la chaine porno.
+**Chandler :** On sait pas ce qui peut faire disparaitre la chaine porno.
 
-**Joey:** Ouais, donc personne ne touche la télécommande ou la TV !!!
+**Joey :** Ouais, donc personne ne touche la télécommande ou la TV !!!
 
-**Chandler:** Et personne ne touche l'air autour de la TV !!!
+**Chandler :** Et personne ne touche l'air autour de la TV !!!
 
-**Joey:** Si vous voulez vous pouvez imaginer qu'il y a une bulle protectrice de porno autour de la télé !!!
+**Joey :** Si vous voulez vous pouvez imaginer qu'il y a une bulle protectrice de porno autour de la télé !!!
 
-**Monica:** OK, mais je vais quand meme couper le son.
+**Monica :** OK, mais je vais quand meme couper le son.
 
-**Joey et Chandler:** Oh non-non-non ! [Monica coupe le son, Chandler et Joey se retournent alors lentement vers la télé avec des regards effrayés]
+**Joey et Chandler :** Oh non-non-non ! [Monica coupe le son, Chandler et Joey se retournent alors lentement vers la télé avec des regards effrayés]
 
-**Chandler:** Yes, on a toujours la chaine porno.
+**Chandler :** Yes, on a toujours la chaine porno.
 
-**Joey:** Hey.
+**Joey :** Hey.
 
-**Phoebe:** [entre avec une table de massage sous le bras] Salut !
+**Phoebe :** [entre avec une table de massage sous le bras] Salut !
 
-**Monica:** Salut !
+**Monica :** Salut !
 
-**Rachel:** Mais qu'est ce que tu fais, c'est trop lourd pour toi ca !!!.
+**Rachel :** Mais qu'est ce que tu fais, c'est trop lourd pour toi ça !!!.
 
-**Phoebe:** Ouais.
+**Phoebe :** Ouais.
 
-**Rachel:** Donne moi ca. [Elle prend la table] Oh, God. [Et donne la table à Monica]
+**Rachel :** Donne moi ca. [Elle prend la table] Oh, God. [Et donne la table à Monica]
 
-**Monica:** Okay.
+**Monica :** Okay.
 
-**Phoebe:** Ohh, je suis vraiment trop enceinte pour continuer à trimballer ce machin partout. Il faut vraiment que je trouve un boulot où on porte des tables plus légères. [Elle va se mettre devant la télé]
+**Phoebe :** Ohh, je suis vraiment trop enceinte pour continuer à trimballer ce machin partout. Il faut vraiment que je trouve un boulot où on porte des tables plus légères. [Elle va se mettre devant la télé]
 
-**Chandler:** Ou un travail où tu n'as pas à porter de table du tout.
+**Chandler :** Ou un travail où tu n'as pas à porter de table du tout.
 
-**Phoebe:** Comme docteur tu veux dire ?
+**Phoebe :** Comme docteur tu veux dire ?
 
-**Joey:** Pheebs ! Tu cache le porno, fais gaffe !!!
+**Joey :** Pheebs ! Tu cache le porno, fais gaffe !!!
 
-**Phoebe:** Ohh ! [Elle se déplace] Oh mon Dieu, ca me fait penser que j'ai rendez-vous chez le gyneco aujourd'hui.
+**Phoebe :** Ohh ! [Elle se déplace] Oh mon Dieu, ça me fait penser que j'ai rendez-vous chez le gyneco aujourd'hui.
 
 ### [APPARTEMENT DE CHANDLER ET JOEY (chez Monica et Rachel !). Ross entre]
 
-**Ross:** Salut.
+**Ross :** Salut.
 
-**Monica:** Salut.
+**Monica :** Salut.
 
-**Ross:** Emily vient de partir à l'aeroport.
+**Ross :** Emily vient de partir à l'aeroport.
 
-**Monica:** Oh. Pourquoi tu l'as pas accompagné ?
+**Monica :** Oh. Pourquoi tu l'as pas accompagné ?
 
-**Ross:** Son oncle l'accompagne, et puis de toutes facons on s'est dit au revoir ce matin, donc...
+**Ross :** Son oncle l'accompagne, et puis de toutes facons on s'est dit au revoir ce matin, donc...
 
-**Monica:** Tu dois pas te sentir très bien. Oh, les gars ont une chaine porno !
+**Monica :** Tu dois pas te sentir très bien. Oh, les gars ont une chaine porno !
 
-**Ross:** [refléchit] Non merci.
+**Ross :** [refléchit] Non merci.
 
-**Monica:** Allez, hauts les coeur, tu vas la revoir non ?
+**Monica :** Allez, hauts les coeur, tu vas la revoir non ?
 
-**Ross:** En fait je sais pas ! J'veux dire, à chaque fois que je parle de ca elle dit, [avec l'accent anglais] "C'est tellement bien, pourquoi parler du futur ? Profitons plutot..."
+**Ross :** En fait je sais pas ! J'veux dire, à chaque fois que je parle de ça elle dit, [avec l'accent anglais] "C'est tellement bien, pourquoi parler du futur ? Profitons plutot..."
 
-**Monica:** [l'interompt] Non-non-non, evite de faire l'accent. Tu dois la revoir.
+**Monica :** [l'interompt] Non-non-non, evite de faire l'accent. Tu dois la revoir.
 
-**Ross:** Pourquoi ca t'interesse tant que ca ?
+**Ross :** Pourquoi ça t'interesse tant que ça ?
 
-**Monica:** Parce que !!! Tu pourrais vivre mon fantasme !
+**Monica :** Parce que !!! Tu pourrais vivre mon fantasme !
 
-**Ross:** Tu fantasme sur Emily ?
+**Ross :** Tu fantasme sur Emily ?
 
-**Monica:** Mais non !!!Le fantasme de rencontrer quelqu'un d'un pays lointain, tomber amoureux de lui, et vivre avec lui jusqu'à la fin de tes jours.
+**Monica :** Mais non !!! Le fantasme de rencontrer quelqu'un d'un pays lointain, tomber amoureux de lui, et vivre avec lui jusqu'à la fin de tes jours.
 
-**Ross:** C'est pour ca qu'au lycée tu etais la seule qui trainait avec le gamin d'Ukraine ?
+**Ross :** C'est pour ça qu'au lycée tu etais la seule qui trainait avec le gamin d'Ukraine ?
 
-**Monica:** Ouais, c'est ca, et aussi parce que sa mère mettait de la creme chantilly sur tout !!!
+**Monica :** Ouais, c'est ca, et aussi parce que sa mère mettait de la creme chantilly sur tout !!!
 
-**Ross:** Ahh.
+**Ross :** Ahh.
 
-**Monica:** Tu l'aimes ?
+**Monica :** Tu l'aimes ?
 
-**Ross:** On avait dit que ca durerait seulement 2 semaines, tu vois ?
+**Ross :** On avait dit que ça durerait seulement 2 semaines, tu vois ?
 
-**Monica:** Tu l'aimes !
+**Monica :** Tu l'aimes !
 
-**Ross:** C'est, c'est quoi l'amour en fait ?
+**Ross :** C'est, c'est quoi l'amour en fait ?
 
-**Monica:** Ohhh, j'étais sure que tu l'aimais !!! OK, tu dois aller a l'aeroport et lui dire ca. Tu vas surement la rattraper juste avant qu'elle monte dans l'avion. Tu vas hurler son nom et dire "Je t'aime !" Et elle va répondre, "Moi aussi je t'aime !" Et ensuite vous allez vous embrasser comme jamais on a vu ca, et tous les gens autour de vous vont applaudir.
+**Monica :** Ohhh, j'étais sure que tu l'aimais !!! OK, tu dois aller a l'aeroport et lui dire ca. Tu vas surement la rattraper juste avant qu'elle monte dans l'avion. Tu vas hurler son nom et dire "Je t'aime !" Et elle va répondre, "Moi aussi je t'aime !" Et ensuite vous allez vous embrasser comme jamais on a vu ca, et tous les gens autour de vous vont applaudir.
 
-**Ross:** J'embrasse bien.
+**Ross :** J'embrasse bien.
 
-**Monica:** Ensuite vous, vous pouvez vous glisser discretement dans le cockpit, et là ca va commencer à devenir chaud, et ensuite une hotesse va vous rejoindre... [Ross la regarde bizarement] Faut vraiment que j'arrete de regarder la chaine porno !!!
+**Monica :** Ensuite vous, vous pouvez vous glisser discretement dans le cockpit, et là ça va commencer à devenir chaud, et ensuite une hotesse va vous rejoindre... [Ross la regarde bizarement] Faut vraiment que j'arrete de regarder la chaine porno !!!
 
 ### [CENTRE MEDICAL BETH ISRAEL. Phoebe est chez son gynéco, elle lui fait une echographie, Rachel est la aussi. On entend des batements de coeur, ceux du bébé]
 
-**Rachel:** C'est un batement de coeur ?
+**Rachel :** C'est un batement de coeur ?
 
-**Le médecin:** Tout a fait.
+**Le médecin :** Tout a fait.
 
-**Phoebe:** Oh my God !
+**Phoebe :** Oh my God !
 
-**Rachel:** Oh wow ! C'est trop cool. [Les battements se modifient, le son devient différent]
+**Rachel :** Oh wow ! C'est trop cool. [Les battements se modifient, le son devient différent]
 
-**Le médecin:** Vous a t'on parlé de la possibilité de naissances multiples ???
+**Le médecin :** Vous a t'on parlé de la possibilité de naissances multiples ???
 
-**Phoebe:** OK, on peut peut-etre se concentrer sur cette naissance là, et puis si je suis enceinte plus tard je vous passe un coup de fil.
+**Phoebe :** OK, on peut peut-etre se concentrer sur cette naissance là, et puis si je suis enceinte plus tard je vous passe un coup de fil.
 
-**Le médecin:** Non, j'entends trois coeurs différents.
+**Le médecin :** Non, j'entends trois coeurs différents.
 
-**Phoebe:** Trois ??!! Mais vous aviez peur que j'arrive meme pas a en avoir un !!!
+**Phoebe :** Trois ??!! Mais vous aviez peur que j'arrive meme pas a en avoir un !!!
 
-**Le médecin:** Les docteurs se trompent souvent.
+**Le médecin :** Les docteurs se trompent souvent.
 
-**Phoebe:** Ouais, ben...
+**Phoebe :** Ouais, ben...
 
-**Rachel:** OK, vous etes sure qu'il y a trois bébés ?!
+**Rachel :** OK, vous etes sure qu'il y a trois bébés ?!
 
-**Le médecin:** Sans aucun doute. [elle montre les trois tetes]
+**Le médecin :** Sans aucun doute. [elle montre les trois tetes]
 
-**Phoebe:** Oh my God ! Oh my God ! Oh my God !! Donc, dans, dans trois mois je vais avoir trois bébés parfaitement developpé en train de se ballader dans mon ventre ?! Oh ! Oh ! And it's gonna be one of those log rides where they just come shooting out !
+**Phoebe :** Oh my God ! Oh my God ! Oh my God !! Donc, dans, dans trois mois je vais avoir trois bébés parfaitement developpé en train de se ballader dans mon ventre ?! Oh ! Oh ! And it's gonna be one of those log rides where they just come shooting out !
 
-**Le médecin:** En fait accoucher de 3 bébés c'est pas vraiment plus dur que d'accoucher d'un bébé..
+**Le médecin :** En fait accoucher de 3 bébés c'est pas vraiment plus dur que d'accoucher d'un bébé..
 
-**Phoebe:** Qu'est ce que vous en savez !!
+**Phoebe :** Qu'est ce que vous en savez !!
 
 ### [CENTRAL PERK. Phoebe attend Frank et Alice pour leur annoncer la nouvelle]
 
-**Alice:** [entre] Oh-oh, Phoebe !
+**Alice :** [entre] Oh-oh, Phoebe !
 
-**Phoebe:** Ooh ! Salut !
+**Phoebe :** Ooh ! Salut !
 
-**Alice:** Salut ! [Elle court et touche le ventre de Phoebe] Qu'est ce que le docteur a dit ?
+**Alice :** Salut ! [Elle court et touche le ventre de Phoebe] Qu'est ce que le docteur a dit ?
 
-**Phoebe:** Eh bien, tu sais, quand tu , tu marches dans la rue, et euuuh, et tu vois trois personnes a la queue-leu-leu et tu te dis: "Wauw, c'est cool"
+**Phoebe :** Eh bien, tu sais, quand tu, tu marches dans la rue, et euuuh, et tu vois trois personnes a la queue-leu-leu et tu te dis: "Wauw, c'est cool"
 
-**Frank:** Ouais.
+**Frank :** Ouais.
 
-**Phoebe:** OK,eh bien grande nouvelle, onva avoir des triplets.
+**Phoebe :** OK, eh bien grande nouvelle, onva avoir des triplets.
 
-**Alice:** Des triplets ?
+**Alice :** Des triplets ?
 
-**Frank:** Ça y est, je peux enfin monter mon groupe !!!
+**Frank :** Ça y est, je peux enfin monter mon groupe !!!
 
-**Alice:** On va avoir une grande famille, j'ai toujours voulu une grande famille !
+**Alice :** On va avoir une grande famille, j'ai toujours voulu une grande famille !
 
-**Phoebe:** Oh mon Dieu, je suis contente que vous soyez heureux, j'avais peur que la nouvelle vous foute la trouille.
+**Phoebe :** Oh mon Dieu, je suis contente que vous soyez heureux, j'avais peur que la nouvelle vous foute la trouille.
 
-**Frank:** Et pourquoi ca nous foutrait la trouille ?
+**Frank :** Et pourquoi ça nous foutrait la trouille ?
 
-**Phoebe:** Ben, parce que des triplets c'est dur à elever, et puis ca coute cher, et...
+**Phoebe :** Ben, parce que des triplets c'est dur à elever, et puis ça coute cher, et...
 
-**Frank:** [Ils commencent à etre moins heureux] Oh.
+**Frank :** [Ils commencent à etre moins heureux] Oh.
 
-**Alice:** Je vois.
+**Alice :** Je vois.
 
-**Phoebe:** Non, on redevient heureux, allez, on redevient heureux !
+**Phoebe :** Non, on redevient heureux, allez, on redevient heureux !
 
-**Alice:** Non- non non, ca va bien se passer, je suis prof de tricot/couture, alors je demanderais à mes 30 élèves de faire des vetements pour le bébé. Ce sera comme avoir mon propre atelier de couture !!!
+**Alice :** Non- non non, ça va bien se passer, je suis prof de tricot/couture, alors je demanderais à mes 30 élèves de faire des vetements pour le bébé. Ce sera comme avoir mon propre atelier de couture !!!
 
-**Frank:** Ouais, et depuis que je sais qu'on va avoir des triplets je pense que je vais quitter la fac et chercher un boulot.
+**Frank :** Ouais, et depuis que je sais qu'on va avoir des triplets je pense que je vais quitter la fac et chercher un boulot.
 
-**Alice:** Non, Frank.
+**Alice :** Non, Frank.
 
-**Phoebe:** Non, tu peux pas quitter la fac !! Non !!! T'es dans une fac toi ???
+**Phoebe :** Non, tu peux pas quitter la fac !! Non !!! T'es dans une fac toi ???
 
-**Frank:** Ouais, je suis a la fac,section frigo.
+**Frank :** Ouais, je suis a la fac, section frigo.
 
-**Alice:** Ouais.
+**Alice :** Ouais.
 
-**Frank:** Ouais, quand j'ai appris qu'on allait avoir des bébés je me suis dit que ce serait bien si je pouvais avoir une carriere dans quelque chose, et j'aime les frigos !
+**Frank :** Ouais, quand j'ai appris qu'on allait avoir des bébés je me suis dit que ce serait bien si je pouvais avoir une carriere dans quelque chose, et j'aime les frigos !
 
-**Phoebe:** Tu peux pas renoncer à ton reve.
+**Phoebe :** Tu peux pas renoncer à ton reve.
 
-**Frank:** Non ca va, on va avoir trois enfants, c'est une autre sorte de reve, trois enfants et pas d'argent.
+**Frank :** Non ça va, on va avoir trois enfants, c'est une autre sorte de reve, trois enfants et pas d'argent.
 
 ### [AEROPORT DE NEW-YORK. Emily se prépare à embarquer dans le vol pour Londres]
 
-**Hotesse:** [Dans les haut-parleurs] Embarquement du vol 009 pour Londres.
+**Hotesse :** [Dans les haut-parleurs] Embarquement du vol 009 pour Londres.
 
-**Ross:** Emily ! [court vers elle]
+**Ross :** Emily ! [court vers elle]
 
-**Emily:** Oh my God ! Qu'est ce que tu fais la ? [Il la prend dans ses bras]
+**Emily :** Oh my God ! Qu'est ce que tu fais la ? [Il la prend dans ses bras]
 
-**Ross:** Il fallait que je te vois encore une fois avant que tu partes.
+**Ross :** Il fallait que je te vois encore une fois avant que tu partes.
 
-**Emily:** T'es vraiment trop mignon. [Ils s'embrassent]
+**Emily :** T'es vraiment trop mignon. [Ils s'embrassent]
 
-**Ross:** C'est, c'est, c'est une grosse boite de chocolat. [Emily tient une enorme boite de Toblerone] J'ai vraiment passé de super moments avec toi.
+**Ross :** C'est, c'est, c'est une grosse boite de chocolat. [Emily tient une enorme boite de Toblerone] J'ai vraiment passé de super moments avec toi.
 
-**Emily:** Moi aussi.
+**Emily :** Moi aussi.
 
-**Hotesse:** Dernier appel pour les passagers du vol 009.
+**Hotesse :** Dernier appel pour les passagers du vol 009.
 
-**Emily:** C'est pour moi. [Ils s'embrassent] Tiens, prends ca. [Elle lui donne les Toblerones] De toutes facons j'ai droit qu'a un seul bagage [Elle commence a partir]
+**Emily :** C'est pour moi. [Ils s'embrassent] Tiens, prends ca. [Elle lui donne les Toblerones] De toutes facons j'ai droit qu'a un seul bagage [Elle commence a partir]
 
-**Ross:** [la rattrapant] Attend, j'ai, euuuh,j'ai un truc te dire. Je vais juste le dire alors, je, je , je pense que je t'aime.
+**Ross :** [la rattrapant] Attend, j'ai, euuuh, j'ai un truc te dire. Je vais juste le dire alors, je, je, je pense que je t'aime.
 
-**Emily:** Oh. [Elle est choquée et le prend dans ses bras] Merci. [Elle monte dans l'avion]
+**Emily :** Oh. [Elle est choquée et le prend dans ses bras] Merci. [Elle monte dans l'avion]
 
-**Ross:** Pas de probleme.
+**Ross :** Pas de probleme.
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Rachel fredonne une chanson]
 
-**Rachel:** C'est quoi cette chanson, ca me tourne dans la tete depuis ce matin.
+**Rachel :** C'est quoi cette chanson, ça me tourne dans la tete depuis ce matin.
 
-**Chandler:** C'est la musique du film "Good will humping". (Le film s'appelle normalement "Good will hunting", et apparement le remake porno s'appelle "Good will humping", c'est un jeu de mot, puisque "hunting" ca veut dire chasser et "humping" ca veut dire baiser, c'est un peu comme si le film s'appelait "Will le bon chasseur", et la version porno "Will le bon baiseur).
+**Chandler :** C'est la musique du film "Good will humping". (Le film s'appelle normalement "Good will hunting", et apparement le remake porno s'appelle "Good will humping", c'est un jeu de mot, puisque "hunting" ça veut dire chasser et "humping" ça veut dire baiser, c'est un peu comme si le film s'appelait "Will le bon chasseur", et la version porno "Will le bon baiseur).
 
-**Rachel:** Ouais, n'empeche que mon mec Joshua il aime pas vos films pornos deguelasses.
+**Rachel :** Ouais, n'empeche que mon mec Joshua il aime pas vos films pornos deguelasses.
 
-**Joey:** Mais oui, bien sur.
+**Joey :** Mais oui, bien sur.
 
-**Rachel:** Non c'est vrai, il m'a dit qu'il prefere laisser certaines choses à son imagination.
+**Rachel :** Non c'est vrai, il m'a dit qu'il prefere laisser certaines choses à son imagination.
 
-**Chandler:** Ah OK, et il t'a aussi surement dit que les dialogues sont nazes et que les films pornos sont marrants et pas excitants
+**Chandler :** Ah OK, et il t'a aussi surement dit que les dialogues sont nazes et que les films pornos sont marrants et pas excitants
 
-**Rachel:** C'est ca !
+**Rachel :** C'est ça !
 
-**Joey:** OK,il aime les films pornos. [Rachel commence a sortir]
+**Joey :** OK, il aime les films pornos. [Rachel commence a sortir]
 
-**Monica:** Tu vas où ???
+**Monica :** Tu vas où ???
 
-**Rachel:** Je vais verifier si il trouve vraiment que les topmodels sont trop maigres. [Rachel sort et Phoebe entre] Salut Pheebs !!!
+**Rachel :** Je vais verifier si il trouve vraiment que les topmodels sont trop maigres. [Rachel sort et Phoebe entre] Salut Pheebs !!!
 
-**Phoebe:** Salut.
+**Phoebe :** Salut.
 
-**Joey:** Salut !
+**Joey :** Salut !
 
-**Monica:** Comment ca c'est passé avec Frank et Alice ???
+**Monica :** Comment ça c'est passé avec Frank et Alice ???
 
-**Phoebe:** Ben Frank va quitter la fac parce que sa super-fertile soeur va avoir des triplets ! Il faut que je me fasse beaucoup d'argent et vite, et j'ai une idée dont je veux parler avec toi [montre Chandler] parce que tu bosses pour un grande boite. OK, quelles infos tu peux me donner sur le commercial.
+**Phoebe :** Ben Frank va quitter la fac parce que sa super-fertile soeur va avoir des triplets ! Il faut que je me fasse beaucoup d'argent et vite, et j'ai une idée dont je veux parler avec toi [montre Chandler] parce que tu bosses pour un grande boite. OK, quelles infos tu peux me donner sur le commercial.
 
-**Chandler:** Ils nous parlent pas vraiment ca, mais je peux t'avoir des stylos gratuits si tu veux. [Ross entre]
+**Chandler :** Ils nous parlent pas vraiment ca, mais je peux t'avoir des stylos gratuits si tu veux. [Ross entre]
 
-**Monica:** Ohh ! T'as fait ce que je t'ai dit ? Tu lui as dit ??
+**Monica :** Ohh ! T'as fait ce que je t'ai dit ? Tu lui as dit ??
 
-**Ross:** Ouais.
+**Ross :** Ouais.
 
-**Monica:** Qu'est ce qu'elle a repondu ????
+**Monica :** Qu'est ce qu'elle a repondu ????
 
-**Ross:** Merci.
+**Ross :** Merci.
 
-**Monica:** Oh mais de rien, alors elle a dit quoi ?
+**Monica :** Oh mais de rien, alors elle a dit quoi ?
 
-**Ross:** Elle a dit "Merci", je lui ai dit "Je t'aime" et elle a répondu "Merci".
+**Ross :** Elle a dit "Merci", je lui ai dit "Je t'aime" et elle a répondu "Merci".
 
-**Chandler:** Whoa-whoa, attend 2 secondes, tu lui as dit "Je t'aime" ???
+**Chandler :** Whoa-whoa, attend 2 secondes, tu lui as dit "Je t'aime" ???
 
-**Joey:** Attends, tu esperais qu'elle fasse quoi apres ca ?!
+**Joey :** Attends, tu esperais qu'elle fasse quoi apres ça ?!
 
-**Ross:** Bon, je fais quoi maintenant ?
+**Ross :** Bon, je fais quoi maintenant ?
 
-**Joey:** Tu fais celui qui veut mettre de la distance entre vous.
+**Joey :** Tu fais celui qui veut mettre de la distance entre vous.
 
-**Ross:** Ouais, mais elle habite déjà à Londres.
+**Ross :** Ouais, mais elle habite déjà à Londres.
 
-**Joey:** Alors tu vas a Tokyo.
+**Joey :** Alors tu vas a Tokyo.
 
-**Chandler:** OK, vous prenez pas la tete, de toutes facons maintenant que tu lui as dit je t'aime tout est fini !!.
+**Chandler :** OK, vous prenez pas la tete, de toutes facons maintenant que tu lui as dit je t'aime tout est fini !!.
 
-**Monica:** Non c'est pas fini !!! Toi tu es fini !!!
+**Monica :** Non c'est pas fini !!! Toi tu es fini !!!
 
-**Chandler:** Quoi ?
+**Chandler :** Quoi ?
 
-**Monica:** Tu vois ce que je veux dire !!!
+**Monica :** Tu vois ce que je veux dire !!!
 
-**Chandler:** D'accord. [Pause] Pas mal celle-la.
+**Chandler :** D'accord. [Pause] Pas mal celle-la.
 
-**Monica:** C'est pas fini, elle va te rappeler et te dire qu'elle t'aime. Et elle t'a pas dit avant parce qu'elle t'aime tellement que ca lui fait peur Maintenant tu rentre chez toi et tu attends qu'elle appelle, elle appelera de l'avion, allez, dehors ! [elle le pousse vers la porte]
+**Monica :** C'est pas fini, elle va te rappeler et te dire qu'elle t'aime. Et elle t'a pas dit avant parce qu'elle t'aime tellement que ça lui fait peur Maintenant tu rentre chez toi et tu attends qu'elle appelle, elle appelera de l'avion, allez, dehors ! [elle le pousse vers la porte]
 
-**Ross:** OK OK; mais si elle rappelle pas c'est fini ! A moins que je la rappelle comme ca par hasard, et là si elle me dit qu'elle rappelle et qu'elle le fait pas, alors là c'est fini !!! [Joey lui fait un signe d'encouragement et Chandler met ses pouces vers le haut pour lui dire que c'est OK]
+**Ross :** OK OK; mais si elle rappelle pas c'est fini ! A moins que je la rappelle comme ça par hasard, et là si elle me dit qu'elle rappelle et qu'elle le fait pas, alors là c'est fini !!! [Joey lui fait un signe d'encouragement et Chandler met ses pouces vers le haut pour lui dire que c'est OK]
 
-**Joey:** Bien ca, te laisse pas faire ! [Ross sort, et dès que la porte se referme Joey met ses pouces vers le bas pour montrer que Ross est un looser]
+**Joey :** Bien ca, te laisse pas faire ! [Ross sort, et dès que la porte se referme Joey met ses pouces vers le bas pour montrer que Ross est un looser]
 
 ### [APPARTEMENT DE CHANDLER ET JOEY (chez Monica et Rachel !). Chandler et Joey qui viennent juste de se reveiller entrent]
 
-**Rachel:** Salut !
+**Rachel :** Salut !
 
-**Chandler:** Salut, on peut regarder les dessins-animés ici ? On veut arreter le porno pour un moment. On a encore passé 2 heures à regarder "In&out&in". (Le film original s'appelle "In&out", le remake porno s'appelle donc "In&out&In", ce qui veut dire "rentre, sort, et rentre de nouveau", vous imaginez tous de quoi il s'agit...)
+**Chandler :** Salut, on peut regarder les dessins-animés ici ? On veut arreter le porno pour un moment. On a encore passé 2 heures à regarder "In&out&in". (Le film original s'appelle "In&out", le remake porno s'appelle donc "In&out&In", ce qui veut dire "rentre, sort, et rentre de nouveau", vous imaginez tous de quoi il s'agit...)
 
-**Rachel:** OK, pourquoi vous eteignez pas la télé alors ??
+**Rachel :** OK, pourquoi vous eteignez pas la télé alors ??
 
-**Chandler:** Parce qu'on serait les 2 idiots qui ont arreté la chaine porno !!!
+**Chandler :** Parce qu'on serait les 2 idiots qui ont arreté la chaine porno !!!
 
-**Phoebe:** [entre avec une valise à la main] C'est cool que vous soyez tous la.
+**Phoebe :** [entre avec une valise à la main] C'est cool que vous soyez tous la.
 
-**Monica:** Salut !
+**Monica :** Salut !
 
-**Phoebe:** Salut !
+**Phoebe :** Salut !
 
-**Rachel:** Y'a quoi dans ta valise ?
+**Rachel :** Y'a quoi dans ta valise ?
 
-**Phoebe:** C'est bien que tu poses la question [Elle ouvre la valise et sort un couteau et une canette de coca] Alors ca vous derange pas de couper des cannettes en métal avec un couteau ordinaire ? [Elle coupe la cannette en 2] Ah ah, je sais ce que vous allez dire...
+**Phoebe :** C'est bien que tu poses la question [Elle ouvre la valise et sort un couteau et une canette de coca] Alors ça vous derange pas de couper des cannettes en métal avec un couteau ordinaire ? [Elle coupe la cannette en 2] Ah ah, je sais ce que vous allez dire...
 
-**Chandler:** Les femmes enceintes sont tranchantes ?
+**Chandler :** Les femmes enceintes sont tranchantes ?
 
-**Monica:** Phoebe, tu payes quand meme pas pour avoir ces couteaux ?
+**Monica :** Phoebe, tu payes quand meme pas pour avoir ces couteaux ?
 
-**Phoebe:** Non !
+**Phoebe :** Non !
 
-**Monica:** T'es sure ?
+**Monica :** T'es sure ?
 
-**Phoebe:** Non !
+**Phoebe :** Non !
 
-**Rachel:** Tu vas jamais faire assez d'argent avec ca pour pouvoir aider Frank et Alice !!!
+**Rachel :** Tu vas jamais faire assez d'argent avec ça pour pouvoir aider Frank et Alice !!!
 
-**Phoebe:** Non non, mais ca c'est seulement la première partie du plan.
+**Phoebe :** Non non, mais ça c'est seulement la première partie du plan.
 
-**Chandler:** Et c'est quoi la deuxième partie ?
+**Chandler :** Et c'est quoi la deuxième partie ?
 
-**Phoebe:** Vendre des "Saturn" (la console de jeu je suppose).
+**Phoebe :** Vendre des "Saturn" (la console de jeu je suppose).
 
 ### [CHAMBRE DE ROSS : Ross s'est endormi devant le téléphone en attendant un appel d'Emily, le téléphone sonne et Ross se reveille]
 
-**Ross:** [décroche le téléphone] Allo ?
+**Ross :** [décroche le téléphone] Allo ?
 
-**Emily:** Ross.
+**Emily :** Ross.
 
-**Ross:** Emily, salut ! Euh, comment c'est passé le vol ?
+**Ross :** Emily, salut ! Euh, comment c'est passé le vol ?
 
-**Emily:** Horrible, je m'en suis voulu de t'avoir "Merci" quand tu m'as dit "je t'aime"..
+**Emily :** Horrible, je m'en suis voulu de t'avoir "Merci" quand tu m'as dit "je t'aime"..
 
-**Ross:** Non non, ca va, c'est sympa d'appeler.
+**Ross :** Non non, ça va, c'est sympa d'appeler.
 
-**Emily:** Ross, euuuh, j'ai un truc à te dire, il y a quelqu'un d'autre.
+**Emily :** Ross, euuuh, j'ai un truc à te dire, il y a quelqu'un d'autre.
 
-**Ross:** Ça veut la meme dire la meme chose en Amerique et en Angleterre ???
+**Ross :** Ça veut la meme dire la meme chose en Amerique et en Angleterre ???
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Ross raconte sa conversation téléphonique avec Emily]
 
-**Ross:** Elle sait pas qui elle veut, moi ou ce mec, Colin.
+**Ross :** Elle sait pas qui elle veut, moi ou ce mec, Colin.
 
-**Monica:** C'est pas comme ca que ca devait se passer, il ne devait pas y avoir d'autre mecs !!!
+**Monica :** C'est pas comme ça que ça devait se passer, il ne devait pas y avoir d'autre mecs !!!
 
-**Ross:** Ben...
+**Ross :** Ben...
 
-**Monica:** Mais bien sur qu'il y a un autre mec, c'est encore mieux comme ca, maintenant tu dois prouver ton amour !!!
+**Monica :** Mais bien sur qu'il y a un autre mec, c'est encore mieux comme ca, maintenant tu dois prouver ton amour !!!
 
-**Ross:** Je vais prouver que d'alle, j'en ai marre de t'ecouter. J'aurais pas tapé dans un mur si je n'étais pas allé a l'aeroport comme tu m'avais dit !!!
+**Ross :** Je vais prouver que d'alle, j'en ai marre de t'ecouter. J'aurais pas tapé dans un mur si je n'étais pas allé a l'aeroport comme tu m'avais dit !!!
 
-**Chandler:** T'as tapé dans un mur ?
+**Chandler :** T'as tapé dans un mur ?
 
-**Ross:** Non, je l'ai raté et j'ai tapé dans la porte, mais ca a fait mal quand ca c'est ouvert !!!!
+**Ross :** Non, je l'ai raté et j'ai tapé dans la porte, mais ça a fait mal quand ça c'est ouvert !!!!
 
-**Monica:** Tu dois aller a Londres
+**Monica :** Tu dois aller a Londres
 
-**Ross:** QUOI ?! ?! ?
+**Ross :** QUOI ?! ?! ?
 
-**Monica:** Ouais, tu dois te battre pour elle !
+**Monica :** Ouais, tu dois te battre pour elle !
 
-**Joey:** Mais bien sur, vachement intelligent ca. Ouais, tu lui as dit "je t'aime" et elle a pas repondu, ensuite elle te téléphone pour te dire qu'elle a un autre mec, alors OK, va a Londres, ca ca va surement pas lui faire peur !!!
+**Joey :** Mais bien sur, vachement intelligent ca. Ouais, tu lui as dit "je t'aime" et elle a pas repondu, ensuite elle te téléphone pour te dire qu'elle a un autre mec, alors OK, va a Londres, ça ca va surement pas lui faire peur !!!
 
-**Monica:** Quand Rachel était avec Paolo, t'as fait quoi ?
+**Monica :** Quand Rachel était avec Paolo, t'as fait quoi ?
 
-**Ross:** Je me suis moqué de son accent.
+**Ross :** Je me suis moqué de son accent.
 
-**Monica:** T'as rien fait, tu t'es pas battu et tu as laissé Paolo avoir Rachel. C'est pas vrai ??? Tu veux que ca fasse pareil avec Emily ???
+**Monica :** T'as rien fait, tu t'es pas battu et tu as laissé Paolo avoir Rachel. C'est pas vrai ??? Tu veux que ça fasse pareil avec Emily ???
 
-**Ross:** Non.
+**Ross :** Non.
 
-**Monica:** Alors bats toi pour elle ! Va a Londres, regarde, ca pourrait etre toi et Emily ! [Montre le film porno à la télé]. Euuh, en un peu moins hard peut-etre !!!
+**Monica :** Alors bats toi pour elle ! Va a Londres, regarde, ça pourrait etre toi et Emily ! [Montre le film porno à la télé]. Euuh, en un peu moins hard peut-etre !!!
 
-**Ross:** Vraiment ?
+**Ross :** Vraiment ?
 
-**Monica:** Mais oui, surprends là ! Pointe toi à sa porte ! La laisse pas partir sans te battre
+**Monica :** Mais oui, surprends là ! Pointe toi à sa porte ! La laisse pas partir sans te battre
 
-**Ross:** OK, OK, je vais le faire !
+**Ross :** OK, OK, je vais le faire !
 
-**Monica:** Et ben voila !!.
+**Monica :** Et ben voila !!.
 
-**Ross:** Je vais, je vais aller à Londre, et je vais me battre pour elle.
+**Ross :** Je vais, je vais aller à Londre, et je vais me battre pour elle.
 
-**Monica:** OK, bonne chance ! [Ross commence à partir]
+**Monica :** OK, bonne chance ! [Ross commence à partir]
 
-**Joey:** Ross ! Ross ! Si tu vas à 'áeroport, tu peux me ramener une autre boite de Toblerones ? [Chandler fait "non" de la tete]
+**Joey :** Ross ! Ross ! Si tu vas à 'áeroport, tu peux me ramener une autre boite de Toblerones ? [Chandler fait "non" de la tete]
 
 ### [APPARTEMENT DE CHANDLER ET JOEY (chez Monica et Rachel !). Monica, Joey, et Chandler sont assis et discutent, Phoebe et Rachel entrent]
 
-**Rachel:** Salut !
+**Rachel :** Salut !
 
-**Phoebe:** Ooh-Ooh !! J'ai trouvé, j'ai trouvé un moyen de me faire de l'argent ! Je vais ouvrir mon propre salon de massage et Frank va m'aider. Et on va s'adapter à ses horaires comme ca il aura pas à quitter la fac.
+**Phoebe :** Ooh-Ooh !! J'ai trouvé, j'ai trouvé un moyen de me faire de l'argent ! Je vais ouvrir mon propre salon de massage et Frank va m'aider. Et on va s'adapter à ses horaires comme ça il aura pas à quitter la fac.
 
-**Monica:** Ça a l'air bien, mais comment vous allez faire ca ?
+**Monica :** Ça a l'air bien, mais comment vous allez faire ça ?
 
-**Rachel:** Bon, on marchait dans la rue et on a vu le van que vous utilisiez quand vous faisiez le traiteur, alors...
+**Rachel :** Bon, on marchait dans la rue et on a vu le van que vous utilisiez quand vous faisiez le traiteur, alors...
 
-**Phoebe:** C'est moi qui raconte !!! C'est moi qui raconte !!!
+**Phoebe :** C'est moi qui raconte !!! C'est moi qui raconte !!!
 
-**Rachel:** OK.
+**Rachel :** OK.
 
-**Phoebe:** OK. Vous savez que les gens ont besoin de se déplacer, mais ils ont aussi besoin de massages pour se relaxer, donc nous on va faire du 2 en 1, OK, je fais les massages et Frank conduit. Je peux modifier le van, mettre ma table a l'arrière, et vous savez ce que ca donne ???
+**Phoebe :** OK. Vous savez que les gens ont besoin de se déplacer, mais ils ont aussi besoin de massages pour se relaxer, donc nous on va faire du 2 en 1, OK, je fais les massages et Frank conduit. Je peux modifier le van, mettre ma table a l'arrière, et vous savez ce que ça donne ???
 
-**Chandler:** Un endroit d'où personne sortira vivant ?
+**Chandler :** Un endroit d'où personne sortira vivant ?
 
-**Phoebe:** Non ! reflechis, c'est un taxi que les gens prennent pour se relaxer, c'est...
+**Phoebe :** Non ! reflechis, c'est un taxi que les gens prennent pour se relaxer, c'est...
 
-**Rachel:** [l'interompt] Relaxi-Taxi !
+**Rachel :** [l'interompt] Relaxi-Taxi !
 
-**Phoebe:** Oh non, le nom c'était ma partie préférée de l'histoire !!!!
+**Phoebe :** Oh non, le nom c'était ma partie préférée de l'histoire !!!!
 
-**Rachel:** Ouais, mais c'est moi qui l'ai trouvé !!
+**Rachel :** Ouais, mais c'est moi qui l'ai trouvé !!
 
-**Phoebe:** NON C'EST PAS TOI !!!! Oh non, toi tu as trouvé Relaxi-cab, c'est nul !!! ("cab" est un autre mot anglais pour taxi, c'est de l'argot)
+**Phoebe :** NON C'EST PAS TOI !!!! Oh non, toi tu as trouvé Relaxi-cab, c'est nul !!! ("cab" est un autre mot anglais pour taxi, c'est de l'argot)
 
-**Rachel:** Oui mais... [Le téléphone sonne, Monica décroche]
+**Rachel :** Oui mais... [Le téléphone sonne, Monica décroche]
 
-**Monica:** Allo.
+**Monica :** Allo.
 
-**Ross:** [Au téléphone] Salut.
+**Ross :** [Au téléphone] Salut.
 
-**Monica:** Oh my God ! Ross, t'es en Angleterre ?? T'as surpris Emily ??? [On voit alors Ross dans une de ces cabines téléphoniques typiques en Angleterre]
+**Monica :** Oh my God ! Ross, t'es en Angleterre ?? T'as surpris Emily ??? [On voit alors Ross dans une de ces cabines téléphoniques typiques en Angleterre]
 
-**Ross:** Non, parce qu'elle es pas encore rentrée !!! Et elle a pas été là de toute la nuit ! Elle doit etre chez l'autre mec, et moi je suis le crétin qui a passé toute la nuit à l'attendre devant son appartement !!!!
+**Ross :** Non, parce qu'elle es pas encore rentrée !!! Et elle a pas été là de toute la nuit ! Elle doit etre chez l'autre mec, et moi je suis le crétin qui a passé toute la nuit à l'attendre devant son appartement !!!!
 
-**Monica:** OK, c'est quand le prochain vol pour New-York ?
+**Monica :** OK, c'est quand le prochain vol pour New-York ?
 
-**Ross:** Dans 4 heures.
+**Ross :** Dans 4 heures.
 
-**Monica:** OK, alors reste là-bas encore un peu , et si elle se pointe pas tu vas à l'aeroport et tu rentre.
+**Monica :** OK, alors reste là-bas encore un peu, et si elle se pointe pas tu vas à l'aeroport et tu rentre.
 
-**Phoebe:** Heh, dis lui pour lui Relaxi-cab, et demande lui si c'est mieux que Relaxi-taxi
+**Phoebe :** Heh, dis lui pour lui Relaxi-cab, et demande lui si c'est mieux que Relaxi-taxi
 
-**Rachel:** OK, c'est pas Relaxi-Cab, c'est Relaxicab, comme taxicab.
+**Rachel :** OK, c'est pas Relaxi-Cab, c'est Relaxicab, comme taxicab.
 
-**Phoebe:** Oh, là c'est mieux !!
+**Phoebe :** Oh, là c'est mieux !!
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Un peu plus tard la meme nuit, quelqu'un tape à la porte, Chandler ouvre et c'est Emily !!!]
 
-**Chandler:** On est à Londres ou quoi ???
+**Chandler :** On est à Londres ou quoi ???
 
-**Monica:** Qu'est ce que tu fais là ??? Mais tu peux pas etre ici !
+**Monica :** Qu'est ce que tu fais là ??? Mais tu peux pas etre ici !
 
-**Emily:** Je suis, euuh, je suis venu pour parler à Ross [Elle pose son sac sur le bayfoot, et on voit une barre de Toblerone qui depasse, Joey regarde amoureusement la boite de chocolat]
+**Emily :** Je suis, euuh, je suis venu pour parler à Ross [Elle pose son sac sur le bayfoot, et on voit une barre de Toblerone qui depasse, Joey regarde amoureusement la boite de chocolat]
 
-**Emily:** Quoi ?
+**Emily :** Quoi ?
 
-**Joey:** [pause] Rien. Non, rien.
+**Joey :** [pause] Rien. Non, rien.
 
-**Emily:** Je voulais l'appeler mais...
+**Emily :** Je voulais l'appeler mais...
 
-**Monica:** Oh, tu es venu lui dire que tu l'aimes ! J'en étais sure ! [montre Chandler] J'avais raison ! [se tourne vers Emily] J'ai raison non ???
+**Monica :** Oh, tu es venu lui dire que tu l'aimes ! J'en étais sure ! [montre Chandler] J'avais raison ! [se tourne vers Emily] J'ai raison non ???
 
-**Emily:** Je préfererais régler ca avec lui.
+**Emily :** Je préfererais régler ça avec lui.
 
-**Monica:** Oh.
+**Monica :** Oh.
 
-**Emily:** Je suis allée a son appartement mais il n'y était pas, vous savez pas ou je peux le trouver par hasard ??? [Londres: Ross est assis devant chez Emily. Le téléphone sonne chez Emily, Ross cherche d'où vient le bruit, le répondeur se met en route...]... Ross, t'es là ? Ross, je sais pas si tu m'entends mais... [Ross s'est approché de la fenetre pour entendre mieux] de toute facon je vais parler, uh, je suis aux USA avec ta soeur et tes amis et c'est fini avec Colin, je suis venu a New York pour te dire ca et pour te dire-.... Oui Joey, tu preux prendre autant de chocolat que tu veux...-, oui donc, je suis venu pour te dire que je t'aime.
+**Emily :** Je suis allée a son appartement mais il n'y était pas, vous savez pas ou je peux le trouver par hasard ??? [Londres: Ross est assis devant chez Emily. Le téléphone sonne chez Emily, Ross cherche d'où vient le bruit, le répondeur se met en route...]... Ross, t'es là ? Ross, je sais pas si tu m'entends mais... [Ross s'est approché de la fenetre pour entendre mieux] de toute facon je vais parler, uh, je suis aux USA avec ta soeur et tes amis et c'est fini avec Colin, je suis venu a New York pour te dire ça et pour te dire-.... Oui Joey, tu preux prendre autant de chocolat que tu veux...-, oui donc, je suis venu pour te dire que je t'aime.
 
-**Ross:** [hurle vers le répondeur en pensant qu'Emily peut entendre] Moi aussi je t'aime ! Je vais t'appeler depuis la cabine [Realise] Tu peux pas m'entendre. [va telephoner]
+**Ross :** [hurle vers le répondeur en pensant qu'Emily peut entendre] Moi aussi je t'aime ! Je vais t'appeler depuis la cabine [Realise] Tu peux pas m'entendre. [va telephoner]
 
-**Emily:** Je voudrais savoir si tu as entendu ca !!! Je suppose que soit tu as entendu, soit je viens de faire rigoler mes voisis... Mme. Newman , si vous ecoutez ca, tirez vous, c'est pas vos affaires !!! Je pense pas que tu ais entendu, de toutes facons j'ai un signal d'appel, je dois y aller. [elle repond alors au signal d'appel] Allo.
+**Emily :** Je voudrais savoir si tu as entendu ça !!! Je suppose que soit tu as entendu, soit je viens de faire rigoler mes voisis... Mme. Newman, si vous ecoutez ca, tirez vous, c'est pas vos affaires !!! Je pense pas que tu ais entendu, de toutes facons j'ai un signal d'appel, je dois y aller. [elle repond alors au signal d'appel] Allo.
 
-**Ross:** Salut.
+**Ross :** Salut.
 
-**Emily:** Ross, Je t'aime !
+**Emily :** Ross, Je t'aime !
 
-**Ross:** Ohh ! Merci.
+**Ross :** Ohh ! Merci.
 
 ### GENERIQUE FIN
 
 ### [APPARTEMENT DE MONICA ET RACHEL (chez Chandler et Joey !). Joey regarde un film porno, Chandler fait son entrée]
 
-**Chandler:** Salut.
+**Chandler :** Salut.
 
-**Joey:** Salut.
+**Joey :** Salut.
 
-**Chandler:** Je reviens de la banque, et là-bas j'ai parlé avec une employé top-bonne, eh ben elle m'a pas demandé d'aller faire l'amour avec elle dans un bureau !!!
+**Chandler :** Je reviens de la banque, et là-bas j'ai parlé avec une employé top-bonne, eh ben elle m'a pas demandé d'aller faire l'amour avec elle dans un bureau !!!
 
-**Joey:** Il m'est arrivé un truc du meme style ! La fille qui livre les pizzas se pointe, elle me donne la pizza, elle prend l'argent et elle se barre !!!!
+**Joey :** Il m'est arrivé un truc du meme style ! La fille qui livre les pizzas se pointe, elle me donne la pizza, elle prend l'argent et elle se barre !!!!
 
-**Chandler:** QUOI ??? Elle a pas dit: "Bel appartement, je parie que les chambres sont enormes" ???
+**Chandler :** QUOI ??? Elle a pas dit: "Bel appartement, je parie que les chambres sont enormes" ???
 
-**Joey:** Nooon, rien !!!
+**Joey :** Nooon, rien !!!
 
-**Chandler:** Tu sais quoi, il faut qu'on arrete de regarder du porno !!!
+**Chandler :** Tu sais quoi, il faut qu'on arrete de regarder du porno !!!
 
-**Joey:** Je crois que t'as raison. [Se lève et va chercher la télécommande]
+**Joey :** Je crois que t'as raison. [Se lève et va chercher la télécommande]
 
-**Chandler:** OK, t'es pret ????
+**Chandler :** OK, t'es pret ????
 
-**Joey:** Un.
+**Joey :** Un.
 
-**Chandler:** Deux.
+**Chandler :** Deux.
 
-**Tous les deux:** Trois !!!. [Chandler eteint la télé et pose la télécommande]
+**Tous les deux :** Trois !!!. [Chandler eteint la télé et pose la télécommande]
 
-**Joey:** Aaah, c'est pas mal agréable..
+**Joey :** Aaah, c'est pas mal agréable..
 
-**Chandler:** Ouais, c'est une sorte de soulagement.
+**Chandler :** Ouais, c'est une sorte de soulagement.
 
-**Joey:** Ouais. [Pause]
+**Joey :** Ouais. [Pause]
 
-**Chandler:** Tu veux voir si on a encore la chaine ???
+**Chandler :** Tu veux voir si on a encore la chaine ???
 
-**Joey:** Ouais. [Chandler rallume la télé et...]
+**Joey :** Ouais. [Chandler rallume la télé et...]
 
-**Chandler:** CHAINE PORNO GRATUITE !!!
+**Chandler :** CHAINE PORNO GRATUITE !!!
 
-**Joey:** OUAIS !!
+**Joey :** OUAIS !!
 
-**Chandler:** On a une chaine porno gratuite par ici !!!
+**Chandler :** On a une chaine porno gratuite par ici !!!
 
 ### FIN
 
@@ -10143,7 +10143,7 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 **Rachel :** Ils sont à vous.
 
-**Joey et Chandler:** Très bien !
+**Joey et Chandler :** Très bien !
 
 **Rachel :** Si vous nous rendez notre appartement !
 
@@ -10607,7 +10607,7 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 ### (Joey le rejoint)
 
-**Le voisin et Joey:** « Le soleil brille, le ciel est bleu, la journée commence... »
+**Le voisin et Joey :** « Le soleil brille, le ciel est bleu, la journée commence... »
 
 **Le voisin :** Tu es revenu !
 
@@ -10615,11 +10615,11 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 **Le voisin :** « Prendre un café... »
 
-**Le voisin et Joey:** « La nuit noire a disparu... »
+**Le voisin et Joey :** « La nuit noire a disparu... »
 
 **Le voisin :** A demain matin.
 
-**Joey :** (joyeux) D'accord 
+**Joey :** (joyeux) D'accord
 
 ### FIN
 
@@ -11109,7 +11109,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 **Phoebe :** C'est quoi ?
 
-**Joey :** (parle toujours aussi mal ) C'est ce qu'ils m'ont filé... pour que j'arrête de ronfler.
+**Joey :** (parle toujours aussi mal) C'est ce qu'ils m'ont filé... pour que j'arrête de ronfler.
 
 **Monica :** Et là, t'es en train de dormir ? Sinon, t'as pas à le mettre.
 
@@ -11399,7 +11399,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 ### [Retour dans l'appartement, les autres chantent pendant que Ross et Rachel essayent de dégager le chaton de l'épaule de Ross]
 
-**Monica, Joey et Phoebe:** (chantent) I'm on top of the world, looking down on creation and the only explanation I can find...
+**Monica, Joey et Phoebe :** (chantent) I'm on top of the world, looking down on creation and the only explanation I can find...
 
 ### [Flashback : dans la laverie automatique, Rachel se bat avec une femme pour avoir un chariot]
 
@@ -12093,7 +12093,7 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 **Joey :** oh oh ! (retourne le tee-shirt et dans le dos est inscrit : « Best Man Joey Tribbiani » avec une grande photo de lui)
 
-**Chandler :**(tape encore sur la bouteille) Pour le rôle de garçon d'honneur, j'accepte encore les candidatures. (s'adresse à la strip-teaseuse) Et pour celui d'épouse aussi.
+**Chandler :** (tape encore sur la bouteille) Pour le rôle de garçon d'honneur, j'accepte encore les candidatures. (s'adresse à la strip-teaseuse) Et pour celui d'épouse aussi.
 
 ### La strip-teaseuse :Super !
 
@@ -12345,7 +12345,7 @@ Traduit par Stéphan Levine et Marie-Laure Fauvart
 
 **Phoebe :** Vous êtes les meilleures. Merci. Oh ! (fait semblant d'avoir une contraction)
 
-**Monica et Rachel:** Quoi ?
+**Monica et Rachel :** Quoi ?
 
 **Phoebe :** C'était une blague. (recommence)
 
@@ -12937,7 +12937,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 ### [Scène : dans la cathédrale, Monica emmène Emily pour lui montrer une surprise]
 
-**Monica :**... où tout le monde connaît ton nom...
+**Monica :** ... où tout le monde connaît ton nom...
 
 **Emily :** Pourquoi m'avoir amenée ici ?
 
@@ -13269,7 +13269,7 @@ Traduit par Laura Cynober et Marie-Laure Fauvart
 
 **Rachel :** Oui ?
 
-**Le passager :** Dites-moi si vous comptez faire ca tout le vol... que je puisse prendre un sédatif... ou vous en glisser un.
+**Le passager :** Dites-moi si vous comptez faire ça tout le vol... que je puisse prendre un sédatif... ou vous en glisser un.
 
 **Rachel :** Je suis un peu surexcitée. Je vais à Londres dire à un garçon que je l'aime.
 
