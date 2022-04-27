@@ -5474,7 +5474,7 @@ Traduit par Laura Cynober
 
 **Guy :** Joli chapeau.
 
-### Monica et Phoebe [en même temps]: Merci.
+Monica et Phoebe [en même temps]: Merci.
 
 ### [Le « type » s'en va]
 
@@ -5502,7 +5502,7 @@ Traduit par Laura Cynober
 
 ### [Scène 1: Hôpital. Le « type » est dans le coma et Monica et Phoebe lui rendent visite]
 
-**Monica :** Pourquoi j'ai fait'woo-hoo' ? J'espérai quoi ? Qu'il se retourne et dise : « Ça me plait, je te veux » ?
+**Monica :** Pourquoi j'ai fait "woo-hoo" ? J'espérai quoi ? Qu'il se retourne et dise : « Ça me plait, je te veux » ?
 
 **Phoebe :** Si on pouvait faire quelque chose. [Elle se penche et lui parles] Salut Comateux. Debout, la chèvre ! Debout !
 
@@ -5516,9 +5516,9 @@ Traduit par Laura Cynober
 
 **Monica :** Okay, c'est un avocat qui enseigne la culture à ses heures. Et- il sait danser !
 
-**Phoebe :** Oh ! C'est le genre de type qui t'écoute quand tu parles qui ne dis pas : « Je comprends, en t'imaginant à poil.
+**Phoebe :** Oh ! C'est le genre de type qui t'écoute quand tu parles qui ne dis pas : « Je comprends », en t'imaginant à poil.
 
-**Monica :** S'il pouvait tous être comme lui.
+**Monica :** S'ils pouvaient tous être comme lui.
 
 **Phoebe :** Eh oui.
 
@@ -5530,11 +5530,11 @@ Traduit par Laura Cynober
 
 **Phoebe :** On se sent un peu responsable.
 
-**Joey :** J'en reviens pas que tu as fait Woowoo. Même moi je ne fais pas « Woowoo.
+**Joey :** J'en reviens pas que tu aies fait Woowoo. Même moi je ne fais pas « Woowoo ».
 
 **Rachel :** Oh, elle arrive ! [Elle se tourne vers la télé]
 
-### Jay Leno (TV): Après la pause, nous parlerons du livre Euphorie déchainée, de Nora Bing ! Profitez-en pour coucher vos enfants !
+**Jay Leno (TV):** Après la pause, nous parlerons du livre Euphorie déchainée, de Nora Bing ! Profitez-en pour coucher vos enfants !
 
 ### [Tout le monde regarde, sauf Chandler]
 
@@ -5560,9 +5560,9 @@ Traduit par Laura Cynober
 
 **Paolo :** Buena sera.
 
-**Rachel :** Oh, salut chérie. [Ils s'embrassent]
+**Rachel :** Oh, salut chéri. [Ils s'embrassent]
 
-**Ross :** Il est rentrer de Rome, le rigatoni ?
+**Ross :** Il est rentré de Rome, le rigatoni ?
 
 **Monica :** Hier soir.
 
@@ -5572,33 +5572,33 @@ Traduit par Laura Cynober
 
 **Paolo :** Ah ! Nora Bing !
 
-### Jay Leno (TV): ... A propos du livre, racontez-nous votre arrestation, à Londres.
+**Jay Leno (TV):** ... A propos du livre, racontez-nous votre arrestation, à Londres.
 
 **Phoebe :** Ta mère, arrêtée ?
 
 **Chandler :** Shhh, voyons comment elle va s'en sortir.
 
-### Mrs. Bing (TV): ... C'est un peu gênant Mais, lorsque j'ai été intime avec un homme
+**Mrs. Bing (TV):** ... C'est un peu gênant Mais, lorsque j'ai été intime avec un homme
 
 **Chandler :** En quoi ça la gène ?
 
 **Tous :** Shhh.
 
-### Mrs. Bing (TV): ... J'ai une envie pressante de poulet chop suey.
+**Mrs. Bing (TV):** ... J'ai une envie pressante de poulet chop suey.
 
 **Chandler :** TU EN DIS TROP !
 
-### Jay Leno (TV): D'accord, comment se passe la tournée de votre livre ?
+**Jay Leno (TV):** D'accord, comment se passe la tournée de votre livre ?
 
-### Mrs. Bing (TV): Oh, bien. Je pars demain pour New York, que je hais ! Mais je vais voir mon fils que j'adore !
+**Mrs. Bing (TV):** Oh, bien. Je pars demain pour New York, que je hais ! Mais je vais voir mon fils que j'adore !
 
-**tous :** Ooooohhhh !
+**Tous :** Ooooohhhh !
 
 **Chandler :** Originale, la technique ! La plupart des mères téléphonent.
 
-### Jay Leno (TV): Ne le prenez pas mal mais je ne vous imagine pas mère. Je ne veux pas dire que
+**Jay Leno (TV):** Ne le prenez pas mal mais je ne vous imagine pas mère. Je ne veux pas dire que
 
-### Mrs. Bing (TV): Je suis une mère fabuleuse ! Je lui ai donné ses premières capotes.
+**Mrs. Bing (TV):** Je suis une mère fabuleuse ! Je lui ai donné ses premières capotes.
 
 ### [Le groupe se tourne vers Chandler]
 
@@ -5630,9 +5630,9 @@ Traduit par Laura Cynober
 
 **Ross :** [Entrant] C'est quoi cet endroit ? Ça ne m'étonne pas de vous !
 
-**Mrs. Bing :** Tais-toi ! C'est sympa ! Embrasse-moi [Ross et Nora se font une accolade pus s'assoie] Prêts pour la Tequila ?
+**Mrs. Bing :** Tais-toi ! C'est sympa ! Embrasse-moi [Ross et Nora se font une accolade puis s'assoie] Prêts pour la Tequila ?
 
-**Chandler :** Moi oui ! .
+**Chandler :** Moi oui !
 
 **Mrs. Bing :** Vous faites cul sec ?
 
@@ -5666,7 +5666,7 @@ Traduit par Laura Cynober
 
 **Mrs. Bing :** Pas de messages pour la chambre 226 ?
 
-### [Ross sort des toilettes pour les'Chicas']
+### [Ross sort des toilettes pour les "Chicas"]
 
 **Mrs. Bing :** Ça va, bel étalon ?
 
@@ -5688,7 +5688,7 @@ Traduit par Laura Cynober
 
 **Ross :** La fille sur la couverture avec de gros nénés ?
 
-**Mrs. Bing :** Non. Je sais inventer des homes dont les femmes sont amoureuses. Je ne pourrai pas vendre un Paolo. C'est un personnage secondaire. C'est juste un personnage que tu finiras par éliminer.
+**Mrs. Bing :** Non. Je sais inventer des hommes dont les femmes sont amoureuses. Je ne pourrai pas vendre un Paolo. C'est un personnage secondaire. C'est juste un personnage que tu finiras par éliminer.
 
 **Ross :** Mais quand ?
 
@@ -5704,7 +5704,7 @@ Traduit par Laura Cynober
 
 **Ross :** C'est ça.
 
-**Mrs. Bing :** tous va s'arranger, crois-moi.
+**Mrs. Bing :** tout va s'arranger, crois-moi.
 
 ### [Elle l'embrasse sur la joue]
 
@@ -5756,13 +5756,13 @@ Traduit par Laura Cynober
 
 **Joey :** Ross, comment t'as pu ?
 
-**Ross :** J'en sais rien, c'est pas une maman ordinaire Elle est sexy
+**Ross :** J'en sais rien, c'est pas une maman ordinaire, elle est sexy
 
 **Joey :** Tu trouves pas ma mère sexy ?
 
 **Ross :** Pas de la même manière...
 
-**Joey :** Je te signale que Gloria Tribianni ètait une très belle femme. C'est pas facile de mettre au monde 7 enfants. (Joey s'est oublié dans le compte
+**Joey :** Je te signale que Gloria Tribianni ètait une très belle femme. C'est pas facile de mettre au monde 7 enfants. (Joey s'est oublié dans le compte)
 
 **Ross :** Okay, on est sur une pente savonneuse...
 
@@ -5778,7 +5778,7 @@ Traduit par Laura Cynober
 
 **Joey :** Il a pas laissé sa taille de poignée !
 
-**Ross :** Il a pas pris ces lunettes !
+**Ross :** Il a pas pris ses lunettes !
 
 **Rachel :** Vous avez du pain sur la planche.
 
@@ -5792,7 +5792,7 @@ Traduit par Laura Cynober
 
 **Ross :** Ils m'attendaient ?
 
-### [Joey et Ross go rentrent dans l'appartement de Monica et Rachel]
+### [Joey et Ross rentrent dans l'appartement de Monica et Rachel]
 
 **Joey :** Tu vas lui dire ?
 
@@ -5850,7 +5850,7 @@ Traduit par Laura Cynober
 
 **Ross :** Merci, t'es un frère.
 
-**Chandler :** [A Ross] J'y crois pas ! Tu ^pensais à quoi ?
+**Chandler :** [A Ross] J'y crois pas ! Tu pensais à quoi ?
 
 **Ross :** A rien Je ne sais pas
 
@@ -5858,7 +5858,7 @@ Traduit par Laura Cynober
 
 **Ross :** Je sais
 
-**Chandler :** J'arrive pas à croire que tu es fait ça. [Il marche vers la porte]
+**Chandler :** J'arrive pas à croire que tu aies fait ça. [Il marche vers la porte]
 
 **Ross :** Chandler
 
@@ -5920,15 +5920,17 @@ Traduit par Laura Cynober
 
 **Phoebe :** Merci. Je commencerai par une chanson sur un homme qui est devenu très important pour moi. [Monica lui jette un regard] Bon. [Chantant:]
 
-### Même dans ton profond sommeil Je t'appartiens,
+Même dans ton profond sommeil Je t'appartiens,
 
-### Tant que ton cerveau carbure. Je suis là pour te tenir la main.
+Tant que ton cerveau carbure. Je suis là pour te tenir la main.
 
-### Je viens à peine de te rencontrer,
+Je viens à peine de te rencontrer,
 
-### Mais il y a une chose que je dois avouer...
+Mais il y a une chose que je dois avouer...
 
-### [Elle voit Monica partir] Okay, merci beaucoup, je dois faire une pause ! [Elle s'enfuie, en donnant un coup dans le micro]
+[Elle voit Monica partir]
+
+Okay, merci beaucoup, je dois faire une pause ! [Elle s'enfuie, en donnant un coup dans le micro]
 
 **Rachel :** [Dans le micro] Okay, c'était Phoebe Buffay. Woo !
 
@@ -6146,7 +6148,7 @@ Traduit par Pascale Joseph
 
 ### [Ross fait des mots croisés, il commence à fredonner le générique de la série américaine "The Odd Couple". Chandler s'y met aussi, suivi de Monica et de Phoebe, et enfin tout le groupe. Ross commence ensuite à fredonner le générique de "Jeannie de mes rêves"]
 
-**Chandler :** Non, non, non, non, ça suffit maintenant.
+**Chandler :** Non, non, non, non, c'est fini, merci bonsoir.
 
 ### GENERIQUE DE DEBUT
 
@@ -6258,9 +6260,9 @@ Traduit par Pascale Joseph
 
 ### [l'interphone sonne]
 
-**Carol :** Salut ?
+**Carol :** Oui j'écoute ?
 
-**Ross :** [à l'interphone] Euh, non, je ne veux pas savoir. [Carol et Susan rient]
+**Ross :** [à l'interphone] Euh, non, ben ça fait rien je ne veux pas savoir. [Carol et Susan rient]
 
 ### [Scène: Appartement de Chandler et Joey. Joey et Chandler mangent les lasagnes sur leurs genoux]
 
@@ -6366,7 +6368,9 @@ Traduit par Pascale Joseph
 
 **Monica :** Que s'est-il passé ?
 
-**Phoebe :** Il est venu se faire masser. Et tout allait bien, jusqu 'à ce que...
+**Phoebe :** Il est venu se faire masser. Et tout allait bien, jusqu'à ce que...
+
+### [Flash-back: Paolo, allongé sur la table de massage, il pose ses mains sur les fesses de Phoebe]
 
 **Joey Et Chandler :** Oh là là !
 
@@ -6374,13 +6378,11 @@ Traduit par Pascale Joseph
 
 **Phoebe :** Absolument.
 
-### [Flash-back: Paolo, allongé sur la table de massage, il pose ses mains sur les fesses de Phoebe]
-
 **Phoebe :** Et tout à coup, le problème, c'était plus ses mains... Les boy-scouts auraient pu camper dessous.
 
-**Les autres :** " Ouh"
+**Les autres :** "Ouh"
 
-**Rachel :** " Ouh" , quoi ?
+**Rachel :** "Ouh" , quoi ?
 
 **Chandler :** Ouh-ma Thurman.
 
@@ -6400,7 +6402,7 @@ Traduit par Pascale Joseph
 
 ### [Scène: Magasin, Chandler et Joey choisissent une table]
 
-**Joey :** Décide-toi ! Choisis-en une ! (il point son doigt sur une autre table) Et celle-là ?
+**Joey :** Décide-toi ! Choisis-en une ! (il pointe son doigt sur une autre table) Et celle-là ?
 
 **Chandler :** C'est des meubles de jardin !
 
@@ -6410,7 +6412,7 @@ Traduit par Pascale Joseph
 
 **Joey :** Et les oiseaux ?
 
-**Chandler :** Les oiseaux, ça dit pas :"Venez donc manger un morceau ! " Choisis, toi.
+**Chandler :** Les oiseaux, ça dit pas :"Venez donc manger un morceau !". Choisis, toi.
 
 **Joey :** Les coccinelles ?
 
@@ -6420,7 +6422,7 @@ Traduit par Pascale Joseph
 
 **Chandler :** Pas comme ça. Kip aimerait les oiseaux. (Joey lui jette un regard méchant)
 
-### [Scène: Magasin, Chandler et Joey choisissent une table]
+### [Scène: Appartement des filles, Rachel fait une valise. Phoebe entre.]
 
 **Phoebe :** Tu déménages ?
 
@@ -6430,7 +6432,7 @@ Traduit par Pascale Joseph
 
 **Rachel :** Oui, mais juste une seconde. Paolo va arriver.
 
-**Phoebe :** Ça fait pas longtemps qu'on se connaît. Je veux que tu saches trois choses. Un : mes amis sont ce qui compte le plus dans ma vie. Deux : je ne mens jamais. Et trois : je fais les meilleurs cookies aux flocons d'avoine.(elle lui offre un cookie)
+**Phoebe :** Ça fait pas longtemps qu'on se connaît. Je veux que tu saches trois choses. Un : mes amis sont ce qui compte le plus dans ma vie. Deux : je ne mens jamais. Et trois : je fais les meilleurs cookies aux flocons d'avoine. (elle lui offre un cookie)
 
 **Rachel :** Merci ! Je les avais pas goûtés !
 
