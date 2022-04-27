@@ -6914,7 +6914,7 @@ Traduit par Laura Cynober
 
 ### [Scène: appartement de Joey et Chandler.]
 
-### Chandler Bing, c'est l'heure de voir ton machin.
+**Rachel :** Chandler Bing, c'est l'heure de voir ton machin.
 
 ### [Rachel entre dans la salle de bain et tire le rideau de douche. Joey est sous la douche, ils crient tous les deux !]
 
@@ -7202,9 +7202,7 @@ Transcrit par Eric Aasen
 
 **Chandler :** C'est bon.
 
-**Janice :** T'es sûr ? Tu pourrais en faire des marionnettes.
-
-### Et t'en servir dans ta " Petite maison des horreurs" .
+**Janice :** T'es sûr ? Tu pourrais en faire des marionnettes. Et t'en servir dans ta " Petite maison des horreurs" .
 
 ### [Lorraine murmure quelque chose à l'oreille de Joey.]
 
@@ -7250,9 +7248,7 @@ Transcrit par Eric Aasen
 
 **Janice :** Je veux bien un verre.
 
-**Chandler :** Tu l'as. Ma brave dame ! Une bouteille de champagne qui casque.
-
-### Chacun ! Et un Rob Roy. J'ai toujours voulu savoir.
+**Chandler :** Tu l'as. Ma brave dame ! Une bouteille de champagne qui casque. Chacun ! Et un Rob Roy. J'ai toujours voulu savoir.
 
 ### [Scène: La chambre de Chandler. Il se réveil et voit la main de quelqu'un d'autre sur son torse. Il se retourne et voit Janice est à ses côtés !]
 
@@ -7458,9 +7454,7 @@ Transcrit par Eric Aasen
 
 **Carol :** Je sais.
 
-**Ross :** Tu sais ? Voilà une idée dingue ! Si on se donnait une autre chance ?
-
-### Je t'arrête. Tu es lesbienne. Que dirais-tu qu'on laisse ça de côté pour le moment ? Qu'on y enfonce une punaise. On s'entend super bien. Tu peux pas le nier ! Et t'es enceinte de moi ! Que dire de mieux ? Tu dis toujours ça. Je vais te dire quelque chose. Je t'aime.
+**Ross :** Tu sais ? Voilà une idée dingue ! Si on se donnait une autre chance ? Je t'arrête. Tu es lesbienne. Que dirais-tu qu'on laisse ça de côté pour le moment ? Qu'on y enfonce une punaise. On s'entend super bien. Tu peux pas le nier ! Et t'es enceinte de moi ! Que dire de mieux ? Tu dis toujours ça. Je vais te dire quelque chose. Je t'aime.
 
 ### [ils s'embrassent.]
 
@@ -9514,9 +9508,7 @@ Traduit par Pascale Joseph
 
 **Phoebe :** Joey, ta mise ?
 
-**Joey :** Je me couche comme une pute à deux sous, frappée au ventre... par un gros mec au visage purulent. [les filles le regardent, confuses]
-
-### Sans moi !
+**Joey :** Je me couche comme une pute à deux sous, frappée au ventre... par un gros mec au visage purulent. [les filles le regardent, confuses] Sans moi !
 
 **Ross :** Moi, au contraire !
 
@@ -9556,9 +9548,7 @@ Traduit par Pascale Joseph
 
 ### [Rachel marche vers la cuisine, parlant au téléphone]
 
-**Rachel :** Barbara ! Comment allez-vous ?[une pause] Non, je comprends.
-
-### Je vous en prie, c'est rien. Ne croyez pas ça ! Mais si quelque chose se libère... Alo ? [elle raccroche le téléphone, très déprimée]
+**Rachel :** Barbara ! Comment allez-vous ?[une pause] Non, je comprends. Je vous en prie, c'est rien. Ne croyez pas ça ! Mais si quelque chose se libère... Alo ? [elle raccroche le téléphone, très déprimée]
 
 ### [Rachel revient et s'assoit. Les autres ne savent pas quoi dire.]
 
@@ -9950,7 +9940,7 @@ Traduit par Pascale Joseph
 
 **Rachel :** [s'adresse à l'agent] Merci d'être venue.
 
-### Louisa (l'agent) : Vous avez appelé pour un singe ?
+**Louisa (l'agent) :** Vous avez appelé pour un singe ?
 
 **Rachel :** Vous savez quoi ? C'est un énorme malentendu ! [Ross passe son bras autour d'elle et ils font croire à Louisa qu'ils s'aiment.]
 
@@ -10018,7 +10008,7 @@ Traduit par Pascale Joseph
 
 ### [Ils frappent à une porte, une charmante jeune femme qui semble avoir très chaud vient à la porte.]
 
-### Fille #1 : Vous désirez ?
+**Fille #1 :** Vous désirez ?
 
 ### [Chandler et Joey sont surpris par la beauté de la demoiselle.]
 
@@ -10028,19 +10018,19 @@ Traduit par Pascale Joseph
 
 **Chandler :** Vous en avez vu un ?
 
-### Fille #1 : Je n'ai pas vu de singe. Vous êtes pros en radiateurs ? On meurt de chaud ici.
+**Fille #1 :** Je n'ai pas vu de singe. Vous êtes pros en radiateurs ? On meurt de chaud ici.
 
 **Joey :** Oui. Vous avez essayé de tourner le bouton dans l'autre sens ?
 
-### Fille #1 : Oui !
+**Fille #1 :** Oui !
 
 **Joey :** Alors, non.
 
 ### [Une autre jeune et jolie femme vient à la porte et parle à son amie.]
 
-### Fille #2 : Goûte ça. Tu trouves qu'il y a trop de rhum ?
+**Fille #2 :** Goûte ça. Tu trouves qu'il y a trop de rhum ?
 
-### Fille #1 : Une seconde. [à Joey et Chandler] Bonne chance, pour votre singe. [Elle ferme la porte et Chandler l'arrête.]
+**Fille #1 :** Une seconde. [à Joey et Chandler] Bonne chance, pour votre singe. [Elle ferme la porte et Chandler l'arrête.]
 
 **Chandler :** Attendez ! On ne connaît peut-être pas les radiateurs mais on a une certaine expertise en matière de chaud et froid.
 
@@ -10650,7 +10640,7 @@ Traduit par Laura Cynober
 
 **Bernice :** [à l'interphone] Dr Farber, on a une urgence. Jason s 'étouffe avec son appareil dentaire.
 
-### Barry [répond] J'arrive. [à Mindy] Ne bouge pas, s'il te plaît. Je reviens tout de suite.
+**Barry :** [répond] J'arrive. [à Mindy] Ne bouge pas, s'il te plaît. Je reviens tout de suite.
 
 **Rachel :** On sera là. [Il sort.] A te détester ! [à Mindy] T'as vu comme il transpirait ? Si je squatte le ballon, déboule sur le terrain et file quelques coups, ça fait un bien fou !
 
@@ -10912,7 +10902,7 @@ Traduit par Laura Cynober
 
 **Monica :** Oh. Monica ! Et moi, c'est Mon... ana.
 
-### Woman [fausse Monica]: Monana ?
+**Woman [fausse Monica]:** Monana ?
 
 **Monica :** Oui. C'est hollandais.
 
@@ -11720,9 +11710,7 @@ Traduit par Pascale Joseph
 
 **Joey :** Et pour André ?
 
-**Ross :** J'ai cru reconnaître notre cousin Nathan ce matin.
-
-### Franchement, j'avais pas besoin d'en savoir tant.
+**Ross :** J'ai cru reconnaître notre cousin Nathan ce matin. Franchement, j'avais pas besoin d'en savoir tant.
 
 ### [Ethan entre.]
 
@@ -11956,9 +11944,7 @@ Transcrit par Eric Aasen
 
 **Susan :** (regarde la sienne) Quartz suisse !
 
-**Carol :** Je peux boire quelque chose ?
-
-### Des glaçons. Il y en a chez l'infirmière.
+**Carol :** Je peux boire quelque chose ? Des glaçons. Il y en a chez l'infirmière.
 
 **Ross :** J'y vais !
 
@@ -12390,7 +12376,7 @@ Transcrit par Eric Aasen
 
 ### (Ross et Susan partent en courant rejoindre Carol et laisse Phoebe, seule dans son conduit avec ses pieds qui dépassent)
 
-### L'employé : (s'adresse à Ross et Susan) Attendez ! Vous oubliez vos jambes !
+**L'employé :** (s'adresse à Ross et Susan) Attendez ! Vous oubliez vos jambes !
 
 ### [Scène : dans la chambre de Carol, Ross et Susan reviennent]
 
@@ -12850,7 +12836,7 @@ Traduit par Pascale Joseph
 
 **Ross :** (parle en chinois)
 
-### L'hotesse :
+**L'hotesse :**
 
 **Ross :** Ni-chou chi-ma ! (entre dans le couloir pour l'embarquement)
 
@@ -12860,35 +12846,35 @@ Traduit par Pascale Joseph
 
 ### (L'hôtesse empêche Rachel de passer)
 
-### L'hotesse : Bonjour.
+**L'hotesse :** Bonjour.
 
 **Rachel :** Bonjour.
 
-### L'hotesse : Votre ticket ?
+**L'hotesse :** Votre ticket ?
 
 **Rachel :** J'en ai pas. Je dois voir mon ami.
 
-### L'hotesse : Vous ne pouvez pas monter sans ticket d'embarquement.
+**L'hotesse :** Vous ne pouvez pas monter sans ticket d'embarquement.
 
 **Rachel :** Je sais, mais il vient de passer. Il a une veste bleue.
 
-### L'hotesse : C'est le règlement fédéral.
+**L'hotesse :** C'est le règlement fédéral.
 
 **Rachel :** Alors, pourriez-vous lui donner un message ? C'est très important.
 
-### L'hotesse : Bien. Quel est le message ?
+**L'hotesse :** Bien. Quel est le message ?
 
 **Rachel :** Je ne sais pas.
 
 ### [Scène : dans le couloir, l'hotesse crie après Ross, mais elle se trompe d'homme : elle parle à un vieux monsieur qui est avec sa femme, et qui porte lui aussi une veste bleue]
 
-### L'hotesse : Excusez-moi, monsieur. Un message pour vous.
+**L'hotesse :** Excusez-moi, monsieur. Un message pour vous.
 
-### L'homme : (confus) Quoi ?
+**L'homme :** (confus) Quoi ?
 
-### L'hotesse : De Rachel. Elle a adoré le cadeau et elle attend votre retour.
+**L'hotesse :** De Rachel. Elle a adoré le cadeau et elle attend votre retour.
 
-### L'homme : (s'adresse à sa femme) Toby, bon sang ! J'ignore de quoi elle parle. Il n'y a pas de Rachel. Ne me fais pas ces yeux.
+**L'homme :** (s'adresse à sa femme) Toby, bon sang ! J'ignore de quoi elle parle. Il n'y a pas de Rachel. Ne me fais pas ces yeux.
 
 ### [Scène : chez Chandler et Joey, dans la chambre de Joey, Joey et Melanie viennent de conclure]
 

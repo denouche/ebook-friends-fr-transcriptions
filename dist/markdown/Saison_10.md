@@ -11845,11 +11845,11 @@ Traduit par Guillaume Martin
 
 ### [Scène : La porte d'embarquement. Rachel se dirige vers l'agent et lui tend son passeport.]
 
-### L'agent : (Avec un accent français) Madame, votre passeport s'il vous plaît.
+**L'agent :** (Avec un accent français) Madame, votre passeport s'il vous plaît.
 
 **Rachel :** Oh, mon Dieu, j'avais peur de ne pas me souvenir du français que j'ai appris au lycée. Mais j'ai compris tous les mots que vous venez de dire !
 
-### L'agent : Votre ticket d'embarquement, s'il vous plaît.
+**L'agent :** Votre ticket d'embarquement, s'il vous plaît.
 
 **Rachel :** Oh. Bien sûr...
 
@@ -11857,11 +11857,11 @@ Traduit par Guillaume Martin
 
 **Rachel :** Oh... Zut... je l'avais... Je n'arrive pas à le croire.
 
-### L'agent : Madame, si vous n'avez pas votre...
+**L'agent :** Madame, si vous n'avez pas votre...
 
 **Rachel :** Je l'ai, je l'ai, je l'ai !! Je ne l'ai pas mais je me souviens que j'avais la place 32C. Parce que c'est la taille de mon soutien-gorge.
 
-### L'agent : Madame, vous devez avoir votre ticket...
+**L'agent :** Madame, vous devez avoir votre ticket...
 
 **Rachel :** Ok, d'accord ! mais si j'avais la 36D, nous n'aurions pas eu ce problème !
 
@@ -11875,7 +11875,7 @@ Traduit par Guillaume Martin
 
 **Phoebe :** C'est notre lune de miel.
 
-### L'hôtesse : Et la destination ?
+**L'hôtesse :** Et la destination ?
 
 **Ross :** Je m'en fiche, la moins chère !
 
@@ -12027,15 +12027,15 @@ Traduit par Guillaume Martin
 
 ### (Rachel raccroche.)
 
-### Passager n°1 : Qui c'était ?
+**Passager n°1 :** Qui c'était ?
 
 **Rachel :** C'était ma copine cinglée qui m'a dit de descendre parce qu'elle a sentit qu'il y a un problème avec la phalange gauche
 
-### Passager n°1 : C'est pas bon !
+**Passager n°1 :** C'est pas bon !
 
 **Rachel :** Je ne m'inquiète pas. Elle a toujours ce genre d'idée et elle a souvent tort.
 
-### Passager n°1 : Mais parfois, elle a raison ?
+**Passager n°1 :** Mais parfois, elle a raison ?
 
 **Rachel :** Bien...
 
@@ -12043,31 +12043,31 @@ Traduit par Guillaume Martin
 
 **Rachel :** Qu'est-ce que vous faites ?
 
-### Passager n°1 : Je ne peux pas prendre cet avion maintenant.
+**Passager n°1 :** Je ne peux pas prendre cet avion maintenant.
 
 **Hôtesse :** Pardon, monsieur. Vous allez où ?
 
-### Passager n°1 : Je dois sortir de l'avion. Sa copine sent qu'il y a un problème avec la phalange gauche.
+**Passager n°1 :** Je dois sortir de l'avion. Sa copine sent qu'il y a un problème avec la phalange gauche.
 
 **Rachel :** Je peux avoir des cacahuètes ?
 
-### Passager n°2 : C'est quoi le problème de l'avion ?
+**Passager n°2 :** C'est quoi le problème de l'avion ?
 
 **Hôtesse :** Il n'y a pas de problème !
 
-### Passager n°1 : La phalange gauche...
+**Passager n°1 :** La phalange gauche...
 
 **Hôtesse :** Il n'y a pas de phalange.
 
-### Passager n°1 : Oh, mon dieu ! Cet avion n'a même pas de phalanges !
+**Passager n°1 :** Oh, mon dieu ! Cet avion n'a même pas de phalanges !
 
-### Passager n°2 : Je ne vais pas rester.
+**Passager n°2 :** Je ne vais pas rester.
 
 **Hôtesse :** S'il vous plaît, asseyez-vous !
 
-### Passager n°3 : Qu'est-ce qu'il se passe ?
+**Passager n°3 :** Qu'est-ce qu'il se passe ?
 
-### Passager n°1 : On sort, il n'y a pas de phalanges !
+**Passager n°1 :** On sort, il n'y a pas de phalanges !
 
 ### (Ils sortent tous de l'avion.)
 
@@ -12127,11 +12127,11 @@ Traduit par Guillaume Martin
 
 ### [Scène : La porte d'embarquement. Les passagers font la queue et s'apprêtent à embarquer à nouveau.]
 
-### L'agent : Je vous assure, madame, que l'avion est en bon état.
+**L'agent :** Je vous assure, madame, que l'avion est en bon état.
 
-### Passager n°2 : Et vous avez réparé les phalanges ?
+**Passager n°2 :** Et vous avez réparé les phalanges ?
 
-### L'agent : Oui, les phalanges sont réparées. En fait, on a mis des phalanges en plus dans l'avion au cas où.
+**L'agent :** Oui, les phalanges sont réparées. En fait, on a mis des phalanges en plus dans l'avion au cas où.
 
 ### (Rachel s'approche. On voit arriver Ross et Phoebe en courant.)
 
@@ -12145,11 +12145,11 @@ Traduit par Guillaume Martin
 
 **Ross :** Rachel ! Rachel !
 
-### L'agent : Vous avez des billets ?
+**L'agent :** Vous avez des billets ?
 
 **Ross :** Je dois parler à quelqu'un.
 
-### L'agent : Vous ne pouvez pas passer sans billets.
+**L'agent :** Vous ne pouvez pas passer sans billets.
 
 **Ross :** Non, mais, je sais...
 
@@ -12177,11 +12177,11 @@ Traduit par Guillaume Martin
 
 **Ross :** Je n'aurais pas du attendre maintenant pour te le dire mais... c'était idiot, d'accord ? Pardon. Mais je te le dis maintenant. Je t'aime. Ne prends pas cet avion !
 
-### L'agent : Vous montez dans l'avion ?
+**L'agent :** Vous montez dans l'avion ?
 
 **Ross :** Je sais que tu m'aimes. Je le sais.
 
-### L'agent : Mademoiselle ?
+**L'agent :** Mademoiselle ?
 
 **Rachel :** Je dois prendre l'avion.
 

@@ -637,7 +637,7 @@ Traduit par Guillaume Martin
 
 **Ross :** Quand tu as cru que Joey faisait sa demande, as-tu répondu oui ?
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Devant le placard, des gens font l'amour dedans et M. Geller essaye de leur donner des brochures.]
 
@@ -1223,7 +1223,7 @@ Traduit par Guillaume Martin
 
 **Monica :** (arrive en courant de la cuisine et va dans la chambre) J'arrive, j'arrive j'arrive ! ! !
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Central Perk, Joey et Ross sont assis à une des tables.]
 
@@ -1831,7 +1831,7 @@ Traduit par Guillaume Martin
 
 ### (Joey ouvre la porte et emmène la valise de Chandler dans son propre appartement.)
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : L'aéroport.]
 
@@ -2301,7 +2301,7 @@ Traduit par Guillaume Martin
 
 ### (Ils s'étreignent.)
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Phoebe est au Central Perk avec Joey. Elle lui raconte ce que Ross lui a dit au départ.]
 
@@ -2843,7 +2843,7 @@ Traduit par Guillaume Martin
 
 **Joey :** Non, il n'y a plus que moi. (Toute la nourriture est arrivée.) Dîner pour six pour moi seul. Vous allez voir quelque chose de spécial.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : La scène se poursuit. Joey a tout mangé.]
 
@@ -4013,7 +4013,7 @@ Traduit par Guillaume Martin
 
 **Phoebe :** J'ai passé un moment formidable. (Avec accent) C'était génial. Et il y a un truc qui fait riche : 13 salles de bain dans cette maison... et j'ai vomi dans le placard...
 
-### Closing Credits.
+### Générique de fin.
 
 ### [Scène : Chez Ross et Rachel. Emma est dans son lit. Rachel et Ross sont en train de danser et de rapper pour elle.]
 
@@ -4669,7 +4669,7 @@ Traduit par Guillaume Martin
 
 **Chandler :** Oh, non non non. Je vais m'en occuper. Je suis super compétent et totalement responsable et au quatrième rang pour élever Emma. J'arrive Emma. Laisse-moi le temps de prendre le sac de couches. (Il tape dans la boite de vaisselle de Chine.) Comment savoir ? Si ça se trouve, je serais le premier à mourir.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Chandler range les assiettes cassées dans une boite. Il met tellement de ruban adhésif sur la boite qu'il n'y a plus un seul coin de cette boite qui n'en soit pas recouvert. Il lutte même avec le dérouleur de ruban adhésif.]
 

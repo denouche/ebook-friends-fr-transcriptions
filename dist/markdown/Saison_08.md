@@ -1875,7 +1875,7 @@ Traduit par Guillaume Martin
 
 **Ross :** Oui, c'est notre enfant.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Chez Joey et Rachel, Joey et Phoebe sont là quand Rachel et Ross reviennent de chez le docteur.]
 
@@ -5055,7 +5055,7 @@ Traduit par Gabriela Horber
 
 **Monica :** A vos ordres, commandant. (Elle balance sa chaussure qui atterrit dans la cuisine et fait tomber un truc, mais elle continue.)
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Chez Joey et Rachel, Rachel se fait hurler dessus pas son père au téléphone et cela doit durer depuis un certain temps puisque Rachel tient le combiné à distance et lit un magasine.]
 
@@ -6259,7 +6259,7 @@ Traduit par Guillaume Martin
 
 **Rachel :** Non ! Sérieusement ! Ça va pas bien ? !
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène: Central Perk, Phoebe et Ross sont là.]
 
@@ -8483,7 +8483,7 @@ Traduit par Guillaume Martin
 
 **Joey :** Tu plaisantes ? Je vais bien ! Je, euh, je vais mieux que bien. Je vais très bien. Et maintenant qu'elle est partie, je peux faire tout ce que je ne pouvais pas faire auparavant. Comme euh, me balader à poils à nouveau. Je peux regarder des pornos dans le salon. Hein ? C'est bien pour moi. C'est comme être tranquille, enfin seul. Je suis euh, un loup solitaire. Un solitaire. Seul. Pour toujours. Que doit faire un loup pour ne pas se sentir seul ? (Chandler va vers lui et le prend dans ses bras.)
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène: L'appartement de Phoebe, Phoebe masse Monica.]
 
@@ -9049,7 +9049,7 @@ Traduit par Guillaume Martin
 
 **Joey :** C'est Rachel.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène: Chez Ross et Rachel. Rachel est devant la télé. Elle tient une vidéo.]
 
@@ -9557,7 +9557,7 @@ Traduit par Guillaume Martin
 
 **Rachel :** Oui, elle était très bonne.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Le restaurant, Joey et Rachel s'étreignent toujours tandis qu'un serveur s'approche pour parler au serveur ennuyeux de tout à l'heure qui regarde la scène.]
 
@@ -10067,7 +10067,7 @@ Traduit par Guillaume Martin
 
 **Rachel :** Ma gynéco a essayé de me tuer.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Chez Ross et Rachel, Ross commande quelque chose au téléphone à partir d'un catalogue.]
 
@@ -11253,7 +11253,7 @@ Traduit par Guillaume Martin
 
 **Joey :** Oh, bien. (La journaliste part.) J'y étais presque !
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène: Chez Monica et Chandler, ils lisent l'interview de Joey.]
 
@@ -11883,7 +11883,7 @@ Traduit par Guillaume Martin
 
 **Monica :** (Quand Phoebe se retourne, Monica court dans le couloir pour rattraper Mme Green.) Mme Green ! Je suis désolée ! ! Je vous demande pardon pour—(Elle trébuche et tombe dans les escaliers.) (Pause) Bon, je me suis mordu la langue, mais je reste désolée.
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène : Chez Ross et Rachel, Ross aide Rachel à préparer la venue de l'enfant.]
 
@@ -12489,7 +12489,7 @@ Traduit par Gabriela Horber
 
 **Rachel :** C'est ça ! (Elle va vers les toilettes.)
 
-### Closing Credits
+### Générique de fin
 
 ### [Scène: L'école de cuisine, Joey et Monica sont dans le hall.]
 
